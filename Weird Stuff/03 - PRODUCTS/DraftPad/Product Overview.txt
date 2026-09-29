@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 DRAFTPAD — PRODUCT OVERVIEW
 
 Version: 1.1
 Status: RETIRED / HISTORICAL RECORD
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 
 STATUS
@@ -11,7 +11,7 @@ STATUS
 DraftPad is no longer treated as an active product. Its documentation stays here because the project existed and its history may still matter.
 
 [MANDATORY]
-DraftPad must not be described as an active or supported product unless Weird Stuff formally changes its lifecycle status.
+DraftPad must not be described as an active or supported product unless North Assembly formally changes its lifecycle status.
 
 PUBLIC COMMUNICATION
 
