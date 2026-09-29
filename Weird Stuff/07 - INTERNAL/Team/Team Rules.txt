@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 TEAM RULES
 
 Version: 1.1
@@ -7,7 +7,7 @@ Classification: INTERNAL
 
 PURPOSE
 
-These rules set the basic expectations for people working with Weird Stuff. They are intended to keep responsibilities clear, protect the company and its work, and prevent avoidable problems between team members.
+These rules set the basic expectations for people working with North Assembly. They are intended to keep responsibilities clear, protect the company and its work, and prevent avoidable problems between team members.
 
 1. AUTHORITY AND RESPONSIBILITY
 
@@ -28,7 +28,7 @@ Security incidents and significant operational problems must be escalated throug
 3. ROLE CHANGES AND DEPARTURES
 
 [MANDATORY]
-When a member leaves a role or leaves Weird Stuff, applicable access must be revoked.
+When a member leaves a role or leaves North Assembly, applicable access must be revoked.
 
 [RECOMMENDED]
 Important work should be documented well enough to allow responsibilities to be transferred when necessary.
