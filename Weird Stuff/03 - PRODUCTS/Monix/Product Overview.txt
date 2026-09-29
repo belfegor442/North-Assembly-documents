@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MONIX — PRODUCT OVERVIEW
 
 Version: 1.1
 Status: INTERNAL
-Owner: Weird Stuff
+Owner: North Assembly
 Product: Monix
 Product Category: Software / Digital Tool
 Current Status: ACTIVE DEVELOPMENT
@@ -11,7 +11,7 @@ Last Updated: September 12, 2026
 
 PRODUCT IDENTITY
 
-Monix is a Weird Stuff desktop software project focused on system monitoring, logging, diagnostics, configuration, security-oriented analysis, state handling, and a highly customized visual interface.
+Monix is a North Assembly desktop software project focused on system monitoring, logging, diagnostics, configuration, security-oriented analysis, state handling, and a highly customized visual interface.
 
 The product is intended to bring these functions together without sacrificing the accuracy of the information being shown.
 
@@ -86,7 +86,7 @@ Logging is a core Monix subsystem. It may record system events, application even
 Logs must accurately represent the source and severity of events.
 
 [MANDATORY]
-Security-sensitive information must be handled according to the Weird Stuff Security Policy.
+Security-sensitive information must be handled according to the North Assembly Security Policy.
 
 TASKS AND PROCESSES
 
@@ -236,7 +236,7 @@ Update packages must come from authorized mechanisms and use appropriate integri
 
 PRIVACY AND TELEMETRY
 
-Monix must follow the applicable Weird Stuff Privacy Policy when processing personal data.
+Monix must follow the applicable North Assembly Privacy Policy when processing personal data.
 
 [MANDATORY]
 Monix must not intentionally collect personal data unrelated to its documented functionality.
@@ -269,10 +269,10 @@ Confirmed product limitations.
 
 DOCUMENT RELATIONSHIPS
 
-Monix is subject to the relevant Weird Stuff documentation, including the Manual Corporativo, Security Policy, Privacy Policy, Intellectual Property Policy, Acceptable Use Policy, Terms and Conditions, and Cookie Policy where applicable.
+Monix is subject to the relevant North Assembly documentation, including the Manual Corporativo, Security Policy, Privacy Policy, Intellectual Property Policy, Acceptable Use Policy, Terms and Conditions, and Cookie Policy where applicable.
 
 [MANDATORY]
-Monix development, testing, security, version control, release management, intellectual property, and documentation must follow the applicable Weird Stuff requirements.
+Monix development, testing, security, version control, release management, intellectual property, and documentation must follow the applicable North Assembly requirements.
 
 DOCUMENT CONTROL
 
@@ -286,7 +286,7 @@ Status:
 INTERNAL
 
 Owner:
-Weird Stuff
+North Assembly
 
 Product:
 Monix
