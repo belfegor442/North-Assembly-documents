@@ -1,22 +1,22 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 BRAND GUIDELINES
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 
 1. BRAND IDENTITY
 
-Weird Stuff is an independent software studio. The brand should feel like a real small studio building real software, not like a generic corporate template.
+North Assembly is an independent software studio. The brand should feel like a real small studio building real software, not like a generic corporate template.
 
 [MANDATORY]
-The Weird Stuff name and logo must not be altered in a way that falsely suggests an official communication or product.
+The North Assembly name and logo must not be altered in a way that falsely suggests an official communication or product.
 
 2. VOICE
 
-Weird Stuff should communicate clearly and directly. Technical subjects can be technical, but they should still sound like they were written by people who actually work on the projects.
+North Assembly should communicate clearly and directly. Technical subjects can be technical, but they should still sound like they were written by people who actually work on the projects.
 
 Avoid empty corporate language, exaggerated claims, and descriptions that make unfinished work sound finished.
 
@@ -29,7 +29,7 @@ Prefer specific statements over vague claims. Say what a product does, what it d
 3. VISUAL ASSETS
 
 [MANDATORY]
-Use approved logos and assets when an official Weird Stuff identity is required.
+Use approved logos and assets when an official North Assembly identity is required.
 
 [MANDATORY]
 Third-party assets must be used according to their applicable licenses.
