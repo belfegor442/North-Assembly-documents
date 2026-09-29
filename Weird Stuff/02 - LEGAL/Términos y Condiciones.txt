@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 TÉRMINOS Y CONDICIONES
 
 Version: 1.1
@@ -6,7 +6,7 @@ Status: DRAFT FOR LEGAL REVIEW
 Publication Status: PENDING
 Effective Date: PENDING
 Last Updated: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 
 ============================================================
 1. INTRODUCTION
@@ -14,7 +14,7 @@ Owner: Weird Stuff
 
 These Terms and Conditions (the "Terms") govern access to and use
 of products, applications, websites, digital services, and other
-services made available by Weird Stuff ("Weird Stuff", "we", "us",
+services made available by North Assembly ("North Assembly", "we", "us",
 or "our").
 
 By using a service covered by these Terms, the User ("you" or "your")
@@ -100,7 +100,7 @@ authentication requirements must be defined for each service.
 ============================================================
 
 [MANDATORY]
-Users must use Weird Stuff services lawfully and follow these Terms
+Users must use North Assembly services lawfully and follow these Terms
 and any product-specific rules.
 
 Users must not intentionally:
@@ -112,7 +112,7 @@ Users must not intentionally:
 * Steal or attempt to steal credentials.
 * Interfere with service operation.
 * Abuse technical resources.
-* Impersonate Weird Stuff or another person or entity.
+* Impersonate North Assembly or another person or entity.
 * Infringe applicable intellectual property rights.
 * Use services for unlawful purposes.
 * Attempt to compromise another User's account or data.
@@ -124,7 +124,7 @@ Policy.
 7. SOFTWARE AND PRODUCT USE
 ============================================================
 
-Weird Stuff may provide software under these Terms, a separate
+North Assembly may provide software under these Terms, a separate
 license, or both.
 
 [MANDATORY]
@@ -142,7 +142,7 @@ publication.
 8. UPDATES
 ============================================================
 
-Weird Stuff may release updates, patches, fixes, new versions,
+North Assembly may release updates, patches, fixes, new versions,
 security updates, or other product changes.
 
 [MANDATORY]
@@ -150,7 +150,7 @@ Users must not knowingly disable or circumvent legitimate security
 mechanisms protecting updates or product integrity.
 
 [MANDATORY]
-When an update materially changes a service, Weird Stuff must provide
+When an update materially changes a service, North Assembly must provide
 any notice required by applicable law.
 
 [RECOMMENDED]
@@ -160,7 +160,7 @@ Important updates should include clear release notes.
 9. AVAILABILITY
 ============================================================
 
-Weird Stuff aims to maintain its services appropriately, but does
+North Assembly aims to maintain its services appropriately, but does
 not promise that every service will always be uninterrupted,
 error-free, or permanently available unless an express commitment
 says otherwise.
@@ -191,12 +191,12 @@ limitations.
 11. CUSTOM APPLICATIONS
 ============================================================
 
-Weird Stuff may accept requests for custom software, applications,
+North Assembly may accept requests for custom software, applications,
 tools, or other digital projects.
 
 [MANDATORY]
 Submitting a request does not automatically create an obligation for
-Weird Stuff to develop it.
+North Assembly to develop it.
 
 Requests may be assessed according to:
 
@@ -205,11 +205,11 @@ Requests may be assessed according to:
 * Security considerations.
 * Legal considerations.
 * Project scope.
-* Compatibility with Weird Stuff policies.
+* Compatibility with North Assembly policies.
 * Compatibility with existing projects.
 
 [MANDATORY]
-Weird Stuff may reject a request that creates an unacceptable legal,
+North Assembly may reject a request that creates an unacceptable legal,
 security, technical, or operational risk.
 
 The Custom Applications Policy provides additional conditions.
@@ -219,7 +219,7 @@ The Custom Applications Policy provides additional conditions.
 ============================================================
 
 Users may submit, upload, transmit, or otherwise provide content when
-a Weird Stuff service supports those functions.
+a North Assembly service supports those functions.
 
 [MANDATORY]
 Users must not knowingly submit content they are prohibited from
@@ -227,16 +227,16 @@ submitting by law or the applicable service rules.
 
 [MANDATORY]
 Users retain any rights they possess in their content, subject to
-specific rights or licenses expressly granted to Weird Stuff.
+specific rights or licenses expressly granted to North Assembly.
 
-Any license granted by Users to Weird Stuff must be defined for the
+Any license granted by Users to North Assembly must be defined for the
 relevant service.
 
 ============================================================
 13. INTELLECTUAL PROPERTY
 ============================================================
 
-Weird Stuff and its licensors may own rights in software, source
+North Assembly and its licensors may own rights in software, source
 code, designs, trademarks, logos, documentation, interfaces, visual
 assets, text, and other materials made available through its
 services.
@@ -279,10 +279,10 @@ identified before publication where required.
 16. SUPPORT
 ============================================================
 
-Weird Stuff may provide support through designated channels.
+North Assembly may provide support through designated channels.
 
 [MANDATORY]
-Weird Stuff must only promise support availability or response times
+North Assembly must only promise support availability or response times
 that it has actually committed to provide.
 
 Official support channels and any response commitments must be
@@ -301,14 +301,14 @@ Third-party services remain subject to their own terms and policies
 where applicable.
 
 [MANDATORY]
-Weird Stuff must not knowingly represent a third-party service as
-being owned or controlled by Weird Stuff when that is not the case.
+North Assembly must not knowingly represent a third-party service as
+being owned or controlled by North Assembly when that is not the case.
 
 ============================================================
 18. SUSPENSION AND TERMINATION
 ============================================================
 
-Where legally and contractually permitted, Weird Stuff may restrict
+Where legally and contractually permitted, North Assembly may restrict
 or terminate access to a service for a legitimate reason, including
 serious violations of these Terms, security threats, abuse, fraud,
 or technical necessity.
@@ -323,7 +323,7 @@ Specific procedures must be defined for each service where necessary.
 19. SECURITY INCIDENTS
 ============================================================
 
-Users who become aware of a security issue affecting a Weird Stuff
+Users who become aware of a security issue affecting a North Assembly
 service should report it through an appropriate official channel.
 
 [MANDATORY]
@@ -337,7 +337,7 @@ The official vulnerability-reporting channel must be published.
 20. WARRANTIES AND DISCLAIMERS
 ============================================================
 
-Where legally permitted, Weird Stuff may provide products or services
+Where legally permitted, North Assembly may provide products or services
 on an "as available" basis.
 
 [MANDATORY]
@@ -365,7 +365,7 @@ review before publication.
 22. CHANGES TO THESE TERMS
 ============================================================
 
-Weird Stuff may update these Terms when necessary.
+North Assembly may update these Terms when necessary.
 
 [MANDATORY]
 Material changes must be communicated through an appropriate
@@ -437,7 +437,7 @@ Legal contact:
 ============================================================
 
 Document:
-WEIRD STUFF — TERMS AND CONDITIONS
+NORTH ASSEMBLY — TERMS AND CONDITIONS
 
 Version:
 1.1
@@ -455,7 +455,7 @@ Last Updated:
 September 12, 2026
 
 Owner:
-Weird Stuff
+North Assembly
 
 ============================================================
 29. IMPORTANT LEGAL COMPLETION ITEMS
