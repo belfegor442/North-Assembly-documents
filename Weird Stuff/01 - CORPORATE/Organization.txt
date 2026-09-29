@@ -1,17 +1,17 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 ORGANIZATION
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-This document records how Weird Stuff is currently organized, who holds each formal role, and how responsibilities change when the organization changes.
+This document records how North Assembly is currently organized, who holds each formal role, and how responsibilities change when the organization changes.
 
 It is intended to provide a clear operational reference. It does not contain private personnel information.
 
@@ -63,7 +63,7 @@ These assignments represent the current internal organization. If an assignment 
 4. TEAMS
 ============================================================
 
-Weird Stuff may organize work into specialized functions such as:
+North Assembly may organize work into specialized functions such as:
 
 * Development
 * Design
