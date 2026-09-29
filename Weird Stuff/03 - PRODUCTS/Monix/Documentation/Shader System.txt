@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MONIX — SHADER SYSTEM
 
 Version: 1.1
 Status: INTERNAL / DEVELOPMENT
-Owner: Weird Stuff
+Owner: North Assembly
 Product: Monix
 Last Updated: September 12, 2026
 
@@ -358,7 +358,7 @@ Status:
 INTERNAL / DEVELOPMENT
 
 Owner:
-Weird Stuff
+North Assembly
 
 Product:
 Monix
