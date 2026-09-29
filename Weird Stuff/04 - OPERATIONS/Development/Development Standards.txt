@@ -1,15 +1,15 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 DEVELOPMENT STANDARDS
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 
 PURPOSE
 
-These standards describe the basic expectations for developing and changing Weird Stuff software. They are intentionally practical: the point is to keep changes traceable, reviewable, and safe without turning every small change into paperwork.
+These standards describe the basic expectations for developing and changing North Assembly software. They are intentionally practical: the point is to keep changes traceable, reviewable, and safe without turning every small change into paperwork.
 
 1. SOURCE CONTROL
 
