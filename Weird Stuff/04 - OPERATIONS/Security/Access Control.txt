@@ -1,15 +1,15 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 ACCESS CONTROL
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: RESTRICTED
 
 PURPOSE
 
-Access to Weird Stuff systems and information should follow a simple rule: people receive the permissions they need for their work, and no more than that without a clear reason.
+Access to North Assembly systems and information should follow a simple rule: people receive the permissions they need for their work, and no more than that without a clear reason.
 
 1. PRINCIPLES
 
