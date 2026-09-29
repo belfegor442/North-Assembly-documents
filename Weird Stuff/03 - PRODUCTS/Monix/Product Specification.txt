@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MONIX — PRODUCT SPECIFICATION
 
 Version: 1.1
 Status: INTERNAL / DEVELOPMENT
-Owner: Weird Stuff
+Owner: North Assembly
 Product: Monix
 Last Updated: September 12, 2026
 
@@ -13,7 +13,7 @@ This is the controlled functional and technical specification for Monix. It desc
 
 PRODUCT DEFINITION
 
-Monix is a Weird Stuff desktop software product for system monitoring, diagnostics, event logging, security-oriented analysis, configuration, state handling, and visual system information.
+Monix is a North Assembly desktop software product for system monitoring, diagnostics, event logging, security-oriented analysis, configuration, state handling, and visual system information.
 
 Monix is a specialized desktop application, not an operating-system replacement.
 
@@ -285,7 +285,7 @@ Final telemetry scope.
 Personal data processed by Monix.
 
 [MANDATORY]
-Monix must comply with the applicable Weird Stuff Privacy Policy.
+Monix must comply with the applicable North Assembly Privacy Policy.
 
 [MANDATORY]
 Telemetry must not be described as anonymous or non-identifying when the actual implementation does not support that claim.
@@ -346,7 +346,7 @@ Confirmed product limitations.
 
 DOCUMENTATION RELATIONSHIPS
 
-Monix documentation includes the Product Overview, Development Status, Architecture, Build and Release, Configuration, Debugging, Logging, Monitoring, Performance, Security, Shader System, State and Snapshot, Testing, User Interface, and related Weird Stuff corporate policies.
+Monix documentation includes the Product Overview, Development Status, Architecture, Build and Release, Configuration, Debugging, Logging, Monitoring, Performance, Security, Shader System, State and Snapshot, Testing, User Interface, and related North Assembly corporate policies.
 
 [MANDATORY]
 Material changes to Monix's functional or technical contract must be reflected in the controlled documentation.
@@ -363,7 +363,7 @@ Status:
 INTERNAL / DEVELOPMENT
 
 Owner:
-Weird Stuff
+North Assembly
 
 Product:
 Monix
