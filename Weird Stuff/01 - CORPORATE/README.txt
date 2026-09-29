@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 CORPORATE DOCUMENTATION
 
 PURPOSE
 
-This section contains the documents that define how Weird Stuff is organized and how controlled company documentation is managed.
+This section contains the documents that define how North Assembly is organized and how controlled company documentation is managed.
 
 DOCUMENTS
 
