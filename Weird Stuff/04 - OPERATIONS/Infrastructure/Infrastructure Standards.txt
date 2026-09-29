@@ -1,15 +1,15 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 INFRASTRUCTURE STANDARDS
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 
 PURPOSE
 
-These standards set the basic expectations for the infrastructure Weird Stuff relies on: repositories, domains, DNS, email, communication services, build systems, hosting, storage, servers, and related services.
+These standards set the basic expectations for the infrastructure North Assembly relies on: repositories, domains, DNS, email, communication services, build systems, hosting, storage, servers, and related services.
 
 The goal is straightforward: infrastructure should be accessible to the people who need it, protected from unnecessary access, and changed in a way that can be understood and recovered when something goes wrong.
 
