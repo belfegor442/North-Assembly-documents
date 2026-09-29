@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MONIX — MONITORING DOCUMENTATION
 
 Version: 1.1
 Status: INTERNAL / DEVELOPMENT
-Owner: Weird Stuff
+Owner: North Assembly
 Product: Monix
 Last Updated: September 12, 2026
 
@@ -305,7 +305,7 @@ RELATED DOCUMENTATION
 * Monix Security Documentation.
 * Monix Performance Documentation.
 * Monix Development Status.
-* Weird Stuff Privacy Policy.
+* North Assembly Privacy Policy.
 
 DOCUMENT CONTROL
 
@@ -319,7 +319,7 @@ Status:
 INTERNAL / DEVELOPMENT
 
 Owner:
-Weird Stuff
+North Assembly
 
 Product:
 Monix
