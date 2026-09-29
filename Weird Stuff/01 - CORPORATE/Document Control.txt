@@ -1,17 +1,17 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 DOCUMENT CONTROL
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-This document explains how Weird Stuff keeps its controlled documentation consistent, current, and traceable.
+This document explains how North Assembly keeps its controlled documentation consistent, current, and traceable.
 
 The purpose is not to add unnecessary bureaucracy. It is to make it clear which document is current, what a document means, and when a change became effective.
 
@@ -65,13 +65,13 @@ PUBLIC
 Information approved for public distribution.
 
 INTERNAL
-Information intended for Weird Stuff personnel and authorized collaborators.
+Information intended for North Assembly personnel and authorized collaborators.
 
 RESTRICTED
 Information available only to specifically authorized recipients.
 
 CONFIDENTIAL
-Information whose unauthorized disclosure could materially harm Weird Stuff, its users, members, or projects.
+Information whose unauthorized disclosure could materially harm North Assembly, its users, members, or projects.
 
 RESERVED
 Information intentionally withheld from publication, whether because it is private, undecided, or otherwise restricted.
