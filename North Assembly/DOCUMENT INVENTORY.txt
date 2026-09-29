@@ -1,65 +1,82 @@
 NORTH ASSEMBLY DOCUMENT INVENTORY
 
-Total files: 61 (including root README.txt)
+Updated: September 29, 2026
 
-01 - CORPORATE/README.txt
-01 - CORPORATE/Document Control.txt
-01 - CORPORATE/Manual Corporativo.txt
-01 - CORPORATE/Organization.txt
-02 - LEGAL/README.txt
-02 - LEGAL/Política de Aplicaciones Personalizadas.txt
-02 - LEGAL/Política de Cookies.txt
-02 - LEGAL/Política de Privacidad.txt
-02 - LEGAL/Política de Propiedad Intelectual.txt
-02 - LEGAL/Política de Seguridad.txt
-02 - LEGAL/Política de Uso Aceptable.txt
-02 - LEGAL/Términos y Condiciones.txt
-03 - PRODUCTS/README.txt
-03 - PRODUCTS/CryptCast/Product Overview.txt
-03 - PRODUCTS/CryptCast/Product Specification.txt
-03 - PRODUCTS/Datalog/Product Overview.txt
-03 - PRODUCTS/Datalog/Product Specification.txt
-03 - PRODUCTS/DraftPad/Product Overview.txt
-03 - PRODUCTS/DraftPad/Product Specification.txt
-03 - PRODUCTS/Monix/Development Status.txt
-03 - PRODUCTS/Monix/Documentation/README.txt
-03 - PRODUCTS/Monix/Documentation/AI.txt
-03 - PRODUCTS/Monix/Documentation/Architecture.txt
-03 - PRODUCTS/Monix/Documentation/Build and Release.txt
-03 - PRODUCTS/Monix/Documentation/Configuracion.txt
-03 - PRODUCTS/Monix/Documentation/Debugging.txt
-03 - PRODUCTS/Monix/Documentation/Logging.txt
-03 - PRODUCTS/Monix/Documentation/Monitoring.txt
-03 - PRODUCTS/Monix/Documentation/Performance.txt
-03 - PRODUCTS/Monix/Documentation/Security.txt
-03 - PRODUCTS/Monix/Documentation/Shader System.txt
-03 - PRODUCTS/Monix/Documentation/State and Snapshot.txt
-03 - PRODUCTS/Monix/Documentation/Testing.txt
-03 - PRODUCTS/Monix/Documentation/User Interface.txt
-03 - PRODUCTS/Monix/Product Overview.txt
-03 - PRODUCTS/Monix/Product Specification.txt
-03 - PRODUCTS/Monix/Release History.txt
-03 - PRODUCTS/Telenet/Product Overview.txt
-03 - PRODUCTS/Telenet/Product Specification.txt
-04 - OPERATIONS/README.txt
-04 - OPERATIONS/Design/Design Standards.txt
-04 - OPERATIONS/Development/Development Standards.txt
-04 - OPERATIONS/Development/Release Procedure.txt
-04 - OPERATIONS/Infrastructure/Infrastructure Standards.txt
-04 - OPERATIONS/QA/Bug Management.txt
-04 - OPERATIONS/QA/QA Standards.txt
-04 - OPERATIONS/Security/Access Control.txt
-04 - OPERATIONS/Security/Incident Response.txt
-05 - BRAND/README.txt
-05 - BRAND/Brand Guidelines.txt
-05 - BRAND/Marketing/Marketing Standards.txt
-06 - PUBLIC/README.txt
-06 - PUBLIC/Announcements/README.txt
-06 - PUBLIC/Discord/Company Update.txt
-06 - PUBLIC/Website/Website Content Standards.txt
-07 - INTERNAL/README.txt
-07 - INTERNAL/Internal Communications/Communication Standards.txt
-07 - INTERNAL/Meetings/Meeting Standards.txt
-07 - INTERNAL/Team/Team Rules.txt
-08 - ARCHIVE/README.txt
-README.txt
+01 - CORPORATE
+- README.txt
+- Document Control.txt
+- Manual Corporativo.txt
+- Organization.txt
+
+02 - LEGAL
+- README.txt
+- Política de Aplicaciones Personalizadas.txt
+- Política de Cookies.txt
+- Política de Privacidad.txt
+- Política de Propiedad Intelectual.txt
+- Política de Seguridad.txt
+- Política de Uso Aceptable.txt
+- Términos y Condiciones.txt
+
+03 - PRODUCTS
+- README.txt
+- 01 - Monix
+  - Development Status.txt
+  - Product Overview.txt
+  - Product Specification.txt
+  - Release History.txt
+  - Documentation/
+- 02 - Telenet
+  - Product Overview.txt
+  - Product Specification.txt
+- 03 - Datalog
+  - Product Overview.txt
+  - Product Specification.txt
+- 04 - DraftPad
+  - Product Overview.txt
+  - Product Specification.txt
+- 05 - CryptCast
+  - Product Overview.txt
+  - Product Specification.txt
+
+04 - OPERATIONS
+- README.txt
+- Design/Design Standards.txt
+- Development/Development Standards.txt
+- Development/Release Procedure.txt
+- Infrastructure/Infrastructure Standards.txt
+- QA/Bug Management.txt
+- QA/QA Standards.txt
+- Security/Access Control.txt
+- Security/Incident Response.txt
+
+05 - BRAND
+- README.txt
+- Brand Guidelines.txt
+- Marketing/Marketing Standards.txt
+
+06 - PUBLIC
+- README.txt
+- Announcements/README.txt
+- Discord/Company Update.txt
+- Website/Website Content Standards.txt
+
+07 - INTERNAL
+- README.txt
+- Internal Communications/Communication Standards.txt
+- Meetings/Meeting Standards.txt
+- Team/Team Rules.txt
+
+08 - ARCHIVE
+- README.txt
+- Legacy Brand/WS.png
+
+ROOT
+- README.txt
+- DOCUMENT INVENTORY.txt
+
+CONTROL RULE
+
+This inventory must remain aligned with the actual repository structure. New controlled documents should be added to the appropriate numbered section and reflected here.
+
+END OF DOCUMENT
