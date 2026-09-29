@@ -1,10 +1,10 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 TELENET — PRODUCT SPECIFICATION
 
 Version: 1.1
 Status: PENDING PRODUCT DEFINITION
 Classification: INTERNAL
-Owner: Weird Stuff
+Owner: North Assembly
 Last Updated: September 12, 2026
 
 PURPOSE
