@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 CUSTOM APPLICATIONS POLICY
 
 Version: 1.1
@@ -6,18 +6,18 @@ Status: DRAFT FOR LEGAL REVIEW
 Publication Status: PENDING
 Effective Date: PENDING
 Last Updated: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-This Policy explains how Weird Stuff handles requests for custom
+This Policy explains how North Assembly handles requests for custom
 software and other digital projects. It covers the process from the
 initial request through evaluation, development, testing, delivery,
 and any agreed support afterward.
 
-The aim is to make the process predictable for both Weird Stuff and
+The aim is to make the process predictable for both North Assembly and
 the requester, while keeping technical, security, legal, and
 intellectual-property responsibilities clear.
 
@@ -26,7 +26,7 @@ intellectual-property responsibilities clear.
 ============================================================
 
 This Policy applies when an individual, community, organization,
-or other party asks Weird Stuff to evaluate or develop a custom
+or other party asks North Assembly to evaluate or develop a custom
 project.
 
 Custom work may include:
@@ -40,9 +40,9 @@ Custom work may include:
 * Scripts.
 * Internal tools.
 * Digital services.
-* Other software projects agreed by Weird Stuff.
+* Other software projects agreed by North Assembly.
 
-The exact range of services offered by Weird Stuff may be defined
+The exact range of services offered by North Assembly may be defined
 separately.
 
 ============================================================
@@ -50,21 +50,21 @@ separately.
 ============================================================
 
 [MANDATORY]
-Submitting a request does not mean that Weird Stuff has agreed to
+Submitting a request does not mean that North Assembly has agreed to
 develop it.
 
 [MANDATORY]
 Every request must be evaluated before it is accepted.
 
 [MANDATORY]
-Weird Stuff may refuse a request when there is a legitimate reason
+North Assembly may refuse a request when there is a legitimate reason
 to do so.
 
 ============================================================
 4. REQUEST SUBMISSION
 ============================================================
 
-A request should contain enough information for Weird Stuff to
+A request should contain enough information for North Assembly to
 understand what is being requested.
 
 Where relevant, the requester should provide:
@@ -88,7 +88,7 @@ information can affect evaluation, scope, timing, and feasibility.
 5. REQUEST EVALUATION
 ============================================================
 
-Weird Stuff may consider the following when evaluating a request:
+North Assembly may consider the following when evaluating a request:
 
 * Technical feasibility.
 * Available personnel and resources.
@@ -96,21 +96,21 @@ Weird Stuff may consider the following when evaluating a request:
 * Security risks.
 * Legal requirements.
 * Intellectual-property issues.
-* Compatibility with Weird Stuff systems.
+* Compatibility with North Assembly systems.
 * Compatibility with existing projects.
 * Expected maintenance requirements.
 * Requested deadline.
 * Required infrastructure.
 
 [MANDATORY]
-A request must not be accepted when Weird Stuff determines that the
+A request must not be accepted when North Assembly determines that the
 work presents an unacceptable legal or security risk.
 
 ============================================================
 6. GROUNDS FOR REFUSAL
 ============================================================
 
-Weird Stuff may refuse a request for reasons including:
+North Assembly may refuse a request for reasons including:
 
 * Illegal purpose.
 * Unacceptable security risk.
@@ -124,7 +124,7 @@ Weird Stuff may refuse a request for reasons including:
 * Insufficient resources.
 * Requirements that are too incomplete to evaluate.
 * Incompatible requirements.
-* Conflict with existing Weird Stuff projects.
+* Conflict with existing North Assembly projects.
 * Intellectual-property concerns.
 * Unreasonable maintenance requirements.
 
@@ -132,12 +132,12 @@ Weird Stuff may refuse a request for reasons including:
 7. ACCEPTANCE
 ============================================================
 
-A project is accepted only when Weird Stuff explicitly agrees to
+A project is accepted only when North Assembly explicitly agrees to
 undertake it through an authorized communication or process.
 
 [MANDATORY]
 An idea, discussion, message, suggestion, or preliminary estimate
-must not be treated as project acceptance unless Weird Stuff clearly
+must not be treated as project acceptance unless North Assembly clearly
 states that the project has been accepted.
 
 [MANDATORY]
@@ -153,7 +153,7 @@ An accepted project should have, at minimum:
 8. PROJECT SCOPE
 ============================================================
 
-The agreed scope defines what Weird Stuff is responsible for
+The agreed scope defines what North Assembly is responsible for
 developing.
 
 [MANDATORY]
@@ -178,7 +178,7 @@ If a requirement is unclear, incomplete, or contradictory, Weird
 Stuff may request clarification before implementation.
 
 [MANDATORY]
-Weird Stuff may change the technical implementation when necessary
+North Assembly may change the technical implementation when necessary
 to achieve the agreed result, provided that the agreed functionality
 is not materially changed without appropriate notice or agreement.
 
@@ -187,7 +187,7 @@ is not materially changed without appropriate notice or agreement.
 ============================================================
 
 [MANDATORY]
-Custom applications must follow the applicable Weird Stuff standards
+Custom applications must follow the applicable North Assembly standards
 for:
 
 * Software development.
@@ -238,7 +238,7 @@ A project may be delivered through an agreed method, including:
 Specific delivery arrangements may vary by project.
 
 [MANDATORY]
-Weird Stuff must not state that a project has been delivered when
+North Assembly must not state that a project has been delivered when
 the agreed deliverable has not actually been provided.
 
 ============================================================
@@ -265,7 +265,7 @@ Custom applications do not automatically include permanent support
 or maintenance unless this has been explicitly agreed.
 
 [MANDATORY]
-Weird Stuff must not promise ongoing support that has not been
+North Assembly must not promise ongoing support that has not been
 accepted.
 
 [RECOMMENDED]
@@ -280,10 +280,10 @@ The project should state whether maintenance is:
 15. AVAILABILITY
 ============================================================
 
-When Weird Stuff hosts or operates a custom application:
+When North Assembly hosts or operates a custom application:
 
 [MANDATORY]
-Weird Stuff must not promise continuous availability unless an
+North Assembly must not promise continuous availability unless an
 appropriate service commitment has been established.
 
 Any hosting or availability commitment should be defined separately
@@ -295,13 +295,13 @@ for the relevant project.
 
 A custom project may contain intellectual property belonging to:
 
-* Weird Stuff.
+* North Assembly.
 * The requester.
 * Third-party licensors.
 * Other contributors.
 
 [MANDATORY]
-Ownership must not be assumed simply because Weird Stuff developed
+Ownership must not be assumed simply because North Assembly developed
 the software.
 
 [MANDATORY]
@@ -320,7 +320,7 @@ custom project where relevant.
 
 Possible arrangements include:
 
-* Source code retained by Weird Stuff.
+* Source code retained by North Assembly.
 * Source code delivered to the requester.
 * Shared rights.
 * Licensed access.
@@ -335,7 +335,7 @@ Third-party software and assets used in a custom project remain
 subject to their applicable licenses.
 
 [MANDATORY]
-Weird Stuff must not grant rights that it does not possess.
+North Assembly must not grant rights that it does not possess.
 
 [MANDATORY]
 Where a third-party license imposes redistribution or usage
@@ -361,7 +361,7 @@ The requester must have the necessary rights or authorization to
 provide those materials for their intended use.
 
 [MANDATORY]
-Weird Stuff may reject or request replacement of material where
+North Assembly may reject or request replacement of material where
 there is a reasonable intellectual-property, privacy, security, or
 legal concern.
 
@@ -377,7 +377,7 @@ Personal data must not be collected or processed merely because it
 could technically be collected.
 
 [MANDATORY]
-Where Weird Stuff processes personal data for a custom project, the
+Where North Assembly processes personal data for a custom project, the
 applicable privacy requirements must be identified.
 
 The relevant controller, processor, or contractual roles must be
@@ -411,7 +411,7 @@ available resources.
 
 [MANDATORY]
 A requested deadline must not be presented as a guaranteed delivery
-date unless Weird Stuff has expressly committed to it.
+date unless North Assembly has expressly committed to it.
 
 [RECOMMENDED]
 Important projects should use realistic milestones where useful.
@@ -447,7 +447,7 @@ A project may be cancelled when, for example:
 * Requirements become impossible or unreasonable.
 * Security or legal risks emerge.
 * Required resources become unavailable.
-* The project becomes incompatible with Weird Stuff's objectives.
+* The project becomes incompatible with North Assembly's objectives.
 * Another legitimate reason makes continuation impractical.
 
 [MANDATORY]
@@ -458,7 +458,7 @@ be communicated to the requester.
 25. FREE CUSTOM APPLICATIONS
 ============================================================
 
-When Weird Stuff offers custom development free of charge:
+When North Assembly offers custom development free of charge:
 
 [MANDATORY]
 Free development does not guarantee acceptance of every request.
@@ -489,7 +489,7 @@ excluded.
 When a requester provides confidential information:
 
 [MANDATORY]
-Weird Stuff must handle that information according to applicable
+North Assembly must handle that information according to applicable
 confidentiality obligations.
 
 [MANDATORY]
@@ -519,7 +519,7 @@ to a requester:
 Credentials must be transmitted using an appropriate secure method.
 
 [MANDATORY]
-Weird Stuff must not intentionally expose credentials publicly.
+North Assembly must not intentionally expose credentials publicly.
 
 [MANDATORY]
 Temporary credentials should be replaced or revoked when appropriate.
@@ -531,7 +531,7 @@ Temporary credentials should be replaced or revoked when appropriate.
 A custom application may eventually become unsupported or retired.
 
 [MANDATORY]
-Where Weird Stuff operates the application, retirement must be
+Where North Assembly operates the application, retirement must be
 handled in a controlled manner.
 
 Specific retirement and data-handling requirements should be defined
@@ -545,7 +545,7 @@ Questions or disputes should first be addressed through the
 designated project contact.
 
 If the matter cannot be resolved there, it may be escalated through
-the Weird Stuff organizational structure:
+the North Assembly organizational structure:
 
 Responsible Person
 ->
@@ -612,7 +612,7 @@ channel is established.
 ============================================================
 
 Document:
-WEIRD STUFF — CUSTOM APPLICATIONS POLICY
+NORTH ASSEMBLY — CUSTOM APPLICATIONS POLICY
 
 Version:
 1.1
@@ -630,7 +630,7 @@ Last Updated:
 September 12, 2026
 
 Owner:
-Weird Stuff
+North Assembly
 
 ============================================================
 END OF DOCUMENT
