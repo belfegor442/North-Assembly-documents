@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 SECURITY POLICY
 
 Version: 1.1
@@ -6,7 +6,7 @@ Status: DRAFT FOR INTERNAL APPROVAL
 Publication Status: INTERNAL
 Effective Date: PENDING
 Last Updated: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 
 ============================================================
 1. PURPOSE
@@ -18,7 +18,7 @@ information, and internal operations.
 
 Its purpose is to protect:
 
-* Weird Stuff systems.
+* North Assembly systems.
 * Products and source code.
 * Internal information.
 * User information.
@@ -33,7 +33,7 @@ Its purpose is to protect:
 
 This Policy applies to:
 
-* Weird Stuff personnel and collaborators.
+* North Assembly personnel and collaborators.
 * Internal accounts.
 * Development environments.
 * Production environments.
@@ -45,14 +45,14 @@ This Policy applies to:
 * Systems that store or process sensitive information.
 
 [MANDATORY]
-Anyone granted access to Weird Stuff resources must follow the
+Anyone granted access to North Assembly resources must follow the
 security requirements that apply to that access.
 
 ============================================================
 3. SECURITY PRINCIPLES
 ============================================================
 
-Weird Stuff's general security principles are:
+North Assembly's general security principles are:
 
 * Least privilege.
 * Need-to-know access.
@@ -304,7 +304,7 @@ endpoint protections where available.
 ============================================================
 
 [MANDATORY]
-Known vulnerabilities affecting Weird Stuff systems must be assessed
+Known vulnerabilities affecting North Assembly systems must be assessed
 according to their severity and potential impact.
 
 A vulnerability may be classified as:
@@ -418,7 +418,7 @@ The final backup architecture remains pending.
 ============================================================
 
 [MANDATORY]
-Weird Stuff must maintain reasonable capabilities to recover critical
+North Assembly must maintain reasonable capabilities to recover critical
 systems from significant failures where technically possible.
 
 Potential scenarios include:
@@ -438,7 +438,7 @@ Recovery procedures should be documented and periodically tested.
 ============================================================
 
 [MANDATORY]
-Third-party services with significant access to Weird Stuff systems
+Third-party services with significant access to North Assembly systems
 or information must be considered from a security perspective before
 use.
 
@@ -452,14 +452,14 @@ Critical providers should be reviewed periodically.
 24. PHYSICAL SECURITY
 ============================================================
 
-Where Weird Stuff operates or stores systems in physical locations:
+Where North Assembly operates or stores systems in physical locations:
 
 [MANDATORY]
 Reasonable measures must be taken to prevent unauthorized physical
 access to critical systems and storage.
 
 Specific physical-security requirements depend on the actual hosting
-and equipment model used by Weird Stuff.
+and equipment model used by North Assembly.
 
 ============================================================
 25. SECURITY OF RELEASES
@@ -538,7 +538,7 @@ Security responsibilities within their technical or operational
 areas.
 
 [MANDATORY]
-Everyone with access to Weird Stuff systems is responsible for
+Everyone with access to North Assembly systems is responsible for
 following the security requirements applicable to their role.
 
 ============================================================
@@ -590,7 +590,7 @@ authorization.
 
 [MANDATORY]
 Public security statements must not knowingly misrepresent the
-security properties of a Weird Stuff product or service.
+security properties of a North Assembly product or service.
 
 ============================================================
 32. RELATIONSHIP WITH OTHER POLICIES
@@ -633,7 +633,7 @@ A periodic general review should also be performed.
 ============================================================
 
 Document:
-WEIRD STUFF — SECURITY POLICY
+NORTH ASSEMBLY — SECURITY POLICY
 
 Version:
 1.1
@@ -651,7 +651,7 @@ Last Updated:
 September 12, 2026
 
 Owner:
-Weird Stuff
+North Assembly
 
 ============================================================
 END OF DOCUMENT
