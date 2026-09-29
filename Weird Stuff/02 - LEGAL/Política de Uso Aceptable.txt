@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 ACCEPTABLE USE POLICY
 
 Version: 1.1
@@ -6,25 +6,25 @@ Status: DRAFT FOR LEGAL REVIEW
 Publication Status: PENDING
 Effective Date: PENDING
 Last Updated: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-This Acceptable Use Policy (AUP) explains how Weird Stuff products,
+This Acceptable Use Policy (AUP) explains how North Assembly products,
 applications, websites, services, infrastructure, communication
 channels, and other covered resources may be used.
 
-The aim is to protect Users, Weird Stuff, third parties,
+The aim is to protect Users, North Assembly, third parties,
 infrastructure, intellectual property, and the availability and
-security of Weird Stuff services.
+security of North Assembly services.
 
 ============================================================
 2. SCOPE
 ============================================================
 
-This Policy applies to Users and other people using a Weird Stuff
+This Policy applies to Users and other people using a North Assembly
 service that refers to this Policy.
 
 It may cover:
@@ -37,8 +37,8 @@ It may cover:
 * APIs.
 * Custom applications.
 * Communication systems.
-* Weird Stuff community spaces.
-* Other resources explicitly designated by Weird Stuff.
+* North Assembly community spaces.
+* Other resources explicitly designated by North Assembly.
 
 The final list of covered services remains pending.
 
@@ -49,7 +49,7 @@ The final list of covered services remains pending.
 [MANDATORY]
 Users must:
 
-* Use Weird Stuff services lawfully.
+* Use North Assembly services lawfully.
 * Follow the applicable Terms and Conditions.
 * Respect the rights of other Users and third parties.
 * Respect security controls.
@@ -58,7 +58,7 @@ Users must:
 * Follow product-specific rules.
 
 [MANDATORY]
-Users must not deliberately misuse Weird Stuff systems, resources,
+Users must not deliberately misuse North Assembly systems, resources,
 accounts, or services.
 
 ============================================================
@@ -100,7 +100,7 @@ Users must not knowingly exploit a vulnerability to:
 
 [RECOMMENDED]
 Security vulnerabilities should be reported through the official
-security channel rather than publicly disclosed before Weird Stuff
+security channel rather than publicly disclosed before North Assembly
 has had a reasonable opportunity to respond.
 
 Official security reporting channel:
@@ -111,7 +111,7 @@ Official security reporting channel:
 ============================================================
 
 [MANDATORY]
-Users must not intentionally use Weird Stuff services to:
+Users must not intentionally use North Assembly services to:
 
 * Distribute malware.
 * Deploy ransomware.
@@ -119,16 +119,16 @@ Users must not intentionally use Weird Stuff services to:
 * Operate malicious payloads.
 * Distribute destructive code.
 * Create or distribute software intended to compromise systems.
-* Conceal malicious activity through Weird Stuff infrastructure.
+* Conceal malicious activity through North Assembly infrastructure.
 
-This applies whether the target is Weird Stuff or a third party.
+This applies whether the target is North Assembly or a third party.
 
 ============================================================
 7. FRAUD AND DECEPTION
 ============================================================
 
 [MANDATORY]
-Users must not use Weird Stuff services for:
+Users must not use North Assembly services for:
 
 * Fraud.
 * Credential theft.
@@ -140,7 +140,7 @@ Users must not use Weird Stuff services for:
   credentials, money, or sensitive information.
 
 [MANDATORY]
-Users must not falsely represent themselves as official Weird Stuff
+Users must not falsely represent themselves as official North Assembly
 representatives.
 
 ============================================================
@@ -184,13 +184,13 @@ Individual services may define additional API and automation rules.
 ============================================================
 
 [MANDATORY]
-Users must not intentionally use Weird Stuff services to collect,
+Users must not intentionally use North Assembly services to collect,
 expose, sell, distribute, or otherwise misuse another person's
 personal data without appropriate authorization or legal basis.
 
 [MANDATORY]
 Users must not publicly expose sensitive information obtained through
-Weird Stuff services for malicious or unauthorized purposes.
+North Assembly services for malicious or unauthorized purposes.
 
 [MANDATORY]
 Users must respect the Privacy Policy and applicable data-protection
@@ -201,7 +201,7 @@ requirements.
 ============================================================
 
 [MANDATORY]
-Users must not knowingly use Weird Stuff services to infringe the
+Users must not knowingly use North Assembly services to infringe the
 intellectual property rights of others.
 
 This includes unauthorized use of:
@@ -225,11 +225,11 @@ or content.
 [MANDATORY]
 Users must not:
 
-* Impersonate Weird Stuff.
+* Impersonate North Assembly.
 * Pretend to be an authorized representative.
 * Create deceptive accounts intended to appear official.
-* Falsely claim a partnership with Weird Stuff.
-* Misuse Weird Stuff branding to deceive Users.
+* Falsely claim a partnership with North Assembly.
+* Misuse North Assembly branding to deceive Users.
 
 [MANDATORY]
 Official communications may only be issued through authorized
@@ -240,7 +240,7 @@ channels or by authorized representatives.
 ============================================================
 
 [MANDATORY]
-Users must not intentionally use Weird Stuff services for serious
+Users must not intentionally use North Assembly services for serious
 harassment, threats, intimidation, or targeted abuse.
 
 [MANDATORY]
@@ -253,10 +253,10 @@ where permitted or required.
 ============================================================
 
 [MANDATORY]
-Weird Stuff services must not knowingly be used for activities that
+North Assembly services must not knowingly be used for activities that
 violate applicable law.
 
-Users remain responsible for ensuring that their use of Weird Stuff
+Users remain responsible for ensuring that their use of North Assembly
 services is lawful in their circumstances.
 
 ============================================================
@@ -266,7 +266,7 @@ services is lawful in their circumstances.
 Custom application requests receive additional review.
 
 [MANDATORY]
-Users must not request that Weird Stuff knowingly create or provide
+Users must not request that North Assembly knowingly create or provide
 software intended to facilitate:
 
 * Unauthorized access.
@@ -279,7 +279,7 @@ software intended to facilitate:
 * Other prohibited activity.
 
 [MANDATORY]
-Weird Stuff may reject requests that create unacceptable legal,
+North Assembly may reject requests that create unacceptable legal,
 security, operational, or technical risks.
 
 The Custom Applications Policy provides additional requirements.
@@ -288,7 +288,7 @@ The Custom Applications Policy provides additional requirements.
 16. CONTENT
 ============================================================
 
-Where a Weird Stuff service permits Users to upload or submit
+Where a North Assembly service permits Users to upload or submit
 content:
 
 [MANDATORY]
@@ -309,7 +309,7 @@ service without authorization.
 
 [MANDATORY]
 Users must not intentionally circumvent or disable security controls
-implemented to protect Weird Stuff services, accounts, data, or
+implemented to protect North Assembly services, accounts, data, or
 infrastructure.
 
 This may include:
@@ -342,7 +342,7 @@ This includes:
 19. ENFORCEMENT
 ============================================================
 
-Where legally and contractually permitted, Weird Stuff may take
+Where legally and contractually permitted, North Assembly may take
 appropriate action when this Policy is violated.
 
 Possible actions include:
@@ -369,7 +369,7 @@ When there is a credible and significant threat to Users,
 infrastructure, or service security:
 
 [MANDATORY]
-Weird Stuff may take immediate technical measures reasonably
+North Assembly may take immediate technical measures reasonably
 necessary to contain the threat, including temporary access
 restrictions or service isolation, subject to applicable law.
 
@@ -413,7 +413,7 @@ General support channel:
 When a violation is reasonably suspected:
 
 [MANDATORY]
-Weird Stuff may review information reasonably necessary to investigate
+North Assembly may review information reasonably necessary to investigate
 it, subject to applicable law, privacy requirements, and the relevant
 service policies.
 
@@ -429,7 +429,7 @@ Significant enforcement actions should be documented internally.
 ============================================================
 
 [MANDATORY]
-Users must not use Weird Stuff services to attack, disrupt,
+Users must not use North Assembly services to attack, disrupt,
 compromise, or gain unauthorized access to third-party systems.
 
 Authorization from a User does not automatically authorize access to
@@ -439,7 +439,7 @@ a third-party system.
 25. RESPONSIBILITY FOR USE
 ============================================================
 
-Users are responsible for their own activity when using Weird Stuff
+Users are responsible for their own activity when using North Assembly
 services.
 
 [MANDATORY]
@@ -454,7 +454,7 @@ prohibited activity.
 26. POLICY UPDATES
 ============================================================
 
-Weird Stuff may update this Policy as services, risks, or legal and
+North Assembly may update this Policy as services, risks, or legal and
 operational requirements change.
 
 [MANDATORY]
@@ -469,7 +469,7 @@ effective date.
 27. RELATIONSHIP WITH OTHER DOCUMENTS
 ============================================================
 
-This Policy supplements the Weird Stuff Terms and Conditions.
+This Policy supplements the North Assembly Terms and Conditions.
 
 The Privacy Policy governs personal-data processing.
 
@@ -518,7 +518,7 @@ Website:
 ============================================================
 
 Document:
-WEIRD STUFF — ACCEPTABLE USE POLICY
+NORTH ASSEMBLY — ACCEPTABLE USE POLICY
 
 Version:
 1.1
@@ -536,7 +536,7 @@ Last Updated:
 September 12, 2026
 
 Owner:
-Weird Stuff
+North Assembly
 
 ============================================================
 END OF DOCUMENT
