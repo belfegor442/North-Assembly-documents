@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MONIX — USER INTERFACE
 
 Version: 1.1
 Status: INTERNAL / DEVELOPMENT
-Owner: Weird Stuff
+Owner: North Assembly
 Product: Monix
 Last Updated: September 12, 2026
 
@@ -21,7 +21,7 @@ The interface should provide:
 * Clear system states.
 * Distinguishable warnings and errors.
 * Controlled access to high-impact actions.
-* A consistent Weird Stuff visual identity.
+* A consistent North Assembly visual identity.
 
 PRIMARY NAVIGATION
 
@@ -151,7 +151,7 @@ Important color-based states should also use labels, symbols, or another clear v
 
 TYPOGRAPHY
 
-Monix may use a distinctive typography system consistent with Weird Stuff's visual identity.
+Monix may use a distinctive typography system consistent with North Assembly's visual identity.
 
 [PENDING]
 Final primary and secondary fonts.
@@ -419,7 +419,7 @@ Status:
 INTERNAL / DEVELOPMENT
 
 Owner:
-Weird Stuff
+North Assembly
 
 Product:
 Monix
