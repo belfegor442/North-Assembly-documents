@@ -1,15 +1,15 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 INCIDENT RESPONSE
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: RESTRICTED
 
 PURPOSE
 
-This procedure defines the basic response expected when Weird Stuff experiences a security incident or a major operational incident.
+This procedure defines the basic response expected when North Assembly experiences a security incident or a major operational incident.
 
 The priority is to limit harm first, restore safe operation, and then understand what happened well enough to prevent the same problem from repeating.
 
