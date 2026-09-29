@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MONIX — AI DOCUMENTATION
 
 Version: 1.1
 Status: INTERNAL / DEVELOPMENT
-Owner: Weird Stuff
+Owner: North Assembly
 Product: Monix
 Last Updated: September 12, 2026
 
@@ -208,9 +208,9 @@ Expensive AI processing should be kept away from critical UI operations where pr
 
 PRIVACY AND EXTERNAL PROVIDERS
 
-AI processing involving personal data must follow the applicable Weird Stuff Privacy Policy and data-protection requirements.
+AI processing involving personal data must follow the applicable North Assembly Privacy Policy and data-protection requirements.
 
-Where an external provider is used, Weird Stuff must consider its data handling, encryption, authentication, retention, subprocessors, international transfers, and security practices.
+Where an external provider is used, North Assembly must consider its data handling, encryption, authentication, retention, subprocessors, international transfers, and security practices.
 
 [PENDING]
 AI data retention.
@@ -248,7 +248,7 @@ These limitations must not be hidden when they materially affect the reliability
 PUBLIC CLAIMS
 
 [MANDATORY]
-Weird Stuff must not claim that Monix's AI guarantees correct diagnosis, complete security detection, or infallible decisions unless those claims are demonstrably supported.
+North Assembly must not claim that Monix's AI guarantees correct diagnosis, complete security detection, or infallible decisions unless those claims are demonstrably supported.
 
 CURRENT STATUS
 
@@ -269,8 +269,8 @@ RELATED DOCUMENTATION
 * Monix Logging Documentation.
 * Monix State and Snapshot.
 * Monix Testing Documentation.
-* Weird Stuff Privacy Policy.
-* Weird Stuff Security Policy.
+* North Assembly Privacy Policy.
+* North Assembly Security Policy.
 
 DOCUMENT CONTROL
 
@@ -284,7 +284,7 @@ Status:
 INTERNAL / DEVELOPMENT
 
 Owner:
-Weird Stuff
+North Assembly
 
 Product:
 Monix
