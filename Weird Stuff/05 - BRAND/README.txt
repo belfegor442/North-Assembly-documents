@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 BRAND DOCUMENTATION
 
 PURPOSE
 
-This section contains the rules and guidance for Weird Stuff's visual identity, design language, and marketing material.
+This section contains the rules and guidance for North Assembly's visual identity, design language, and marketing material.
 
 DOCUMENTS
 
