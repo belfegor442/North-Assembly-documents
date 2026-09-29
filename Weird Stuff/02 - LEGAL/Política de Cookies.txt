@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 COOKIE POLICY
 
 Version: 1.1
@@ -6,13 +6,13 @@ Status: DRAFT FOR LEGAL REVIEW
 Publication Status: PENDING
 Effective Date: PENDING
 Last Updated: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-This Cookie Policy explains how Weird Stuff may use cookies and
+This Cookie Policy explains how North Assembly may use cookies and
 similar technologies when Users access websites, applications, or
 online services covered by this Policy.
 
@@ -20,7 +20,7 @@ It explains what these technologies are used for, how they may be
 classified, and what choices Users may have when consent is
 required.
 
-This Policy should be read together with the Weird Stuff Privacy
+This Policy should be read together with the North Assembly Privacy
 Policy and Terms and Conditions.
 
 ============================================================
@@ -41,13 +41,13 @@ They may be used to:
 * Improve services.
 * Provide other necessary functionality.
 
-Not every Weird Stuff service uses cookies or similar technologies.
+Not every North Assembly service uses cookies or similar technologies.
 
 ============================================================
 3. SCOPE
 ============================================================
 
-This Policy applies only to Weird Stuff websites, applications, and
+This Policy applies only to North Assembly websites, applications, and
 services that use cookies or similar technologies and refer to this
 Policy.
 
@@ -58,7 +58,7 @@ services are confirmed.
 4. TYPES OF TECHNOLOGIES
 ============================================================
 
-Depending on the service, Weird Stuff may use:
+Depending on the service, North Assembly may use:
 
 * HTTP cookies.
 * Local storage.
@@ -92,7 +92,7 @@ service, such as:
 Technologies classified as strictly necessary must only be used for
 purposes compatible with their essential function.
 
-The actual necessary technologies used by Weird Stuff remain to be
+The actual necessary technologies used by North Assembly remain to be
 identified for each service.
 
 5.2 PREFERENCES
@@ -100,12 +100,12 @@ identified for each service.
 Preference technologies may remember choices such as language,
 interface settings, or other configuration preferences.
 
-The actual preference technologies used by Weird Stuff remain to be
+The actual preference technologies used by North Assembly remain to be
 identified for each service.
 
 5.3 ANALYTICS
 
-Analytics technologies may help Weird Stuff understand how a service
+Analytics technologies may help North Assembly understand how a service
 is used and identify technical or usability problems.
 
 They may measure things such as:
@@ -115,12 +115,12 @@ They may measure things such as:
 * Errors.
 * General traffic patterns.
 
-The providers and technologies actually used by Weird Stuff remain
+The providers and technologies actually used by North Assembly remain
 to be identified before publication.
 
 5.4 ADVERTISING OR MARKETING
 
-If Weird Stuff uses advertising, marketing, profiling, or
+If North Assembly uses advertising, marketing, profiling, or
 cross-service tracking technologies, they must be documented
 separately with their purpose, provider, legal basis, and applicable
 consent requirements.
@@ -133,7 +133,7 @@ Depending on applicable law, some technologies may be used without
 consent when they are genuinely necessary for the service.
 
 [MANDATORY]
-Weird Stuff must not describe a technology as strictly necessary
+North Assembly must not describe a technology as strictly necessary
 merely to avoid obtaining consent when consent is legally required.
 
 The classification of each technology must be verified before final
@@ -167,7 +167,7 @@ Withdrawing consent must not be made unreasonably difficult.
 Where a consent mechanism is required, the interface should explain
 the available choices clearly.
 
-Before publication, Weird Stuff must determine the applicable:
+Before publication, North Assembly must determine the applicable:
 
 * Consent banner.
 * Preference center.
@@ -190,7 +190,7 @@ decision unfairly.
 Where consent is required:
 
 [MANDATORY]
-Weird Stuff must keep appropriate evidence of consent in accordance
+North Assembly must keep appropriate evidence of consent in accordance
 with applicable legal requirements.
 
 The final implementation must identify:
@@ -217,14 +217,14 @@ as:
 The actual third parties used by each service must be identified.
 
 [MANDATORY]
-Weird Stuff must not describe a third-party technology as first-party
+North Assembly must not describe a third-party technology as first-party
 when it is operated by another party.
 
 ============================================================
 11. INTERNATIONAL PROCESSING
 ============================================================
 
-Weird Stuff must determine whether any cookie provider or related
+North Assembly must determine whether any cookie provider or related
 service transfers or processes personal data outside the relevant
 jurisdiction.
 
@@ -296,7 +296,7 @@ comply with the Privacy Policy and applicable data-protection
 requirements.
 
 [MANDATORY]
-Weird Stuff must not describe information as anonymous when it can
+North Assembly must not describe information as anonymous when it can
 actually be linked to an identifiable individual, unless the claim is
 appropriately qualified.
 
@@ -308,14 +308,14 @@ Users may have browser-level controls for managing cookies. The
 available controls depend on the browser and device being used.
 
 [RECOMMENDED]
-Weird Stuff may provide general guidance explaining how Users can
+North Assembly may provide general guidance explaining how Users can
 manage cookies in common browsers.
 
 ============================================================
 16. CHANGING COOKIE PREFERENCES
 ============================================================
 
-Where Weird Stuff provides a consent-management mechanism:
+Where North Assembly provides a consent-management mechanism:
 
 [MANDATORY]
 Users must be able to access the relevant preference controls again
@@ -328,14 +328,14 @@ found and how they can be accessed.
 17. COOKIE POLICY UPDATES
 ============================================================
 
-Weird Stuff may update this Policy when its technologies, services,
+North Assembly may update this Policy when its technologies, services,
 legal obligations, or processing practices change.
 
 [MANDATORY]
 The current version and effective date must be identifiable.
 
 [MANDATORY]
-Where a material change affects User rights or consent, Weird Stuff
+Where a material change affects User rights or consent, North Assembly
 must provide the appropriate notice or consent mechanism where
 required by law.
 
@@ -357,7 +357,7 @@ relevant information must remain consistent across both documents.
 ============================================================
 
 [MANDATORY]
-Weird Stuff must take reasonable measures to prevent unauthorized
+North Assembly must take reasonable measures to prevent unauthorized
 access to information associated with its cookie and tracking
 systems.
 
@@ -382,7 +382,7 @@ functions similar to cookies, including:
 * Similar identifiers.
 * Embedded tracking technologies.
 
-Weird Stuff must verify whether any such technologies are currently
+North Assembly must verify whether any such technologies are currently
 used before final publication.
 
 ============================================================
@@ -390,7 +390,7 @@ used before final publication.
 ============================================================
 
 [RECOMMENDED]
-Weird Stuff should periodically review applicable websites and
+North Assembly should periodically review applicable websites and
 services to confirm that this Policy still matches the technologies
 actually deployed.
 
@@ -402,7 +402,7 @@ reviewed and updated where necessary.
 22. CONTACT
 ============================================================
 
-Cookie-related questions may be directed to Weird Stuff through the
+Cookie-related questions may be directed to North Assembly through the
 designated official contact channel.
 
 Official contact email:
@@ -418,7 +418,7 @@ Privacy contact:
 23. FINAL PUBLICATION REQUIREMENTS
 ============================================================
 
-Before this Policy is published as final, Weird Stuff must verify:
+Before this Policy is published as final, North Assembly must verify:
 
 * All covered websites and services.
 * All cookies actually deployed.
@@ -447,7 +447,7 @@ Before this Policy is published as final, Weird Stuff must verify:
 ============================================================
 
 Document:
-WEIRD STUFF — COOKIE POLICY
+NORTH ASSEMBLY — COOKIE POLICY
 
 Version:
 1.1
@@ -465,7 +465,7 @@ Last Updated:
 September 12, 2026
 
 Owner:
-Weird Stuff
+North Assembly
 
 ============================================================
 END OF DOCUMENT
