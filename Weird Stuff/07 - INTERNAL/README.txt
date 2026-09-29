@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 INTERNAL DOCUMENTATION
 
 PURPOSE
 
-This section contains internal working rules that are intended for the Weird Stuff team and are not public documentation.
+This section contains internal working rules that are intended for the North Assembly team and are not public documentation.
 
 AREAS
 
