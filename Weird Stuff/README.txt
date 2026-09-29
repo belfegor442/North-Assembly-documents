@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 DOCUMENTATION ROOT
 
 Version: 1.4
@@ -7,7 +7,7 @@ Updated: September 12, 2026
 
 ABOUT THIS REPOSITORY
 
-This is the working documentation for Weird Stuff. It is where the company keeps its rules, decisions, product records, operational standards, and public material.
+This is the working documentation for North Assembly. It is where the company keeps its rules, decisions, product records, operational standards, and public material.
 
 The structure is intentionally numbered so the main areas remain easy to find and sort consistently. Each major section has its own README.txt that acts as a local index.
 
