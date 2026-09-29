@@ -1,11 +1,11 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 DATALOG — PRODUCT SPECIFICATION
 
 Version: 1.1
 Status: PENDING PRODUCT DEFINITION
 Classification: INTERNAL
 Last Updated: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 
 PURPOSE
 
