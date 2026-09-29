@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 WEBSITE CONTENT STANDARDS
 
 Version: 1.1
@@ -7,12 +7,12 @@ Classification: PUBLIC
 
 PURPOSE
 
-These standards govern official Weird Stuff website content. The website should give visitors an accurate picture of the company, its products, and their current status.
+These standards govern official North Assembly website content. The website should give visitors an accurate picture of the company, its products, and their current status.
 
 1. CONTENT
 
 [MANDATORY]
-Published information must accurately represent Weird Stuff, its products, and their status.
+Published information must accurately represent North Assembly, its products, and their status.
 
 [MANDATORY]
 Public legal documents must not contain unresolved placeholders when they are presented as effective legal documents.
