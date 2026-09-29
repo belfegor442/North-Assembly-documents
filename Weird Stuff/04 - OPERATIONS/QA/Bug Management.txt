@@ -1,10 +1,10 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 BUG MANAGEMENT
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 
 PURPOSE
