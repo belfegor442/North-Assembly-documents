@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 PRIVACY POLICY
 
 Version: 1.1
@@ -6,18 +6,18 @@ Status: DRAFT FOR LEGAL REVIEW
 Publication Status: PENDING
 Effective Date: PENDING
 Last Updated: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-This Privacy Policy explains how Weird Stuff may collect, use,
+This Privacy Policy explains how North Assembly may collect, use,
 store, disclose, and otherwise process personal data through the
 websites, applications, software, services, support channels, and
 other products covered by this Policy.
 
-Weird Stuff intends to handle personal data lawfully, fairly, and
+North Assembly intends to handle personal data lawfully, fairly, and
 transparently, while applying security measures appropriate to the
 nature and risk of the processing.
 
@@ -35,7 +35,7 @@ Legal name:
 ---
 
 Trading name:
-Weird Stuff
+North Assembly
 
 Registered address:
 ---
@@ -71,7 +71,7 @@ provided by applicable law.
 ============================================================
 
 [MANDATORY]
-Weird Stuff will seek to apply these principles when processing
+North Assembly will seek to apply these principles when processing
 personal data:
 
 * Lawfulness, fairness, and transparency.
@@ -114,7 +114,7 @@ The actual categories collected by each service must be verified
 before publication.
 
 [MANDATORY]
-Weird Stuff must not claim to collect a category of data when the
+North Assembly must not claim to collect a category of data when the
 relevant service does not actually collect it.
 
 ============================================================
@@ -129,7 +129,7 @@ Personal data may be obtained:
 * Through account registration.
 * Through custom application requests.
 * Through security or operational systems.
-* From service providers acting for Weird Stuff.
+* From service providers acting for North Assembly.
 * From another lawful source where applicable.
 
 The actual collection methods for each product must be verified
@@ -139,7 +139,7 @@ before publication.
 7. PURPOSES OF PROCESSING
 ============================================================
 
-Depending on the service, Weird Stuff may process personal data to:
+Depending on the service, North Assembly may process personal data to:
 
 * Provide requested services.
 * Create and manage accounts.
@@ -179,7 +179,7 @@ Possible bases include:
 The legal basis for each actual processing activity must be
 identified before publication.
 
-Weird Stuff must not describe consent as the legal basis when another
+North Assembly must not describe consent as the legal basis when another
 basis actually applies.
 
 ============================================================
@@ -198,13 +198,13 @@ Users must be able to withdraw consent where applicable.
 Withdrawal does not affect the lawfulness of processing that occurred
 before withdrawal.
 
-The actual consent mechanisms used by Weird Stuff must be documented.
+The actual consent mechanisms used by North Assembly must be documented.
 
 ============================================================
 10. LEGITIMATE INTERESTS
 ============================================================
 
-Where Weird Stuff relies on legitimate interests, the relevant
+Where North Assembly relies on legitimate interests, the relevant
 processing must be assessed and balanced against the rights and
 interests of affected individuals.
 
@@ -216,7 +216,7 @@ be documented before publication.
 ============================================================
 
 [MANDATORY]
-Weird Stuff must limit personal-data collection and processing to
+North Assembly must limit personal-data collection and processing to
 what is necessary for the relevant purpose.
 
 [MANDATORY]
@@ -231,7 +231,7 @@ limit personal data to what is necessary for the defined purpose.
 ============================================================
 
 [MANDATORY]
-Weird Stuff must take reasonable measures to keep personal data
+North Assembly must take reasonable measures to keep personal data
 accurate when accuracy matters to the processing.
 
 [MANDATORY]
@@ -263,7 +263,7 @@ Retention may depend on:
 
 Depending on the service, personal data may be processed by:
 
-* Authorized Weird Stuff personnel.
+* Authorized North Assembly personnel.
 * Hosting providers.
 * Infrastructure providers.
 * Software providers.
@@ -283,11 +283,11 @@ technically convenient.
 15. DATA PROCESSORS
 ============================================================
 
-When a third party processes personal data on behalf of Weird Stuff,
+When a third party processes personal data on behalf of North Assembly,
 the relationship must be assessed and managed according to
 applicable law.
 
-Where relevant, Weird Stuff must document:
+Where relevant, North Assembly must document:
 
 * Processor identity.
 * Processing purpose.
@@ -307,7 +307,7 @@ for appropriate technical and organizational measures.
 Personal data may be processed or transferred outside the User's
 country or relevant jurisdiction when permitted by applicable law.
 
-Before publication, Weird Stuff must identify, where applicable:
+Before publication, North Assembly must identify, where applicable:
 
 * Whether international transfers occur.
 * Relevant countries.
@@ -322,7 +322,7 @@ Transfers must comply with applicable data-protection requirements.
 ============================================================
 
 [MANDATORY]
-Weird Stuff must use technical and organizational measures
+North Assembly must use technical and organizational measures
 appropriate to the risks of its personal-data processing.
 
 Depending on the service, measures may include:
@@ -396,7 +396,7 @@ Official privacy contact:
 Requests must be handled according to applicable verification,
 response, and procedural requirements.
 
-Where permitted or required, Weird Stuff may request information
+Where permitted or required, North Assembly may request information
 reasonably necessary to verify the requester's identity.
 
 ============================================================
@@ -407,14 +407,14 @@ Where GDPR or other applicable data-protection law applies, a User
 may have the right to complain to the competent supervisory
 authority.
 
-The relevant authority must be identified according to Weird Stuff's
+The relevant authority must be identified according to North Assembly's
 actual legal structure and processing activities before publication.
 
 ============================================================
 22. AUTOMATED DECISION-MAKING AND PROFILING
 ============================================================
 
-Weird Stuff must determine whether any service performs:
+North Assembly must determine whether any service performs:
 
 * Automated decision-making.
 * Profiling.
@@ -431,7 +431,7 @@ be included in this Policy or a suitable additional notice.
 The age requirements and rules applicable to each service must be
 determined before publication.
 
-Where a service may be used by children or minors, Weird Stuff must
+Where a service may be used by children or minors, North Assembly must
 apply the legal requirements relevant to the service, jurisdiction,
 processing activity, and consent mechanism.
 
@@ -446,7 +446,7 @@ Users should avoid providing personal information that is not
 necessary for the intended purpose.
 
 [MANDATORY]
-Weird Stuff must process personal data contained in User-provided
+North Assembly must process personal data contained in User-provided
 content only for lawful and relevant purposes.
 
 The exact processing of User-provided content must be documented for
@@ -456,7 +456,7 @@ each applicable service.
 25. COMMUNICATIONS
 ============================================================
 
-Weird Stuff may communicate with Users about:
+North Assembly may communicate with Users about:
 
 * Requested services.
 * Account activity.
@@ -472,7 +472,7 @@ including their legal basis and opt-out mechanism where required.
 26. ANALYTICS
 ============================================================
 
-Weird Stuff must determine whether analytics technologies are used.
+North Assembly must determine whether analytics technologies are used.
 
 If they are used, the following must be documented:
 
@@ -491,7 +491,7 @@ If they are used, the following must be documented:
 Software and infrastructure may generate technical logs needed for
 security, troubleshooting, reliability, or normal operation.
 
-Where logs contain personal data, Weird Stuff must document:
+Where logs contain personal data, North Assembly must document:
 
 * What is recorded.
 * Why it is recorded.
@@ -508,7 +508,7 @@ process must be defined.
 
 [MANDATORY]
 Deleting an account does not necessarily mean that every piece of
-information is immediately erased when Weird Stuff has a lawful or
+information is immediately erased when North Assembly has a lawful or
 legal reason to retain specific information.
 
 Any continued retention remains subject to applicable law and the
@@ -518,7 +518,7 @@ relevant retention requirements.
 29. LINKS TO THIRD-PARTY SERVICES
 ============================================================
 
-Weird Stuff services may contain links or integrations with
+North Assembly services may contain links or integrations with
 third-party services.
 
 [MANDATORY]
@@ -526,14 +526,14 @@ Third-party services are governed by their own privacy policies where
 applicable.
 
 [MANDATORY]
-Weird Stuff must not present a third party's privacy practices as its
+North Assembly must not present a third party's privacy practices as its
 own.
 
 ============================================================
 30. CHANGES TO THIS POLICY
 ============================================================
 
-Weird Stuff may update this Policy when its processing, services,
+North Assembly may update this Policy when its processing, services,
 technology, or legal obligations change.
 
 [MANDATORY]
@@ -561,7 +561,7 @@ impact before implementation.
 ============================================================
 
 [MANDATORY]
-Weird Stuff must consider the risks that its processing activities
+North Assembly must consider the risks that its processing activities
 may create for individuals.
 
 [RECOMMENDED]
@@ -576,7 +576,7 @@ fixed list of risks.
 33. DATA PROTECTION OFFICER
 ============================================================
 
-Weird Stuff must determine whether a Data Protection Officer is
+North Assembly must determine whether a Data Protection Officer is
 legally required for any of its processing activities.
 
 If required:
@@ -591,7 +591,7 @@ DPO contact:
 34. RECORDS OF PROCESSING ACTIVITIES
 ============================================================
 
-Weird Stuff must determine whether a Record of Processing Activities
+North Assembly must determine whether a Record of Processing Activities
 is required and maintain the appropriate record where applicable.
 
 Where required, the record should cover relevant processing
@@ -602,10 +602,10 @@ transfers, and security information.
 35. LEGAL AND INTERNAL RESPONSIBILITY
 ============================================================
 
-This Policy must reflect Weird Stuff's actual privacy practices.
+This Policy must reflect North Assembly's actual privacy practices.
 
 [MANDATORY]
-Weird Stuff must not publish claims about data collection,
+North Assembly must not publish claims about data collection,
 retention, security, transfers, analytics, or third-party processing
 that do not match its actual operations.
 
@@ -618,7 +618,7 @@ Material changes to processing must trigger a review of this Policy.
 
 For privacy-related questions or requests:
 
-Weird Stuff
+North Assembly
 
 Privacy contact:
 ---
@@ -637,7 +637,7 @@ Additional contact method:
 ============================================================
 
 Document:
-WEIRD STUFF — PRIVACY POLICY
+NORTH ASSEMBLY — PRIVACY POLICY
 
 Version:
 1.1
@@ -655,13 +655,13 @@ Last Updated:
 September 12, 2026
 
 Owner:
-Weird Stuff
+North Assembly
 
 ============================================================
 38. PUBLICATION CHECKLIST
 ============================================================
 
-Before publication, Weird Stuff must verify:
+Before publication, North Assembly must verify:
 
 * Legal identity of the controller.
 * Contact details.
