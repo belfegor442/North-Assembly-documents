@@ -1,51 +1,57 @@
 NORTH ASSEMBLY
 DOCUMENTATION ROOT
 
-Version: 1.4
+Version: 1.5
 Status: IN FORCE
-Updated: September 12, 2026
+Updated: September 29, 2026
 
 ABOUT THIS REPOSITORY
 
-This is the working documentation for North Assembly. It is where the company keeps its rules, decisions, product records, operational standards, and public material.
+This repository is the controlled documentation system for North Assembly. It contains corporate rules, legal drafts, product records, operational standards, brand guidance, public material, internal procedures, and historical documentation.
 
-The structure is intentionally numbered so the main areas remain easy to find and sort consistently. Each major section has its own README.txt that acts as a local index.
+The structure is intentionally numbered. Major areas are stable, while product directories use a secondary numeric order so the most important products remain easy to find.
 
 DOCUMENT STRUCTURE
 
 01 - CORPORATE
-Company structure, responsibilities, and document control.
+Company structure, responsibilities, document control, and organization.
 
 02 - LEGAL
-Terms, policies, privacy, cookies, security, intellectual property, and custom-application rules.
+Terms, privacy, cookies, acceptable use, security, intellectual property, and custom-application policies.
 
 03 - PRODUCTS
 Product overviews, specifications, development records, technical documentation, and release history.
+01 - Monix
+02 - Telenet
+03 - Datalog
+04 - DraftPad
+05 - CryptCast
 
 04 - OPERATIONS
-Design, development, infrastructure, QA, and security procedures.
+Design, development, infrastructure, QA, security, and release procedures.
 
 05 - BRAND
-Brand identity, design rules, and marketing standards.
+North Assembly identity, visual standards, and marketing guidance.
 
 06 - PUBLIC
-Material intended for external publication, including announcements, Discord communication, and website standards.
+Announcements, public communication, Discord material, and website-content standards.
 
 07 - INTERNAL
-Internal communication, meetings, and team rules.
+Internal communications, meetings, and team rules.
 
 08 - ARCHIVE
-Superseded, retired, and historical documentation.
+Superseded, retired, and historical documentation, including legacy brand material.
 
 NAVIGATION
 
-Start here when you need to understand the repository as a whole.
+Start with this file when you need the repository structure.
 
-Use the README.txt inside a numbered section when you need to understand that section before opening individual documents.
+Use the README.txt inside each numbered section as the local index before opening individual documents.
 
-Use DOCUMENT INVENTORY.txt when you need the complete controlled-document list.
+Use DOCUMENT INVENTORY.txt for the complete controlled-document list.
 
-For Monix technical material, use 03 - PRODUCTS/Monix/Documentation/README.txt as the technical documentation index.
+For Monix technical material, use:
+03 - PRODUCTS/01 - Monix/Documentation/README.txt
 
 DOCUMENT STATUS
 
@@ -63,6 +69,10 @@ Restricted or confidential information must not be published.
 [MANDATORY]
 When a document is moved or renamed, its content and status must stay intact unless the change is deliberately recorded as a revision.
 
+BRAND TRANSITION
+
+North Assembly is the current company identity. References to Weird Stuff have been removed from active documentation. The previous WS brand asset is retained only under 08 - ARCHIVE/Legacy Brand for historical traceability and is not a current brand asset.
+
 LEGAL NOTE
 
 Some legal identity and infrastructure details are intentionally absent because they are private or have not been formally decided yet.
@@ -71,10 +81,6 @@ This repository is a documentation system; it does not, by itself, make a docume
 
 ARCHIVING
 
-Old documents are not deleted just because they are old. When historical retention is useful or required, the document belongs in 08 - ARCHIVE and should be clearly marked as no longer current.
-
-DOCUMENT INVENTORY
-
-DOCUMENT INVENTORY.txt lists the controlled documentation expected in the repository. Keep it aligned with the actual structure, including section indexes.
+Historical material should remain clearly separated from active documentation. Legacy or superseded material belongs in 08 - ARCHIVE and must not be mistaken for current policy.
 
 END OF DOCUMENT
