@@ -1,15 +1,15 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MONIX — SECURITY DOCUMENTATION
 
 Version: 1.1
 Status: INTERNAL / DEVELOPMENT
-Owner: Weird Stuff
+Owner: North Assembly
 Product: Monix
 Last Updated: September 12, 2026
 
 PURPOSE
 
-This document defines the security model and product-specific security requirements for Monix. It complements the Weird Stuff Security Policy and focuses on how those principles apply inside the application.
+This document defines the security model and product-specific security requirements for Monix. It complements the North Assembly Security Policy and focuses on how those principles apply inside the application.
 
 SECURITY OBJECTIVE
 
@@ -273,7 +273,7 @@ SECURITY INCIDENTS
 Potential incidents include credential compromise, unauthorized access, malicious modification, vulnerable dependencies, compromised releases, data exposure, update compromise, shader-related security issues, and unauthorized privileged operations.
 
 [MANDATORY]
-Monix security incidents must follow the Weird Stuff Security Policy.
+Monix security incidents must follow the North Assembly Security Policy.
 
 General response:
 
@@ -334,9 +334,9 @@ RELATED DOCUMENTATION
 * Monix Development Status.
 * Monix Configuration Documentation.
 * Monix Logging Documentation.
-* Weird Stuff Security Policy.
-* Weird Stuff Privacy Policy.
-* Weird Stuff Intellectual Property Policy.
+* North Assembly Security Policy.
+* North Assembly Privacy Policy.
+* North Assembly Intellectual Property Policy.
 
 DOCUMENT CONTROL
 
@@ -350,7 +350,7 @@ Status:
 INTERNAL / DEVELOPMENT
 
 Owner:
-Weird Stuff
+North Assembly
 
 Product:
 Monix
