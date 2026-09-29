@@ -1,15 +1,15 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 DESIGN STANDARDS
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 
 1. PURPOSE
 
-These standards set the baseline for how Weird Stuff designs products, interfaces, and communication materials. The goal is not to make everything look identical, but to make sure design decisions are deliberate, usable, honest, and consistent with the company’s identity.
+These standards set the baseline for how North Assembly designs products, interfaces, and communication materials. The goal is not to make everything look identical, but to make sure design decisions are deliberate, usable, honest, and consistent with the company’s identity.
 
 2. DESIGN PRINCIPLES
 
@@ -20,7 +20,7 @@ Every design must have a clear purpose. It must support a product, communication
 Design must not deliberately suggest capabilities, features, compatibility, performance, or status that a product does not actually have.
 
 [MANDATORY]
-Official brand assets must follow the approved Weird Stuff Brand Guidelines.
+Official brand assets must follow the approved North Assembly Brand Guidelines.
 
 [RECOMMENDED]
 Interfaces should favor readability, consistency, accessibility, and predictable interaction over decoration that does not serve a purpose.
