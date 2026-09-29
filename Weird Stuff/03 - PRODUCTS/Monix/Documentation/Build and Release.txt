@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MONIX — BUILD AND RELEASE
 
 Version: 1.1
 Status: INTERNAL / DEVELOPMENT
-Owner: Weird Stuff
+Owner: North Assembly
 Product: Monix
 Last Updated: September 12, 2026
 
@@ -329,8 +329,8 @@ RELATED DOCUMENTATION
 * Monix Shader System.
 * Monix Performance Documentation.
 * Monix Debugging Documentation.
-* Weird Stuff Security Policy.
-* Weird Stuff Intellectual Property Policy.
+* North Assembly Security Policy.
+* North Assembly Intellectual Property Policy.
 
 DOCUMENT CONTROL
 
@@ -344,7 +344,7 @@ Status:
 INTERNAL / DEVELOPMENT
 
 Owner:
-Weird Stuff
+North Assembly
 
 Product:
 Monix
