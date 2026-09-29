@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MONIX — RELEASE HISTORY
 
 Version: 1.1
 Status: INTERNAL
-Owner: Weird Stuff
+Owner: North Assembly
 Product: Monix
 Last Updated: September 12, 2026
 
@@ -256,7 +256,7 @@ Status:
 INTERNAL
 
 Owner:
-Weird Stuff
+North Assembly
 
 Product:
 Monix
