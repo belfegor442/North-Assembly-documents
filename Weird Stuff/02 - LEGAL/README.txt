@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 LEGAL DOCUMENTATION
 
 PURPOSE
 
-This section contains the legal policies and terms maintained by Weird Stuff.
+This section contains the legal policies and terms maintained by North Assembly.
 
 DOCUMENTS
 
