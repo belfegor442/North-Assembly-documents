@@ -1,15 +1,15 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 RELEASE PROCEDURE
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 12, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 
 PURPOSE
 
-This procedure sets out the normal path for taking a Weird Stuff product from development to a stable release. It is meant to keep releases predictable and traceable without adding unnecessary process to routine work.
+This procedure sets out the normal path for taking a North Assembly product from development to a stable release. It is meant to keep releases predictable and traceable without adding unnecessary process to routine work.
 
 1. RELEASE STATES
 
