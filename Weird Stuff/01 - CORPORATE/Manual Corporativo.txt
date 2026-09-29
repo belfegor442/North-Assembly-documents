@@ -1,10 +1,10 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 MANUAL CORPORATIVO
 
 Version: 1.1
 Status: IN FORCE
 Effective Date: September 7, 2026
-Owner: Weird Stuff
+Owner: North Assembly
 Classification: INTERNAL
 Approval Status: APPROVED
 
@@ -12,7 +12,7 @@ Approval Status: APPROVED
 1. PURPOSE
 ============================================================
 
-This Manual is the main internal reference for how Weird Stuff is
+This Manual is the main internal reference for how North Assembly is
 organized and operated. It covers authority, responsibilities,
 products, development, quality assurance, security, access,
 communications, and general operations.
@@ -21,7 +21,7 @@ It does not replace applicable law, contracts, or specific legal
 and operational documents.
 
 [MANDATORY]
-Everyone acting on behalf of Weird Stuff must follow the mandatory
+Everyone acting on behalf of North Assembly must follow the mandatory
 provisions that apply to their role and responsibilities.
 
 [MANDATORY]
@@ -32,7 +32,7 @@ Manual unless an approved change establishes otherwise.
 2. STATUS AND RESERVED INFORMATION
 ============================================================
 
-Weird Stuff may operate publicly under its brand while some legal,
+North Assembly may operate publicly under its brand while some legal,
 corporate, or organizational information remains private.
 
 RESERVED information includes:
@@ -114,7 +114,7 @@ CEO
 
 5.1 CEO
 
-The CEO is the highest internal executive authority of Weird Stuff,
+The CEO is the highest internal executive authority of North Assembly,
 subject to applicable legal limitations.
 
 [MANDATORY]
@@ -146,7 +146,7 @@ and escalate matters outside their authority.
 
 5.4 SPECIALIZED TEAMS
 
-Weird Stuff may organize work into functions such as:
+North Assembly may organize work into functions such as:
 
 * Development
 * Design
@@ -192,11 +192,11 @@ the authority actually granted to them.
 7. INTERNAL CONDUCT
 ============================================================
 
-People working with Weird Stuff are expected to act responsibly and
+People working with North Assembly are expected to act responsibly and
 use company resources only within the limits of their role.
 
 [MANDATORY]
-Weird Stuff resources must not intentionally be used for:
+North Assembly resources must not intentionally be used for:
 
 * Unauthorized access.
 * Credential theft.
@@ -230,7 +230,7 @@ additional review where practical.
 
 [MANDATORY]
 A known conflict must not be concealed when it could materially
-affect Weird Stuff or one of its projects.
+affect North Assembly or one of its projects.
 
 ============================================================
 9. ACCESS CONTROL
@@ -266,14 +266,14 @@ PUBLIC
 Information intended for public release.
 
 INTERNAL
-Information intended for members of Weird Stuff.
+Information intended for members of North Assembly.
 
 RESTRICTED
 Information available only to specifically authorized people.
 
 CONFIDENTIAL
 Information whose unauthorized disclosure could cause significant
-harm to Weird Stuff, its members, users, or projects.
+harm to North Assembly, its members, users, or projects.
 
 [MANDATORY]
 Restricted and confidential information may only be shared with
@@ -299,7 +299,7 @@ New members should be introduced to the tools, responsibilities,
 communication channels, and rules relevant to their work.
 
 [MANDATORY]
-When a person leaves Weird Stuff or no longer needs access, the
+When a person leaves North Assembly or no longer needs access, the
 relevant permissions must be revoked.
 
 [RECOMMENDED]
@@ -448,7 +448,7 @@ important products where technically possible.
 17. SECURITY
 ============================================================
 
-Security is a shared responsibility across Weird Stuff.
+Security is a shared responsibility across North Assembly.
 
 [MANDATORY]
 Known significant vulnerabilities must be assessed and, where
@@ -475,7 +475,7 @@ access review, and backup controls where available.
 ============================================================
 
 Security incidents may affect confidentiality, integrity,
-availability, authenticity, user security, or Weird Stuff systems.
+availability, authenticity, user security, or North Assembly systems.
 
 [MANDATORY]
 Incidents must be reported as soon as reasonably possible.
@@ -594,7 +594,7 @@ Policy.
 ============================================================
 
 [MANDATORY]
-Weird Stuff must protect intellectual property that it owns or is
+North Assembly must protect intellectual property that it owns or is
 legally entitled to use.
 
 [MANDATORY]
@@ -605,7 +605,7 @@ rights or authorization.
 Third-party software licenses must be respected.
 
 [MANDATORY]
-Weird Stuff branding must not be used in a way that falsely implies
+North Assembly branding must not be used in a way that falsely implies
 endorsement, authorization, partnership, or official representation.
 
 Detailed licensing requirements are defined in the Intellectual
@@ -615,7 +615,7 @@ Property Policy.
 24. CUSTOM APPLICATIONS
 ============================================================
 
-Weird Stuff may accept requests to create custom applications,
+North Assembly may accept requests to create custom applications,
 software, or digital projects.
 
 [MANDATORY]
@@ -655,7 +655,7 @@ Confidential internal information must not be posted publicly.
 
 [MANDATORY]
 Only authorized persons may issue communications that reasonably
-appear to represent the official position of Weird Stuff.
+appear to represent the official position of North Assembly.
 
 ============================================================
 26. PUBLIC COMMUNICATION
@@ -669,7 +669,7 @@ Public announcements must not disclose reserved information.
 
 [MANDATORY]
 Public statements must not knowingly contain materially false
-claims about Weird Stuff, its products, services, or capabilities.
+claims about North Assembly, its products, services, or capabilities.
 
 [MANDATORY]
 Internal policies must not be presented as user-facing legal terms
@@ -684,11 +684,11 @@ and the community rather than internal administrative details.
 ============================================================
 
 [MANDATORY]
-Weird Stuff must clearly identify the support channels it actually
+North Assembly must clearly identify the support channels it actually
 provides.
 
 [MANDATORY]
-Weird Stuff must not promise service levels, response times,
+North Assembly must not promise service levels, response times,
 availability, or continuous support that have not been formally
 adopted.
 
@@ -843,7 +843,7 @@ disclosure.
 ============================================================
 
 Organization:
-WEIRD STUFF
+NORTH ASSEMBLY
 
 Document:
 MANUAL CORPORATIVO
