@@ -1,4 +1,4 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 PUBLIC DISCORD COMPANY UPDATE STANDARD
 
 Version: 1.1
@@ -7,12 +7,12 @@ Classification: PUBLIC
 
 PURPOSE
 
-This document defines the baseline for official Weird Stuff company updates published through Discord. The aim is to keep public updates clear, accurate, and safe to publish.
+This document defines the baseline for official North Assembly company updates published through Discord. The aim is to keep public updates clear, accurate, and safe to publish.
 
 1. REQUIREMENTS
 
 [MANDATORY]
-Official updates must be truthful and attributable to Weird Stuff.
+Official updates must be truthful and attributable to North Assembly.
 
 [MANDATORY]
 Confidential or restricted internal information must not be included.
