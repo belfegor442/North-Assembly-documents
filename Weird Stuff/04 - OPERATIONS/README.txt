@@ -1,9 +1,9 @@
-WEIRD STUFF
+NORTH ASSEMBLY
 OPERATIONS DOCUMENTATION
 
 PURPOSE
 
-This section contains the procedures and standards used to build, test, release, secure, and operate Weird Stuff projects.
+This section contains the procedures and standards used to build, test, release, secure, and operate North Assembly projects.
 
 AREAS
 
