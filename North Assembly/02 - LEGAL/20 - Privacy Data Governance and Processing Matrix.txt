@@ -1,0 +1,40 @@
+NORTH ASSEMBLY
+PRIVACY DATA GOVERNANCE AND PROCESSING MATRIX
+
+DOCUMENT ID: NA-LGL-020
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+RULE
+
+No processing description may be invented. Every product must document actual data flows before launch.
+
+FIELDS
+
+Product | Data Category | Source | Purpose | Legal Basis | Retention | Recipients | Processor | Transfer | Security | Deletion Method | Status
+
+MINIMUM DATA CATEGORIES TO ASSESS
+
+Account identifiers; authentication data; security logs; device/network data; communications; support data; billing data; analytics; user-generated content; moderation records; backups.
+
+CONTROL
+
+Purpose limitation, data minimization, access restriction, retention limitation and deletion must be assessed for each actual processing activity.
+
+DATA SUBJECT REQUEST
+
+Request -> identity validation where appropriate -> scope -> systems searched -> legal exceptions -> action -> evidence -> closure.
+
+BREACH
+
+Potential personal-data breach -> contain -> preserve evidence -> assess -> determine legal notification duties -> document decision -> notify where required -> remediate.
+
+DPIA
+
+Where processing is likely to result in high risk, perform the applicable impact assessment before processing begins.
