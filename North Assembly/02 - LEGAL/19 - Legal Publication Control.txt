@@ -1,0 +1,39 @@
+NORTH ASSEMBLY
+LEGAL PUBLICATION CONTROL
+
+DOCUMENT ID: NA-LGL-019
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+RULE
+
+The repository master is the controlled source. Public legal pages may only be generated from a version marked eligible for publication.
+
+PUBLICATION GATE
+
+1. Correct legal identity.
+2. Correct jurisdiction.
+3. Correct contact route.
+4. Effective date.
+5. Version.
+6. Legal review PASSED where required.
+7. No unresolved placeholder.
+8. Website copy matches approved master.
+9. Acceptance/consent mechanism is operational where required.
+10. Superseded pages are removed or clearly marked as historical where appropriate.
+
+SYNCHRONIZATION
+
+A public website must never silently diverge from the repository master.
+
+If a divergence is found: record it in the Consistency Log; determine the authoritative version; correct website or repository; record the corrective commit/release.
+
+OLD PUBLIC LEGAL SETS
+
+Historical legal sets remain in ARCHIVE for traceability and must not be presented as current.
