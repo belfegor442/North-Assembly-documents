@@ -1,0 +1,38 @@
+NORTH ASSEMBLY
+CONTRIBUTOR AND IP ASSIGNMENT STANDARD
+
+DOCUMENT ID: NA-LGL-013
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+RULE
+
+No external or internal contribution is assumed to belong to North Assembly merely because it was submitted to a repository or project.
+
+BEFORE CONTRIBUTION
+
+Record contributor through the appropriate private system; project; scope; expected ownership/license outcome; applicable agreement; third-party material; and relevant AI/tool usage where required.
+
+CLEARANCE
+
+PENDING -> AGREEMENT_REQUIRED -> SIGNED/VALIDATED -> CLEARED
+
+If agreement or legal basis is missing, the contribution is NOT CLEARED for unrestricted commercial use.
+
+THIRD-PARTY MATERIAL
+
+Unknown provenance is BLOCKED.
+
+DEPARTURE
+
+Departure does not cancel rights already granted, nor does it automatically transfer rights that were never granted. The executed agreement and applicable law determine the result.
+
+PUBLIC REPOSITORY RULE
+
+Do not put private personnel records, signatures, personal contact details, credentials or confidential contracts into this public repository.
