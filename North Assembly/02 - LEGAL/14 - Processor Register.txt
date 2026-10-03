@@ -1,0 +1,27 @@
+NORTH ASSEMBLY
+PROCESSOR AND VENDOR REGISTER
+
+DOCUMENT ID: NA-LGL-014
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+FIELDS
+
+Vendor | Service | Data Categories | Role | Region | DPA | Transfer Mechanism | Subprocessors | Security Review | Status
+
+STATUS
+PENDING | REVIEW | CLEARED | BLOCKED | RETIRED
+
+RULE
+
+A vendor that processes personal data or materially supports a critical system must be recorded before production use where applicable.
+
+A production processor is not legally cleared merely because the product technically integrates with it.
+
+International transfers require a specific legal assessment and documented mechanism where applicable.
