@@ -1,0 +1,31 @@
+NORTH ASSEMBLY
+ROLE AUTHORITY MATRIX
+
+DOCUMENT ID: NA-COR-011-C
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+AUTHORITY CLASSES
+
+A — routine operational decisions.
+B — material operational/commercial decisions.
+C — reserved decisions affecting ownership, core IP, legal entity, dissolution, major commitments, material security exceptions, or equivalent matters.
+
+ROLE | CLASS A | CLASS B | CLASS C | CONTRACT SIGNING | IP DISPOSITION | ACCESS GRANT
+
+CEO | TBD | TBD | TBD | TBD | TBD | TBD
+Director | TBD | TBD | TBD | TBD | TBD | TBD
+Manager | TBD | TBD | TBD | TBD | TBD | TBD
+Developer | TBD | TBD | NO unless explicitly delegated | NO unless explicitly delegated | NO | TBD
+Designer | TBD | TBD | NO unless explicitly delegated | NO | NO | TBD
+Contributor | Minimum | NO | NO | NO | NO | Minimum
+
+RULE
+
+Permission in GitHub, cloud or another system does not itself create authority to transfer ownership, enter contracts, disclose protected data, or dispose of IP.
