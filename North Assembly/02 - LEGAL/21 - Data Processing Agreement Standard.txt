@@ -1,0 +1,40 @@
+NORTH ASSEMBLY
+DATA PROCESSING AGREEMENT STANDARD
+
+DOCUMENT ID: NA-LGL-021
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+USE
+
+Use an appropriate data-protection agreement when the actual relationship and applicable law require one.
+
+MINIMUM SUBJECTS
+
+- subject matter and duration;
+- nature and purpose;
+- types of personal data;
+- categories of data subjects;
+- documented instructions;
+- confidentiality;
+- security;
+- subprocessors;
+- assistance with rights;
+- breach assistance;
+- deletion/return;
+- audit/compliance information;
+- international transfers.
+
+CLASSIFICATION
+
+Do not assume every vendor is a processor. Determine the actual role from the processing arrangement and applicable law.
+
+PUBLIC REPOSITORY
+
+Do not store executed confidential DPAs here. Store only a non-confidential register entry and reference.
