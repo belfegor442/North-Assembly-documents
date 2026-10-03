@@ -1,0 +1,26 @@
+NORTH ASSEMBLY
+ASSET REGISTER
+
+DOCUMENT ID: NA-COR-011-B
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+FIELDS
+
+Asset ID | Asset | Type | Legal Owner | Account Owner | Custodian | Backup | Criticality | Evidence | Status
+
+CRITICAL ASSET TYPES
+
+Domains; GitHub repositories/organizations; cloud infrastructure; production databases; payment accounts; identity provider; signing keys; backup systems; official social accounts; email domains; trademark/brand accounts.
+
+RULE
+
+Critical assets must not depend exclusively on one person's private account, device, email, phone, payment card, or password vault.
+
+Technical access is not proof of legal ownership.
