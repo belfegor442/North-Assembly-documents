@@ -1,0 +1,32 @@
+NORTH ASSEMBLY
+OPEN SOURCE AND THIRD-PARTY LICENSE REGISTER
+
+DOCUMENT ID: NA-LGL-024
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+FIELDS
+
+Component | Version | Source | License | Obligations | Modification | Distribution | Attribution | Notice | Security Status | Approved By
+
+STATUSES
+
+UNKNOWN = BLOCKED
+REVIEW = NOT CLEARED
+CLEARED = APPROVED FOR THE SPECIFIC USE
+RETIRED = NO LONGER SHIPPED
+
+RULES
+
+1. Unknown license means BLOCKED.
+2. License compatibility is assessed against the actual distribution model.
+3. Required notices/attributions are preserved.
+4. Modified components are recorded.
+5. Security advisories are monitored for material dependencies.
+6. This register does not replace the full license text.
