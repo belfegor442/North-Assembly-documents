@@ -1,0 +1,27 @@
+NORTH ASSEMBLY
+CONTRACT REGISTER
+
+DOCUMENT ID: NA-LGL-015
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+FIELDS
+
+Contract ID | Counterparty | Type | Owner | Authority | Effective | Expiry/Renewal | Notice | IP | Data | Status | Evidence
+
+STATUS
+DRAFT | REVIEW | EXECUTED | ACTIVE | EXPIRED | TERMINATED | DISPUTED
+
+RULES
+
+1. Every material executed contract must have an authoritative copy in an access-controlled system.
+2. This public repository may contain a non-confidential reference record, not confidential contract text.
+3. A person must not sign or accept a material commitment without documented authority.
+4. Renewal dates and termination windows must be monitored.
+5. Contract conflicts are escalated through the dispute procedure.
