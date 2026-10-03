@@ -1,0 +1,28 @@
+NORTH ASSEMBLY
+CONFIDENTIALITY AND NDA STANDARD
+
+DOCUMENT ID: NA-LGL-022
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+CONFIDENTIAL INFORMATION MAY INCLUDE
+
+Unreleased product plans; source code not intended for public release; credentials/secrets; private commercial terms; non-public security information; protected customer information; non-public strategy; restricted third-party information.
+
+NDA DESIGN
+
+Define parties, purpose, confidential information, exclusions, permitted recipients, security duties, compelled disclosure, return/deletion, duration, remedies, governing law and signatures.
+
+RULE
+
+An NDA does not automatically transfer IP, grant employment status, create authority, or authorize processing of personal data beyond the agreed purpose.
+
+PUBLIC REPOSITORY
+
+Never store signed NDAs or private contact information here.
