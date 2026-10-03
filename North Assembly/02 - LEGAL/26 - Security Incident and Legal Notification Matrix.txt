@@ -1,0 +1,34 @@
+NORTH ASSEMBLY
+SECURITY INCIDENT AND LEGAL NOTIFICATION MATRIX
+
+DOCUMENT ID: NA-LGL-026
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+INCIDENT TYPES
+
+Security compromise
+Personal-data breach
+Service outage
+Credential exposure
+IP infringement
+Unauthorized access
+Payment incident
+
+PROCEDURE
+
+Detect -> contain -> preserve evidence -> scope -> classify -> identify legal/contractual notification duties -> notify through authorized route -> recover -> post-incident review.
+
+RULE
+
+Notification deadlines and recipients must be determined from the actual jurisdiction, data, contract and incident. Never use a generic deadline by assumption.
+
+COMMUNICATION
+
+Only authorized personnel communicate externally on behalf of North Assembly. Preserve a record of material notifications.
