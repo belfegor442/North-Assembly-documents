@@ -1,0 +1,38 @@
+NORTH ASSEMBLY
+EXIT, REMOVAL AND SUCCESSION STANDARD
+
+DOCUMENT ID: NA-LGL-017
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+TRIGGERS
+
+RESIGNATION | TERMINATION | ROLE CHANGE | SUSPENSION | COMPROMISE | INACTIVITY | DEATH/INCAPACITY
+
+IMMEDIATE ACTIONS
+
+- revoke or reduce privileged access;
+- rotate secrets where appropriate;
+- transfer organization-owned assets;
+- review pending approvals;
+- preserve records;
+- update NA-COR-002;
+- update access and asset registers.
+
+CRITICAL ASSET REQUIREMENT
+
+Every critical domain, repository, cloud account, payment system, identity provider, signing key and production database must have an organization-controlled ownership/recovery route and a backup custodian.
+
+SUCCESSION
+
+A role may be vacant. A vacancy grants no authority and no access.
+
+LEGAL EFFECT
+
+Removal from an operational role does not by itself determine employment status, contractual rights, corporate office, or IP ownership. Those matters are governed by the applicable agreement and law.
