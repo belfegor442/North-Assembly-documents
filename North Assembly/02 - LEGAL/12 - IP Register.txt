@@ -1,0 +1,37 @@
+NORTH ASSEMBLY
+INTELLECTUAL PROPERTY REGISTER
+
+DOCUMENT ID: NA-LGL-012
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+FIELDS
+
+Asset ID | Asset | Type | Creator/Source | Legal Owner | Agreement/License | Evidence | Status
+
+STATUSES
+CLEARED | ASSIGNED | LICENSED | RESTRICTED | UNVERIFIED | BLOCKED
+
+MANDATORY RULES
+
+1. Every production asset must have provenance.
+2. Unknown-license material is BLOCKED.
+3. Participation in a project does not by itself transfer IP.
+4. A repository location does not establish legal ownership.
+5. Third-party assets require license/source evidence.
+6. AI-assisted material must be reviewed against actual provider terms and applicable law.
+7. Open-source obligations must be recorded before release.
+8. Disputed ownership makes the asset UNVERIFIED and prevents unrestricted commercial use.
+
+INITIAL RECORDS
+
+IP-001 | North Assembly brand | Brand | TBD | TBD | TBD | TBD | UNVERIFIED
+IP-002 | North Assembly source code | Software | TBD | TBD | TBD | TBD | UNVERIFIED
+IP-003 | North Assembly UI/design assets | Design | TBD | TBD | TBD | TBD | UNVERIFIED
+IP-004 | Product-specific assets | Product IP | TBD | TBD | TBD | TBD | UNVERIFIED
