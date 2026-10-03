@@ -1,0 +1,32 @@
+NORTH ASSEMBLY
+DEVELOPER AND API TERMS STANDARD
+
+DOCUMENT ID: NA-LGL-023
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+COVER
+
+API eligibility; credentials; permitted use; rate limits; prohibited abuse; data handling; security; SDK license; attribution; versioning; deprecation; suspension; IP; support; termination.
+
+CREDENTIAL RULE
+
+An API key is an authentication credential, not evidence of ownership or legal authority.
+
+SECURITY
+
+Keys must be revocable and must not be committed to public repositories.
+
+BREAKING CHANGES
+
+Material changes require an appropriate notice/deprecation process consistent with the applicable product terms and contracts.
+
+DATA
+
+API consumers must not use North Assembly interfaces to process data in a manner prohibited by applicable terms or law.
