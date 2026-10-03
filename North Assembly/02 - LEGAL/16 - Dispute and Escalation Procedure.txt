@@ -1,0 +1,39 @@
+NORTH ASSEMBLY
+DISPUTE AND ESCALATION PROCEDURE
+
+DOCUMENT ID: NA-LGL-016
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+TRIGGER
+
+A dispute exists when material parties disagree about ownership, authority, obligations, money, IP, access, data, or interpretation.
+
+PROCEDURE
+
+1. Preserve evidence.
+2. Freeze irreversible action on the disputed asset where feasible.
+3. Identify the governing document and source of truth.
+4. Record the dispute and affected assets.
+5. Attempt resolution by the competent internal authority.
+6. Escalate to independent/legal review when required.
+7. Apply the contractually and legally valid dispute mechanism.
+8. Record outcome and corrective action.
+
+NO SELF-HELP
+
+No party may delete, transfer, lock, publish, sell, or materially alter a disputed asset merely to force a resolution, except where necessary for security or legal compliance.
+
+RETALIATION
+
+Good-faith reporting of legal, governance, privacy or security concerns must not itself be treated as misconduct.
+
+EVIDENCE
+
+Preserve relevant contracts, approvals, repository history and access logs subject to applicable law and retention rules.
