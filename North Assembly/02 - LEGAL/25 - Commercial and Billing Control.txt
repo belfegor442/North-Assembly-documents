@@ -1,0 +1,39 @@
+NORTH ASSEMBLY
+COMMERCIAL AND BILLING CONTROL
+
+DOCUMENT ID: NA-LGL-025
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+ASSESS
+
+Customer type: consumer/B2B
+Price and taxes
+Billing interval
+Renewal
+Cancellation
+Refunds
+Chargebacks
+Credits
+Currency
+Invoice requirements
+Mandatory consumer rights
+Contracting authority
+
+RULE
+
+Consumer protections cannot be removed by internal policy.
+
+AUTHORITY
+
+No person may promise a price, discount, refund exception, service level, liability commitment or IP concession beyond their documented authority.
+
+EVIDENCE
+
+Material commercial commitments must be traceable to an approved contract, order, proposal or other authoritative record.
