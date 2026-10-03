@@ -1,0 +1,32 @@
+NORTH ASSEMBLY
+LEGAL AND GOVERNANCE REGISTER INDEX
+
+DOCUMENT ID: NA-COR-011
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+PURPOSE
+
+Index the authoritative registers that prevent the organization from depending on memory, private chats, or undocumented assumptions.
+
+REGISTERS
+
+NA-COR-011-A Entity Register
+NA-COR-011-B Asset Register
+NA-COR-011-C Role Authority Matrix
+NA-LGL-012 IP Register
+NA-LGL-014 Processor Register
+NA-LGL-015 Contract Register
+NA-LGL-011 Legal Risk Register
+
+CONTROL RULE
+
+A register is not complete because its columns exist. Every critical row requires evidence or an explicit TBD/UNVERIFIED state.
+
+No document may invent a value that belongs in a register.
