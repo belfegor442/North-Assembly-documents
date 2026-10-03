@@ -1,0 +1,29 @@
+NORTH ASSEMBLY
+ENTITY REGISTER
+
+DOCUMENT ID: NA-COR-011-A
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+FIELD | VALUE | VERIFIED | EVIDENCE
+
+Legal name | TBD | NO | TBD
+Legal form | TBD | NO | TBD
+Registration number | TBD | NO | TBD
+Tax identification number | TBD | NO | TBD
+Registered office | TBD | NO | TBD
+Jurisdiction | TBD | NO | TBD
+Legal representative | TBD | NO | TBD
+Official legal contact | TBD | NO | TBD
+Data controller | TBD | NO | TBD
+DPO | TBD / NOT APPLICABLE | NO | TBD
+
+RULE
+
+No legal document may replace TBD with an assumption. Verification must come from authoritative corporate records.
