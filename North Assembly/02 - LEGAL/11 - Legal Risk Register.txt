@@ -1,0 +1,35 @@
+NORTH ASSEMBLY
+LEGAL RISK REGISTER
+
+DOCUMENT ID: NA-LGL-011
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+Review Date: April 3, 2027
+
+STATUS VALUES
+OPEN | MITIGATING | BLOCKED | ACCEPTED | CLOSED
+
+RISK REGISTER
+
+LGL-R001 | Legal entity identity not fully verified | Corporate | CRITICAL | BLOCKER | TBD
+LGL-R002 | IP ownership chain incomplete | IP | CRITICAL | BLOCKER | TBD
+LGL-R003 | Critical assets dependent on personal accounts | Operations | CRITICAL | BLOCKER | TBD
+LGL-R004 | Contributor/contractor IP agreements incomplete | People/IP | HIGH | BLOCKER | TBD
+LGL-R005 | Product-specific data maps incomplete | Privacy | HIGH | BLOCKER for affected launch | TBD
+LGL-R006 | Processor/DPA inventory incomplete | Privacy | HIGH | BLOCKER for affected processing | TBD
+LGL-R007 | Contract authority/delegation not fully recorded | Commercial | HIGH | BLOCKER for material contracts | TBD
+LGL-R008 | Succession/recovery procedure not fully tested | Governance | HIGH | BLOCKER for critical assets | TBD
+LGL-R009 | Public legal pages may differ from repository master | Publication | HIGH | BLOCKER | TBD
+LGL-R010 | Consumer/minor requirements differ by product | Product | HIGH | Product-specific review | TBD
+LGL-R011 | Open-source license inventory incomplete | IP | HIGH | BLOCKER for affected release | TBD
+LGL-R012 | Security incident notification matrix incomplete | Security/Privacy | HIGH | BLOCKER for affected service | TBD
+
+RULE
+
+Any CRITICAL risk marked BLOCKER prevents the affected public/commercial action until resolved or formally cleared by the competent authority and legal review where applicable.
