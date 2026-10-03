@@ -1,0 +1,71 @@
+NORTH ASSEMBLY
+LEGAL READINESS MASTER CHECKLIST
+
+DOCUMENT ID: NA-LGL-027
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+CORPORATE
+[ ] Legal entity verified
+[ ] Registered information verified
+[ ] Authority structure verified
+[ ] Delegations recorded
+
+OWNERSHIP
+[ ] Domains
+[ ] Repositories
+[ ] Cloud
+[ ] Brand
+[ ] Product IP
+[ ] Third-party licenses
+[ ] Contributor agreements
+
+DATA
+[ ] Data map
+[ ] Privacy notice
+[ ] Retention
+[ ] Deletion
+[ ] Processor register
+[ ] Transfer assessment
+[ ] Rights-request procedure
+[ ] Breach procedure
+
+PRODUCT
+[ ] Product terms
+[ ] Age/minor assessment
+[ ] Acceptable use
+[ ] Moderation/enforcement
+[ ] Billing/refunds
+[ ] Support
+
+SECURITY
+[ ] MFA
+[ ] Least privilege
+[ ] Secrets
+[ ] Backups
+[ ] Incident response
+[ ] Vulnerability reporting
+[ ] Recovery test
+
+GOVERNANCE
+[ ] Asset register
+[ ] IP register
+[ ] Contract register
+[ ] Risk register
+[ ] Exit/succession
+[ ] Dispute process
+[ ] Publication synchronization
+
+RELEASE RULE
+
+Any unresolved CRITICAL/BLOCKER item means NO-GO for the affected activity.
+
+LEGAL NOTE
+
+This checklist is a control framework and must be validated against the actual legal entity and jurisdictions before being treated as legal advice.
