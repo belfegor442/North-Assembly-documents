@@ -1,0 +1,38 @@
+NORTH ASSEMBLY
+ACCESS AND ASSET RECOVERY
+
+DOCUMENT ID: NA-OPS-001
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+JOINER
+
+Access only after role assignment and need confirmation.
+
+MOVER
+
+Review old permissions before granting new ones.
+
+LEAVER
+
+1. Revoke privileged access.
+2. Rotate credentials/secrets when appropriate.
+3. Transfer repositories/domains/services.
+4. Recover organization-owned equipment.
+5. Review active sessions/tokens.
+6. Update asset and role registers.
+7. Preserve relevant records.
+
+CRITICAL RECOVERY
+
+Each critical system must have an organization-controlled owner, primary custodian, backup custodian, MFA recovery, vendor recovery route, and documented transfer procedure.
+
+NO SINGLE POINT OF HUMAN CONTROL
+
+No critical asset should become unrecoverable merely because one person is unavailable or loses access.
