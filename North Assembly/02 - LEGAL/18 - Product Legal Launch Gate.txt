@@ -1,0 +1,57 @@
+NORTH ASSEMBLY
+PRODUCT LEGAL LAUNCH GATE
+
+DOCUMENT ID: NA-LGL-018
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+
+A PRODUCT IS NO-GO UNTIL ALL APPLICABLE BLOCKERS PASS
+
+IDENTITY
+[ ] Responsible legal entity verified
+[ ] Product owner verified
+[ ] Commercial authority verified
+
+IP
+[ ] Code provenance verified
+[ ] Design/assets provenance verified
+[ ] Third-party licenses verified
+[ ] Open-source obligations recorded
+
+PRIVACY
+[ ] Data map complete
+[ ] Privacy notice applicable
+[ ] Processor register updated
+[ ] Retention/deletion defined
+[ ] International transfer review complete where applicable
+[ ] Minor/age implications reviewed where applicable
+
+CONSUMER/COMMERCIAL
+[ ] Product terms complete
+[ ] Billing/refunds reviewed where applicable
+[ ] Consumer rights reviewed where applicable
+[ ] B2B terms reviewed where applicable
+
+SECURITY
+[ ] Access control
+[ ] MFA for privileged accounts
+[ ] Secrets management
+[ ] Incident route
+[ ] Vulnerability route
+[ ] Backup/recovery
+
+OPERATIONS
+[ ] Critical assets registered
+[ ] Exit/recovery tested
+[ ] Support/contact route active
+[ ] Legal pages versioned and synchronized
+
+RELEASE RULE
+
+Any unresolved CRITICAL or BLOCKER item = NO-GO.
