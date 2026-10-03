@@ -1,0 +1,50 @@
+NORTH ASSEMBLY
+LEGAL GOVERNANCE SYSTEM
+
+DOCUMENT ID: NA-LGL-010
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: REQUIRED
+Owner: North Assembly
+Created: October 3, 2026
+Last Modified: October 3, 2026
+Review Date: April 3, 2027
+
+PURPOSE
+
+This document establishes the control system preventing undefined ownership, authority, access, IP provenance, contractual responsibility, data responsibility, succession, and dispute handling.
+
+CORE RULE
+
+If ownership, authority, responsibility, succession, or dispute resolution is not explicitly defined, the matter is UNDEFINED. Undefined matters cannot be treated as settled.
+
+SOURCE-OF-TRUTH RULE
+
+Legal identity -> NA-LGL-002 and the Entity Register.
+People/roles -> NA-COR-002.
+Document control -> NA-COR-001.
+Assets -> NA-COR-011 Asset Register.
+IP -> NA-LGL-012 IP Register.
+Contracts -> NA-LGL-015 Contract Register.
+Vendors/processors -> NA-LGL-014 Processor Register.
+Access -> NA-OPS-001 Access Control Policy.
+Decisions -> ADR records and Consistency Log.
+
+NON-NEGOTIABLE CONTROLS
+
+1. No material asset without an identified legal owner.
+2. No privileged access without an assigned role and recovery route.
+3. No production IP without provenance evidence.
+4. No material commitment without identified contracting authority.
+5. No departure without access revocation and asset recovery.
+6. No product launch with unresolved Critical/Blocking legal or security items.
+7. No public legal document may contradict the authoritative registers.
+8. A technical permission does not itself create legal authority.
+9. A repository file does not itself create ownership.
+10. Applicable law and executed contracts prevail over internal policy.
+
+LEGAL REVIEW
+
+This system is a governance framework, not legal advice. Documents marked LEGAL REVIEW: REQUIRED must not be represented as legally final until reviewed by a qualified professional for the actual entity, jurisdiction, products, users, data flows and contracts.
