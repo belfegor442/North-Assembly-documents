@@ -1,23 +1,55 @@
 NORTH ASSEMBLY
 INTERNAL DOCUMENTATION
 
+DOCUMENT ID: NA-INT-INDEX
+Type: INDEX (unversioned)
+Status: ACTIVE
+Classification: INTERNAL
+Last Modified: October 1, 2026
+Related: ADR-0006, NA-COR-002, NA-COR-004
+
 PURPOSE
 
-This section contains internal working rules that are intended for the North Assembly team and are not public documentation.
+This section contains internal working rules intended for the
+North Assembly team.
 
-AREAS
+DOCUMENTS
 
-Internal Communications
-Standards for internal written communication.
+NA-INT-001  Internal Communications/Communication Standards.txt
+Standards for internal written communication, channels and
+escalation.
 
-Meetings
-Rules and expectations for internal meetings.
+NA-INT-002  Meetings/Meeting Standards.txt
+Purpose, records, and confidentiality expectations for meetings.
 
-Team
-General rules for team members, authority, security, and role changes.
+NA-INT-003  Team/Team Rules.txt
+Authority, roles and vacancies, information handling, role
+changes and departures.
 
-ACCESS
+CLASSIFICATION AND REALITY
 
-This section should be treated as internal material. Do not publish its contents unless the specific document has been approved for external use.
+[NOTE]
+This section is labelled INTERNAL, but this repository is public.
+"Internal" here means the material is written for the team, not
+that access is restricted. Nothing in this repository is access
+controlled.
+
+[MANDATORY]
+Documents in this section must not contain personal contact data,
+private personnel records, credentials, or other material whose
+publication would cause harm.
+
+[MANDATORY]
+Genuinely restricted material must be stored outside this
+repository entirely. See ADR-0006.
+
+PEOPLE AND ROLES
+
+People, roles and vacancies are NOT documented here. The single
+source of truth is 01 - CORPORATE/Organization.txt (NA-COR-002),
+and recruitment is governed by NA-COR-004.
+
+[MANDATORY]
+This section must not list personnel.
 
 END OF DOCUMENT

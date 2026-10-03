@@ -1,0 +1,492 @@
+NORTH ASSEMBLY
+TÉRMINOS Y CONDICIONES
+
+Version: 1.1
+Status: DRAFT FOR LEGAL REVIEW
+Publication Status: PENDING
+Effective Date: PENDING
+Last Updated: September 12, 2026
+Owner: North Assembly
+
+============================================================
+1. INTRODUCTION
+============================================================
+
+These Terms and Conditions (the "Terms") govern access to and use
+of products, applications, websites, digital services, and other
+services made available by North Assembly ("North Assembly", "we", "us",
+or "our").
+
+By using a service covered by these Terms, the User ("you" or "your")
+must comply with the applicable Terms, subject to the rights and
+protections provided by applicable law.
+
+The final legal identity, address, jurisdiction, and other required
+provider information must be completed before publication.
+
+============================================================
+2. SCOPE
+============================================================
+
+These Terms apply to services that explicitly identify themselves as
+being subject to them.
+
+A specific product or feature may have additional terms, licenses,
+notices, or conditions.
+
+[MANDATORY]
+Where a specific product condition conflicts with these Terms, the
+specific condition governs the relevant product or feature to the
+extent permitted by law.
+
+[MANDATORY]
+No product-specific condition may remove a non-waivable legal right.
+
+============================================================
+3. ACCEPTANCE
+============================================================
+
+[MANDATORY]
+Users must comply with these Terms when using a covered service.
+
+Depending on the service and applicable law, acceptance may occur
+through website access, account creation, installation, activation,
+or another clearly presented mechanism.
+
+The exact acceptance mechanism for each service must be defined
+before publication.
+
+============================================================
+4. ELIGIBILITY
+============================================================
+
+Use of a service may depend on age, legal capacity, or another
+eligibility requirement.
+
+[MANDATORY]
+A User must not use a service when doing so would violate an
+applicable age restriction, legal requirement, or eligibility
+condition.
+
+Minimum-age requirements and rules concerning minors must be defined
+according to the relevant service and applicable law.
+
+============================================================
+5. ACCOUNTS
+============================================================
+
+Where a service requires an account:
+
+[MANDATORY]
+Users must not knowingly provide false or misleading information.
+
+[MANDATORY]
+Users are responsible for protecting their credentials except where
+applicable law provides otherwise.
+
+[MANDATORY]
+Suspected unauthorized access should be reported promptly when the
+User can reasonably do so.
+
+[MANDATORY]
+An account must not knowingly be used to impersonate another person
+or entity.
+
+Account creation, verification, recovery, deletion, and
+authentication requirements must be defined for each service.
+
+============================================================
+6. USER CONDUCT
+============================================================
+
+[MANDATORY]
+Users must use North Assembly services lawfully and follow these Terms
+and any product-specific rules.
+
+Users must not intentionally:
+
+* Gain unauthorized access to systems, accounts, or data.
+* Circumvent security controls or access restrictions.
+* Distribute malware or malicious code.
+* Conduct fraud or deliberate deception.
+* Steal or attempt to steal credentials.
+* Interfere with service operation.
+* Abuse technical resources.
+* Impersonate North Assembly or another person or entity.
+* Infringe applicable intellectual property rights.
+* Use services for unlawful purposes.
+* Attempt to compromise another User's account or data.
+
+Additional prohibited conduct may be defined in the Acceptable Use
+Policy.
+
+============================================================
+7. SOFTWARE AND PRODUCT USE
+============================================================
+
+North Assembly may provide software under these Terms, a separate
+license, or both.
+
+[MANDATORY]
+Users must comply with the license applicable to the software they
+use.
+
+[MANDATORY]
+Users must not knowingly remove or falsify copyright, trademark,
+licensing, attribution, or other rights notices when prohibited.
+
+The specific license for each product must be identified before
+publication.
+
+============================================================
+8. UPDATES
+============================================================
+
+North Assembly may release updates, patches, fixes, new versions,
+security updates, or other product changes.
+
+[MANDATORY]
+Users must not knowingly disable or circumvent legitimate security
+mechanisms protecting updates or product integrity.
+
+[MANDATORY]
+When an update materially changes a service, North Assembly must provide
+any notice required by applicable law.
+
+[RECOMMENDED]
+Important updates should include clear release notes.
+
+============================================================
+9. AVAILABILITY
+============================================================
+
+North Assembly aims to maintain its services appropriately, but does
+not promise that every service will always be uninterrupted,
+error-free, or permanently available unless an express commitment
+says otherwise.
+
+[MANDATORY]
+Nothing in these Terms excludes or limits rights or guarantees that
+cannot legally be excluded or limited.
+
+Any formal availability commitment or service level must be defined
+separately before publication.
+
+============================================================
+10. BETA, EXPERIMENTAL, AND DEVELOPMENT FEATURES
+============================================================
+
+Some products or features may be offered as development, beta,
+preview, experimental, or testing versions.
+
+[MANDATORY]
+Experimental features must not knowingly be presented as fully
+stable when their status is relevant to the User.
+
+[RECOMMENDED]
+Experimental products should clearly identify their status and known
+limitations.
+
+============================================================
+11. CUSTOM APPLICATIONS
+============================================================
+
+North Assembly may accept requests for custom software, applications,
+tools, or other digital projects.
+
+[MANDATORY]
+Submitting a request does not automatically create an obligation for
+North Assembly to develop it.
+
+Requests may be assessed according to:
+
+* Technical feasibility.
+* Available resources.
+* Security considerations.
+* Legal considerations.
+* Project scope.
+* Compatibility with North Assembly policies.
+* Compatibility with existing projects.
+
+[MANDATORY]
+North Assembly may reject a request that creates an unacceptable legal,
+security, technical, or operational risk.
+
+The Custom Applications Policy provides additional conditions.
+
+============================================================
+12. USER CONTENT
+============================================================
+
+Users may submit, upload, transmit, or otherwise provide content when
+a North Assembly service supports those functions.
+
+[MANDATORY]
+Users must not knowingly submit content they are prohibited from
+submitting by law or the applicable service rules.
+
+[MANDATORY]
+Users retain any rights they possess in their content, subject to
+specific rights or licenses expressly granted to North Assembly.
+
+Any license granted by Users to North Assembly must be defined for the
+relevant service.
+
+============================================================
+13. INTELLECTUAL PROPERTY
+============================================================
+
+North Assembly and its licensors may own rights in software, source
+code, designs, trademarks, logos, documentation, interfaces, visual
+assets, text, and other materials made available through its
+services.
+
+[MANDATORY]
+Unless expressly permitted, Users do not receive ownership of Weird
+Stuff intellectual property merely by accessing or using a service.
+
+[MANDATORY]
+Third-party intellectual property remains subject to its respective
+rights and licenses.
+
+The Intellectual Property Policy provides additional rules.
+
+============================================================
+14. PRIVACY AND DATA PROTECTION
+============================================================
+
+Personal-data processing is governed by the applicable Privacy
+Policy and data-protection law.
+
+[MANDATORY]
+Users should review the Privacy Policy applicable to the service
+before providing personal information.
+
+[MANDATORY]
+Nothing in these Terms removes rights that cannot legally be waived.
+
+============================================================
+15. COOKIES AND SIMILAR TECHNOLOGIES
+============================================================
+
+Where websites or services use cookies or similar technologies,
+their use may be governed by the Cookie Policy.
+
+The applicable Cookie Policy and consent mechanisms must be
+identified before publication where required.
+
+============================================================
+16. SUPPORT
+============================================================
+
+North Assembly may provide support through designated channels.
+
+[MANDATORY]
+North Assembly must only promise support availability or response times
+that it has actually committed to provide.
+
+Official support channels and any response commitments must be
+defined before publication.
+
+============================================================
+17. THIRD-PARTY SERVICES
+============================================================
+
+Services may depend on or integrate with third-party software,
+platforms, hosting providers, communication systems, payment
+providers, or other external services.
+
+[MANDATORY]
+Third-party services remain subject to their own terms and policies
+where applicable.
+
+[MANDATORY]
+North Assembly must not knowingly represent a third-party service as
+being owned or controlled by North Assembly when that is not the case.
+
+============================================================
+18. SUSPENSION AND TERMINATION
+============================================================
+
+Where legally and contractually permitted, North Assembly may restrict
+or terminate access to a service for a legitimate reason, including
+serious violations of these Terms, security threats, abuse, fraud,
+or technical necessity.
+
+[MANDATORY]
+Suspension or termination must be carried out consistently with
+applicable law and non-waivable User rights.
+
+Specific procedures must be defined for each service where necessary.
+
+============================================================
+19. SECURITY INCIDENTS
+============================================================
+
+Users who become aware of a security issue affecting a North Assembly
+service should report it through an appropriate official channel.
+
+[MANDATORY]
+Users must not exploit a vulnerability beyond what is reasonably
+necessary to demonstrate or report it where applicable security rules
+prohibit further activity.
+
+The official vulnerability-reporting channel must be published.
+
+============================================================
+20. WARRANTIES AND DISCLAIMERS
+============================================================
+
+Where legally permitted, North Assembly may provide products or services
+on an "as available" basis.
+
+[MANDATORY]
+Nothing in these Terms excludes mandatory legal guarantees,
+consumer rights, or other protections that cannot lawfully be
+excluded.
+
+Product-specific warranty and disclaimer language must be reviewed
+before publication.
+
+============================================================
+21. LIABILITY
+============================================================
+
+[MANDATORY]
+Any limitation of liability must comply with applicable law.
+
+These Terms are not intended to exclude liability that cannot
+legally be excluded or limited.
+
+Final liability provisions require jurisdiction-specific legal
+review before publication.
+
+============================================================
+22. CHANGES TO THESE TERMS
+============================================================
+
+North Assembly may update these Terms when necessary.
+
+[MANDATORY]
+Material changes must be communicated through an appropriate
+mechanism when required by law or contract.
+
+[MANDATORY]
+A new version must identify its effective date.
+
+The final publication and notification mechanism must be defined.
+
+============================================================
+23. GOVERNING LAW
+============================================================
+
+The governing law must be defined according to the actual legal
+structure, jurisdiction, and applicable mandatory consumer
+protections.
+
+Any dispute-resolution mechanism must receive legal review before
+publication.
+
+============================================================
+24. SEVERABILITY
+============================================================
+
+If a provision of these Terms is found invalid or unenforceable, the
+remaining provisions remain in effect to the extent permitted by law.
+
+[MANDATORY]
+This clause must not be used to remove or restrict mandatory legal
+protections.
+
+============================================================
+25. NO WAIVER
+============================================================
+
+Failure to enforce a provision immediately does not automatically
+constitute a permanent waiver of that provision, subject to
+applicable law.
+
+============================================================
+26. ENTIRE AGREEMENT
+============================================================
+
+Where legally applicable, these Terms together with the policies and
+documents expressly incorporated into them form the agreement
+covering the applicable service.
+
+Product-specific agreements may take precedence for matters they
+specifically address.
+
+============================================================
+27. CONTACT
+============================================================
+
+Official contact information must be completed before publication.
+
+Official email:
+---
+
+Official website:
+---
+
+Legal contact:
+---
+
+============================================================
+28. DOCUMENT CONTROL
+============================================================
+
+Document:
+NORTH ASSEMBLY — TERMS AND CONDITIONS
+
+Version:
+1.1
+
+Status:
+DRAFT FOR LEGAL REVIEW
+
+Publication:
+PENDING
+
+Effective Date:
+PENDING
+
+Last Updated:
+September 12, 2026
+
+Owner:
+North Assembly
+
+============================================================
+29. IMPORTANT LEGAL COMPLETION ITEMS
+============================================================
+
+Before publication, the following must be completed or legally
+reviewed:
+
+* Legal identity.
+* Provider identification.
+* Applicable jurisdiction.
+* Contact information.
+* User eligibility requirements.
+* Account rules where applicable.
+* Product-specific licenses.
+* User-content license where applicable.
+* Support conditions.
+* Commercial conditions where applicable.
+* Refund and cancellation rules where applicable.
+* Consumer-specific information where applicable.
+* Privacy Policy reference.
+* Cookie Policy reference.
+* Acceptable Use Policy reference.
+* Intellectual Property Policy reference.
+* Custom Applications Policy reference.
+* Liability wording.
+* Governing law.
+* Dispute-resolution mechanism.
+* Publication and acceptance mechanism.
+* Effective date.
+
+============================================================
+END OF DOCUMENT
+============================================================

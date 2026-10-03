@@ -1,108 +1,368 @@
 NORTH ASSEMBLY
 DOCUMENT CONTROL
 
-Version: 1.1
-Status: IN FORCE
-Effective Date: September 12, 2026
-Owner: North Assembly
+DOCUMENT ID: NA-COR-001
+Version: 2.0
+Status: ACTIVE
 Classification: INTERNAL
+Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: Document Control v1.1 (NA-COR-001 v1.1)
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-This document explains how North Assembly keeps its controlled documentation consistent, current, and traceable.
+This document defines how North Assembly identifies, classifies,
+versions, and relates its controlled documentation.
 
-The purpose is not to add unnecessary bureaucracy. It is to make it clear which document is current, what a document means, and when a change became effective.
+Its purpose is not bureaucracy. Its purpose is to make it obvious,
+at a glance and months later, what a document is, whether it is
+current, who it is for, and what it replaces.
 
 [MANDATORY]
-A controlled document must have an identifiable title, version, status, owner, classification, and effective date when an effective date is applicable.
+Every controlled document must carry a document ID, title, status,
+classification, version, owner, and last-modified date.
 
 [MANDATORY]
-A superseded document must not be presented or treated as the current authoritative version.
+A superseded document must not be presented or treated as the
+current authoritative version.
 
 ============================================================
-2. DOCUMENT STATUS
+2. DOCUMENT IDENTIFICATION
 ============================================================
 
-IN FORCE
-The document is currently approved and applicable.
+Every controlled document carries a stable identifier:
 
-DRAFT FOR REVIEW
-The document is being prepared or reviewed. It is not yet authoritative.
+  NA-<AREA>-<NUMBER>
 
-PENDING
-The document structure exists, but required information, decisions, or approval are still missing.
+Area codes:
 
-RETIRED
-The document is no longer applicable but is being retained for reference.
+  NA-COR-xxx   Corporate
+  NA-LGL-xxx   Legal
+  NA-PRD-xxx   Products (with product code, e.g. NA-PRD-MON-001)
+  NA-OPS-xxx   Operations
+  NA-BRD-xxx   Brand
+  NA-PUB-xxx   Public
+  NA-INT-xxx   Internal
+  NA-ARC-xxx   Archive
+  ADR-xxxx     Architecture / organizational decision record
+
+[MANDATORY]
+A document ID never changes, even if the file is renamed or moved.
+
+[MANDATORY]
+A document ID is never reused for a different document.
+
+[RECOMMENDED]
+Files should be named so that the ID can be located quickly, but
+the ID inside the document is authoritative.
+
+============================================================
+3. DOCUMENT STATUS
+============================================================
+
+STATUS describes the document's authority. Exactly one value:
+
+DRAFT
+Being written or substantially incomplete. Not authoritative.
+
+REVIEW
+Complete enough to be reviewed. Not yet approved.
+
+APPROVED
+Approved internally. This is an internal fact only. It does not
+mean legally reviewed, signed, filed, or binding on anyone.
+
+ACTIVE
+Currently in force and applicable.
+
+DEPRECATED
+Replaced by a newer document. Still readable, no longer current.
 
 ARCHIVED
-The document is historical or superseded material retained under archive controls.
+Historical material retained under archive rules.
 
-A document's status is part of its meaning. The existence of a file in the repository does not, by itself, make that file an active policy.
-
-============================================================
-3. VERSIONING
-============================================================
-
-Versions exist to make meaningful changes identifiable. They are not intended to be changed merely because a file was opened or reformatted.
+EXPERIMENTAL
+Provisional. May be withdrawn or rewritten without notice.
 
 [MANDATORY]
-A material change requires a new document version.
+Exactly one STATUS value per document.
 
 [MANDATORY]
-The effective date must be updated when a new version enters into force.
-
-[MANDATORY]
-Changes to legal documents must not be represented as legally effective until the applicable review and publication requirements have been completed.
+The existence of a file in this repository does not make it an
+active policy. Its STATUS does.
 
 ============================================================
 4. CLASSIFICATION
 ============================================================
 
+CLASSIFICATION describes who may read the document. It is never
+stored in the STATUS field.
+
 PUBLIC
-Information approved for public distribution.
+Approved for distribution outside North Assembly.
 
 INTERNAL
-Information intended for North Assembly personnel and authorized collaborators.
+For North Assembly members and authorized collaborators.
 
 RESTRICTED
-Information available only to specifically authorized recipients.
+For specifically authorized recipients only.
 
 CONFIDENTIAL
-Information whose unauthorized disclosure could materially harm North Assembly, its users, members, or projects.
+Unauthorized disclosure would materially harm North Assembly,
+its users, members, or projects.
 
 RESERVED
-Information intentionally withheld from publication, whether because it is private, undecided, or otherwise restricted.
+Information intentionally withheld, whether private, undecided,
+or otherwise restricted.
+
+REPOSITORY VISIBILITY RULE (ADR-0006)
+
+This repository is public. Therefore:
+
+[MANDATORY]
+RESTRICTED and CONFIDENTIAL material must not be stored in this
+repository. It must be held in a location whose access controls
+match its classification.
+
+[MANDATORY]
+A document stored here must not be labelled RESTRICTED or
+CONFIDENTIAL. If a document needs that label, it is in the wrong
+place.
+
+[MANDATORY]
+INTERNAL documents in this repository must not contain secrets,
+credentials, personal contact data, private personnel records, or
+infrastructure details that are not already public.
 
 ============================================================
-5. CHANGE CONTROL
+5. SECONDARY ATTRIBUTES
 ============================================================
 
-Documentation should be understandable not only when it is written, but also when someone needs to understand it months later.
+These describe completeness and review state. They are separate
+from STATUS so that a document can be ACTIVE and still contain
+pending items.
+
+COMPLETENESS
+  COMPLETE          No known pending content.
+  PENDING ITEMS(n)  Contains explicit [PENDING] markers.
+
+LEGAL REVIEW
+  NOT REQUIRED      Internal or technical document.
+  REQUIRED          Must be legally reviewed before publication.
+  PASSED            Review completed and recorded.
+  NOT PASSED        Review attempted and rejected.
+
+[MANDATORY]
+A legal document with LEGAL REVIEW: REQUIRED must not be
+published or presented as effective terms.
+
+============================================================
+6. STANDARD HEADER
+============================================================
+
+Every controlled document begins with:
+
+------------------------------------------------------------
+NORTH ASSEMBLY
+<TITLE>
+
+DOCUMENT ID: NA-XXX-NNN
+Version: X.Y
+Status: <STATUS>
+Classification: <CLASSIFICATION>
+Completeness: COMPLETE
+Legal Review: <NOT REQUIRED | REQUIRED | PASSED | NOT PASSED>
+Owner: <role or "North Assembly">
+Created: <date>
+Last Modified: <date>
+Review Date: <date>
+Supersedes: <ID + version, or "—">
+Superseded By: <ID + version, or "—">
+Related: <ID list>
+------------------------------------------------------------
+
+[MANDATORY]
+A header block must not contradict the body of the document.
+
+[MANDATORY]
+If a document also carries a trailing DOCUMENT CONTROL block,
+that block must repeat the header's Status and Version exactly.
+A document with two different status values is a contradiction
+and must be corrected, not interpreted.
+
+[MANDATORY]
+STATUS and CLASSIFICATION are different fields. A value such as
+INTERNAL is a classification and must never appear in the Status
+field; a value such as DRAFT FOR LEGAL REVIEW is not a status and
+must never appear either.
+
+[RECOMMENDED]
+A document with no applicable relationship uses "—" rather than
+omitting the field.
+
+INDEX FILES
+
+Root README.txt, DOCUMENT INVENTORY.txt and section README.txt
+files are navigation aids. They are unversioned: they carry at
+least DOCUMENT ID, Status, Classification and Last Modified, and
+may add Type, Owner, and Related for context.
+
+============================================================
+7. VERSIONING
+============================================================
+
+Versions are X.Y. The major number changes when the meaning of
+the document changes; the minor number changes for corrections,
+clarification, and header maintenance.
+
+[MANDATORY]
+A material change requires a new version.
+
+[MANDATORY]
+A correction that does not change meaning may increment only the
+minor version.
+
+[MANDATORY]
+Reformatting, header migration, and typographical fixes do not by
+themselves require a version change.
+
+[MANDATORY]
+The effective date or Last Modified date must be updated when a
+new version becomes current.
+
+[MANDATORY]
+Changes to legal documents must not be represented as legally
+effective until the applicable review and publication requirements
+have been completed.
+
+============================================================
+8. CHANGE CONTROL
+============================================================
 
 [MANDATORY]
 Important changes must be traceable through version control.
 
 [MANDATORY]
-A document must not be silently replaced while retaining an obsolete version identifier.
+A document must not be silently replaced while retaining an
+obsolete version identifier.
+
+[MANDATORY]
+A material organizational, product, legal, or policy decision
+must be recorded as an ADR in 01 - CORPORATE/Decisions, not only
+as an edit to an existing document.
 
 [RECOMMENDED]
-Material documents should include a revision history when the history is useful for understanding their development.
+Material documents should include a revision history when that
+history helps explain their development.
 
 ============================================================
-6. ARCHIVE
+9. SUPERSESSION AND CROSS-REFERENCES
 ============================================================
-
-Old documentation is not automatically useless. Historical versions can be important when investigating past decisions, understanding a product's development, or establishing what rules were previously in force.
 
 [MANDATORY]
-Superseded documents must be retained when historical traceability is required.
+When a document replaces another, both sides record it:
+Supersedes on the new document, Superseded By on the old one.
 
 [MANDATORY]
-Archived documents must be clearly distinguishable from current policy and must not be presented as authoritative.
+Documents reference each other by document ID and section number,
+not by file path or line number. Paths and line numbers rot.
+
+[MANDATORY]
+A fact must have exactly one source document. Other documents
+reference it rather than restating it.
+
+Primary sources of truth:
+
+  People, roles, vacancies      -> NA-COR-002 Organization
+  Recruitment and vacancies     -> NA-COR-004 Recruitment and Roles
+  Document rules                -> NA-COR-001 (this document)
+  Project list and classification -> 03 - PRODUCTS registry
+  Legal identity and contacts   -> NA-LGL-002 Privacy Policy
+  Status vocabulary             -> this document
 
 ============================================================
+10. CONTRADICTION HANDLING
+============================================================
+
+Documentation rot usually appears as two documents disagreeing.
+
+[MANDATORY]
+When a contradiction is found, it is recorded in
+01 - CORPORATE/Decisions/Consistency Log.txt with the documents
+involved and its resolution status.
+
+[MANDATORY]
+A contradiction must not be resolved by silently picking one
+value. If the evidence is unclear, mark it [REQUIRES CONFIRMATION].
+
+[MANDATORY]
+A change to a primary source of truth (section 9) must update its
+dependent documents in the same commit.
+
+============================================================
+11. ARCHIVE
+============================================================
+
+Old documentation is not automatically useless. Historical
+versions matter when investigating past decisions, understanding
+a product's development, or establishing what was previously in
+force.
+
+[MANDATORY]
+Superseded documents must be retained when historical
+traceability is required.
+
+[MANDATORY]
+Archived documents must be clearly distinguishable from current
+policy and must not be presented as authoritative.
+
+[MANDATORY]
+Archived content is preserved as-is. Provenance is recorded in
+the archive index, not by editing archived files.
+
+============================================================
+12. RELATIONSHIP WITH OTHER RULES
+============================================================
+
+This document governs documentation only. It does not override:
+
+* Applicable law.
+* Binding contractual obligations.
+* The Manual Corporativo (NA-COR-003) on organizational matters.
+
+[MANDATORY]
+Where this document conflicts with applicable law, the law takes
+precedence and this document must be reviewed.
+
+============================================================
+DOCUMENT CONTROL
+============================================================
+
+Document: NORTH ASSEMBLY — DOCUMENT CONTROL
+ID: NA-COR-001
+Version: 2.0
+Status: ACTIVE
+Classification: INTERNAL
+Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: v1.1 (September 12, 2026)
+
+CHANGE HISTORY
+
+2.0  October 1, 2026
+     Replaced the five-status vocabulary with the seven-status
+     vocabulary. Separated STATUS from CLASSIFICATION, added
+     COMPLETENESS and LEGAL REVIEW. Introduced document IDs, the
+     standard header, review dates, supersession fields, the
+     public-repository rule, and contradiction handling.
+
+1.1  September 12, 2026
+     Initial controlled version.
+
 END OF DOCUMENT
-============================================================

@@ -1,0 +1,637 @@
+NORTH ASSEMBLY
+CUSTOM APPLICATIONS POLICY
+
+Version: 1.1
+Status: DRAFT FOR LEGAL REVIEW
+Publication Status: PENDING
+Effective Date: PENDING
+Last Updated: September 12, 2026
+Owner: North Assembly
+
+============================================================
+1. PURPOSE
+============================================================
+
+This Policy explains how North Assembly handles requests for custom
+software and other digital projects. It covers the process from the
+initial request through evaluation, development, testing, delivery,
+and any agreed support afterward.
+
+The aim is to make the process predictable for both North Assembly and
+the requester, while keeping technical, security, legal, and
+intellectual-property responsibilities clear.
+
+============================================================
+2. SCOPE
+============================================================
+
+This Policy applies when an individual, community, organization,
+or other party asks North Assembly to evaluate or develop a custom
+project.
+
+Custom work may include:
+
+* Desktop applications.
+* Web applications.
+* Mobile applications.
+* Games.
+* Utilities.
+* Automation tools.
+* Scripts.
+* Internal tools.
+* Digital services.
+* Other software projects agreed by North Assembly.
+
+The exact range of services offered by North Assembly may be defined
+separately.
+
+============================================================
+3. GENERAL PRINCIPLE
+============================================================
+
+[MANDATORY]
+Submitting a request does not mean that North Assembly has agreed to
+develop it.
+
+[MANDATORY]
+Every request must be evaluated before it is accepted.
+
+[MANDATORY]
+North Assembly may refuse a request when there is a legitimate reason
+to do so.
+
+============================================================
+4. REQUEST SUBMISSION
+============================================================
+
+A request should contain enough information for North Assembly to
+understand what is being requested.
+
+Where relevant, the requester should provide:
+
+* Project name.
+* Purpose of the project.
+* Intended users.
+* Main features.
+* Target platform.
+* Technical requirements.
+* External integrations.
+* Requested deadline.
+* Relevant assets.
+* Other special requirements.
+
+[RECOMMENDED]
+Requests should be complete and accurate. Missing or inaccurate
+information can affect evaluation, scope, timing, and feasibility.
+
+============================================================
+5. REQUEST EVALUATION
+============================================================
+
+North Assembly may consider the following when evaluating a request:
+
+* Technical feasibility.
+* Available personnel and resources.
+* Project complexity.
+* Security risks.
+* Legal requirements.
+* Intellectual-property issues.
+* Compatibility with North Assembly systems.
+* Compatibility with existing projects.
+* Expected maintenance requirements.
+* Requested deadline.
+* Required infrastructure.
+
+[MANDATORY]
+A request must not be accepted when North Assembly determines that the
+work presents an unacceptable legal or security risk.
+
+============================================================
+6. GROUNDS FOR REFUSAL
+============================================================
+
+North Assembly may refuse a request for reasons including:
+
+* Illegal purpose.
+* Unacceptable security risk.
+* Malicious functionality.
+* Unauthorized access functionality.
+* Malware functionality.
+* Credential theft.
+* Fraud.
+* Abuse of third-party systems.
+* Excessive technical risk.
+* Insufficient resources.
+* Requirements that are too incomplete to evaluate.
+* Incompatible requirements.
+* Conflict with existing North Assembly projects.
+* Intellectual-property concerns.
+* Unreasonable maintenance requirements.
+
+============================================================
+7. ACCEPTANCE
+============================================================
+
+A project is accepted only when North Assembly explicitly agrees to
+undertake it through an authorized communication or process.
+
+[MANDATORY]
+An idea, discussion, message, suggestion, or preliminary estimate
+must not be treated as project acceptance unless North Assembly clearly
+states that the project has been accepted.
+
+[MANDATORY]
+An accepted project should have, at minimum:
+
+* Defined scope.
+* Main requirements.
+* Responsible person or team.
+* Expected deliverable.
+* Current status.
+
+============================================================
+8. PROJECT SCOPE
+============================================================
+
+The agreed scope defines what North Assembly is responsible for
+developing.
+
+[MANDATORY]
+Features outside the agreed scope are not automatically included.
+
+[MANDATORY]
+Additional features may require a new evaluation and agreement.
+
+[RECOMMENDED]
+The agreed scope should be recorded before substantial development
+begins.
+
+============================================================
+9. REQUIREMENTS
+============================================================
+
+[MANDATORY]
+Requirements must be clear enough for the development team to
+implement and test the project.
+
+If a requirement is unclear, incomplete, or contradictory, Weird
+Stuff may request clarification before implementation.
+
+[MANDATORY]
+North Assembly may change the technical implementation when necessary
+to achieve the agreed result, provided that the agreed functionality
+is not materially changed without appropriate notice or agreement.
+
+============================================================
+10. DEVELOPMENT
+============================================================
+
+[MANDATORY]
+Custom applications must follow the applicable North Assembly standards
+for:
+
+* Software development.
+* Security.
+* Testing.
+* Version control.
+* Intellectual property.
+* Release management.
+
+[MANDATORY]
+Developers must not intentionally add malicious or unauthorized
+functionality to a custom application.
+
+============================================================
+11. TESTING
+============================================================
+
+[MANDATORY]
+A custom application must receive testing appropriate to its scope
+and risk before it is considered ready for delivery.
+
+Testing may include:
+
+* Functional testing.
+* Regression testing.
+* Compatibility testing.
+* Performance testing.
+* Security testing.
+* User acceptance testing, where applicable.
+
+[MANDATORY]
+Known critical defects must be considered before final delivery.
+
+============================================================
+12. DELIVERY
+============================================================
+
+A project may be delivered through an agreed method, including:
+
+* Executable software.
+* Source code.
+* Installation package.
+* Repository access.
+* Hosted service.
+* Digital files.
+* Another agreed delivery method.
+
+Specific delivery arrangements may vary by project.
+
+[MANDATORY]
+North Assembly must not state that a project has been delivered when
+the agreed deliverable has not actually been provided.
+
+============================================================
+13. CHANGES AFTER DELIVERY
+============================================================
+
+Requests made after delivery may be treated as:
+
+* Bug fixes.
+* Maintenance.
+* New features.
+* Scope changes.
+* New project work.
+
+[MANDATORY]
+A request that materially changes the agreed functionality may
+require a new evaluation.
+
+============================================================
+14. SUPPORT AND MAINTENANCE
+============================================================
+
+Custom applications do not automatically include permanent support
+or maintenance unless this has been explicitly agreed.
+
+[MANDATORY]
+North Assembly must not promise ongoing support that has not been
+accepted.
+
+[RECOMMENDED]
+The project should state whether maintenance is:
+
+* Included.
+* Optional.
+* Limited.
+* Not provided.
+
+============================================================
+15. AVAILABILITY
+============================================================
+
+When North Assembly hosts or operates a custom application:
+
+[MANDATORY]
+North Assembly must not promise continuous availability unless an
+appropriate service commitment has been established.
+
+Any hosting or availability commitment should be defined separately
+for the relevant project.
+
+============================================================
+16. INTELLECTUAL PROPERTY
+============================================================
+
+A custom project may contain intellectual property belonging to:
+
+* North Assembly.
+* The requester.
+* Third-party licensors.
+* Other contributors.
+
+[MANDATORY]
+Ownership must not be assumed simply because North Assembly developed
+the software.
+
+[MANDATORY]
+If ownership is transferred, assigned, or licensed, the applicable
+agreement must clearly define the relevant rights.
+
+Standard intellectual-property terms for custom projects remain to
+be defined where necessary.
+
+============================================================
+17. SOURCE CODE
+============================================================
+
+Source-code ownership and delivery must be determined for each
+custom project where relevant.
+
+Possible arrangements include:
+
+* Source code retained by North Assembly.
+* Source code delivered to the requester.
+* Shared rights.
+* Licensed access.
+* Another legally valid arrangement.
+
+============================================================
+18. THIRD-PARTY SOFTWARE
+============================================================
+
+[MANDATORY]
+Third-party software and assets used in a custom project remain
+subject to their applicable licenses.
+
+[MANDATORY]
+North Assembly must not grant rights that it does not possess.
+
+[MANDATORY]
+Where a third-party license imposes redistribution or usage
+conditions, the project must comply with those conditions.
+
+============================================================
+19. USER-PROVIDED MATERIALS
+============================================================
+
+A requester may provide materials such as:
+
+* Images.
+* Logos.
+* Text.
+* Code.
+* Audio.
+* Video.
+* Data.
+* Other assets.
+
+[MANDATORY]
+The requester must have the necessary rights or authorization to
+provide those materials for their intended use.
+
+[MANDATORY]
+North Assembly may reject or request replacement of material where
+there is a reasonable intellectual-property, privacy, security, or
+legal concern.
+
+============================================================
+20. PERSONAL DATA
+============================================================
+
+Custom applications may process personal data depending on their
+design.
+
+[MANDATORY]
+Personal data must not be collected or processed merely because it
+could technically be collected.
+
+[MANDATORY]
+Where North Assembly processes personal data for a custom project, the
+applicable privacy requirements must be identified.
+
+The relevant controller, processor, or contractual roles must be
+determined for each project where required.
+
+============================================================
+21. SECURITY REQUIREMENTS
+============================================================
+
+[MANDATORY]
+Custom applications must not intentionally include functionality
+designed to:
+
+* Steal credentials.
+* Obtain unauthorized access.
+* Circumvent security controls.
+* Deploy malware.
+* Destroy data maliciously.
+* Attack third-party systems.
+
+[MANDATORY]
+Security-sensitive functionality must receive appropriate review
+before delivery.
+
+============================================================
+22. DEADLINES
+============================================================
+
+A requested deadline is subject to technical feasibility and
+available resources.
+
+[MANDATORY]
+A requested deadline must not be presented as a guaranteed delivery
+date unless North Assembly has expressly committed to it.
+
+[RECOMMENDED]
+Important projects should use realistic milestones where useful.
+
+============================================================
+23. PROJECT STATUS
+============================================================
+
+A custom application may use statuses such as:
+
+* Requested.
+* Under Review.
+* Accepted.
+* In Development.
+* Testing.
+* Ready for Delivery.
+* Delivered.
+* Maintenance.
+* Completed.
+* Rejected.
+* Cancelled.
+
+[MANDATORY]
+Project status must not knowingly be misrepresented.
+
+============================================================
+24. CANCELLATION
+============================================================
+
+A project may be cancelled when, for example:
+
+* The requester withdraws the request.
+* Requirements become impossible or unreasonable.
+* Security or legal risks emerge.
+* Required resources become unavailable.
+* The project becomes incompatible with North Assembly's objectives.
+* Another legitimate reason makes continuation impractical.
+
+[MANDATORY]
+Where reasonably possible, significant cancellation decisions should
+be communicated to the requester.
+
+============================================================
+25. FREE CUSTOM APPLICATIONS
+============================================================
+
+When North Assembly offers custom development free of charge:
+
+[MANDATORY]
+Free development does not guarantee acceptance of every request.
+
+[MANDATORY]
+Free development does not automatically include unlimited revisions,
+permanent maintenance, hosting, or future development.
+
+The definitive scope of any free custom-application program must be
+established separately.
+
+============================================================
+26. WARRANTIES AND DISCLAIMERS
+============================================================
+
+Any warranties, disclaimers, limitations, or service conditions for
+a custom project must be defined according to the actual project,
+applicable legal framework, and relevant agreements.
+
+[MANDATORY]
+No provision may remove a legal right that cannot lawfully be
+excluded.
+
+============================================================
+27. CONFIDENTIALITY
+============================================================
+
+When a requester provides confidential information:
+
+[MANDATORY]
+North Assembly must handle that information according to applicable
+confidentiality obligations.
+
+[MANDATORY]
+Project information must not be publicly disclosed when a valid
+confidentiality obligation prohibits disclosure.
+
+============================================================
+28. PROJECT COMMUNICATION
+============================================================
+
+[MANDATORY]
+Project-related decisions should be communicated through authorized
+channels.
+
+[RECOMMENDED]
+Important decisions should be documented so that the project history
+remains understandable.
+
+============================================================
+29. DELIVERY OF CREDENTIALS
+============================================================
+
+When a custom project requires credentials or access to be provided
+to a requester:
+
+[MANDATORY]
+Credentials must be transmitted using an appropriate secure method.
+
+[MANDATORY]
+North Assembly must not intentionally expose credentials publicly.
+
+[MANDATORY]
+Temporary credentials should be replaced or revoked when appropriate.
+
+============================================================
+30. PROJECT RETIREMENT
+============================================================
+
+A custom application may eventually become unsupported or retired.
+
+[MANDATORY]
+Where North Assembly operates the application, retirement must be
+handled in a controlled manner.
+
+Specific retirement and data-handling requirements should be defined
+according to the project.
+
+============================================================
+31. DISPUTES AND ESCALATION
+============================================================
+
+Questions or disputes should first be addressed through the
+designated project contact.
+
+If the matter cannot be resolved there, it may be escalated through
+the North Assembly organizational structure:
+
+Responsible Person
+->
+Manager
+->
+Director
+->
+CEO
+
+============================================================
+32. RELATIONSHIP WITH OTHER POLICIES
+============================================================
+
+This Policy complements:
+
+* Manual Corporativo.
+* Terms and Conditions.
+* Privacy Policy.
+* Cookie Policy.
+* Acceptable Use Policy.
+* Security Policy.
+* Intellectual Property Policy.
+
+[MANDATORY]
+When a custom project is governed by a separate contract or
+agreement, that agreement controls the matters specifically covered
+by it.
+
+============================================================
+33. POLICY UPDATES
+============================================================
+
+[MANDATORY]
+This Policy must be reviewed when:
+
+* The custom-application program changes.
+* New types of projects are introduced.
+* Intellectual-property arrangements change.
+* Security requirements change.
+* Applicable legal requirements change.
+
+The current version must always be identifiable.
+
+============================================================
+34. CONTACT
+============================================================
+
+Custom application request channel:
+
+Email:
+---
+
+Website:
+---
+
+Other official channel:
+---
+
+These contact details remain pending until an official request
+channel is established.
+
+============================================================
+35. DOCUMENT CONTROL
+============================================================
+
+Document:
+NORTH ASSEMBLY — CUSTOM APPLICATIONS POLICY
+
+Version:
+1.1
+
+Status:
+DRAFT FOR LEGAL REVIEW
+
+Publication:
+PENDING
+
+Effective Date:
+PENDING
+
+Last Updated:
+September 12, 2026
+
+Owner:
+North Assembly
+
+============================================================
+END OF DOCUMENT
+============================================================

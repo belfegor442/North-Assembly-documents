@@ -1,0 +1,543 @@
+NORTH ASSEMBLY
+ACCEPTABLE USE POLICY
+
+Version: 1.1
+Status: DRAFT FOR LEGAL REVIEW
+Publication Status: PENDING
+Effective Date: PENDING
+Last Updated: September 12, 2026
+Owner: North Assembly
+
+============================================================
+1. PURPOSE
+============================================================
+
+This Acceptable Use Policy (AUP) explains how North Assembly products,
+applications, websites, services, infrastructure, communication
+channels, and other covered resources may be used.
+
+The aim is to protect Users, North Assembly, third parties,
+infrastructure, intellectual property, and the availability and
+security of North Assembly services.
+
+============================================================
+2. SCOPE
+============================================================
+
+This Policy applies to Users and other people using a North Assembly
+service that refers to this Policy.
+
+It may cover:
+
+* Applications.
+* Software.
+* Websites.
+* Digital services.
+* Accounts.
+* APIs.
+* Custom applications.
+* Communication systems.
+* North Assembly community spaces.
+* Other resources explicitly designated by North Assembly.
+
+The final list of covered services remains pending.
+
+============================================================
+3. GENERAL REQUIREMENTS
+============================================================
+
+[MANDATORY]
+Users must:
+
+* Use North Assembly services lawfully.
+* Follow the applicable Terms and Conditions.
+* Respect the rights of other Users and third parties.
+* Respect security controls.
+* Use resources for their intended purposes.
+* Provide accurate information where required.
+* Follow product-specific rules.
+
+[MANDATORY]
+Users must not deliberately misuse North Assembly systems, resources,
+accounts, or services.
+
+============================================================
+4. UNAUTHORIZED ACCESS
+============================================================
+
+[MANDATORY]
+Users must not:
+
+* Access another person's account without authorization.
+* Obtain another person's credentials without authorization.
+* Circumvent authentication.
+* Bypass access controls.
+* Exploit security restrictions for unauthorized access.
+* Access systems or information without permission.
+* Keep unauthorized access after discovering it.
+
+[MANDATORY]
+Technical knowledge or discovery of a vulnerability does not itself
+create permission to access restricted systems.
+
+============================================================
+5. SECURITY TESTING AND VULNERABILITIES
+============================================================
+
+Security research must remain within the scope of any authorization
+that applies.
+
+[MANDATORY]
+Users must not knowingly exploit a vulnerability to:
+
+* Obtain unauthorized data.
+* Obtain credentials.
+* Damage systems.
+* Interrupt services.
+* Escalate privileges without authorization.
+* Establish persistent unauthorized access.
+* Harm another User.
+
+[RECOMMENDED]
+Security vulnerabilities should be reported through the official
+security channel rather than publicly disclosed before North Assembly
+has had a reasonable opportunity to respond.
+
+Official security reporting channel:
+---
+
+============================================================
+6. MALWARE AND MALICIOUS CODE
+============================================================
+
+[MANDATORY]
+Users must not intentionally use North Assembly services to:
+
+* Distribute malware.
+* Deploy ransomware.
+* Distribute credential-stealing software.
+* Operate malicious payloads.
+* Distribute destructive code.
+* Create or distribute software intended to compromise systems.
+* Conceal malicious activity through North Assembly infrastructure.
+
+This applies whether the target is North Assembly or a third party.
+
+============================================================
+7. FRAUD AND DECEPTION
+============================================================
+
+[MANDATORY]
+Users must not use North Assembly services for:
+
+* Fraud.
+* Credential theft.
+* Phishing.
+* Deliberate impersonation.
+* Identity deception.
+* Financial scams.
+* Social engineering intended to obtain unauthorized access,
+  credentials, money, or sensitive information.
+
+[MANDATORY]
+Users must not falsely represent themselves as official North Assembly
+representatives.
+
+============================================================
+8. ABUSE OF INFRASTRUCTURE
+============================================================
+
+[MANDATORY]
+Users must not intentionally:
+
+* Overload services.
+* Consume unreasonable resources through abuse.
+* Cause denial of service.
+* Interfere with infrastructure.
+* Circumvent resource limitations.
+* Use automation designed to impair service operation.
+* Generate excessive malicious traffic.
+
+Specific resource limits may be established for individual services.
+
+============================================================
+9. AUTOMATION AND SCRAPING
+============================================================
+
+Automation may be permitted when a service supports it.
+
+[MANDATORY]
+Users must not use automation to:
+
+* Circumvent technical restrictions.
+* Evade security controls.
+* Flood services.
+* Harvest restricted information.
+* Circumvent rate limits.
+* Interfere with normal operation.
+* Obtain information they are not authorized to access.
+
+Individual services may define additional API and automation rules.
+
+============================================================
+10. PRIVACY AND PERSONAL DATA
+============================================================
+
+[MANDATORY]
+Users must not intentionally use North Assembly services to collect,
+expose, sell, distribute, or otherwise misuse another person's
+personal data without appropriate authorization or legal basis.
+
+[MANDATORY]
+Users must not publicly expose sensitive information obtained through
+North Assembly services for malicious or unauthorized purposes.
+
+[MANDATORY]
+Users must respect the Privacy Policy and applicable data-protection
+requirements.
+
+============================================================
+11. INTELLECTUAL PROPERTY
+============================================================
+
+[MANDATORY]
+Users must not knowingly use North Assembly services to infringe the
+intellectual property rights of others.
+
+This includes unauthorized use of:
+
+* Copyrighted material.
+* Trademarks.
+* Software.
+* Designs.
+* Digital assets.
+* Documentation.
+* Other protected material.
+
+[MANDATORY]
+Applicable licenses must be respected when using third-party software
+or content.
+
+============================================================
+12. IMPERSONATION AND BRAND ABUSE
+============================================================
+
+[MANDATORY]
+Users must not:
+
+* Impersonate North Assembly.
+* Pretend to be an authorized representative.
+* Create deceptive accounts intended to appear official.
+* Falsely claim a partnership with North Assembly.
+* Misuse North Assembly branding to deceive Users.
+
+[MANDATORY]
+Official communications may only be issued through authorized
+channels or by authorized representatives.
+
+============================================================
+13. HARASSMENT AND ABUSIVE CONDUCT
+============================================================
+
+[MANDATORY]
+Users must not intentionally use North Assembly services for serious
+harassment, threats, intimidation, or targeted abuse.
+
+[MANDATORY]
+Threats involving physical harm, credible criminal activity, or
+serious safety risks may be escalated through appropriate channels
+where permitted or required.
+
+============================================================
+14. ILLEGAL USE
+============================================================
+
+[MANDATORY]
+North Assembly services must not knowingly be used for activities that
+violate applicable law.
+
+Users remain responsible for ensuring that their use of North Assembly
+services is lawful in their circumstances.
+
+============================================================
+15. CUSTOM APPLICATION REQUESTS
+============================================================
+
+Custom application requests receive additional review.
+
+[MANDATORY]
+Users must not request that North Assembly knowingly create or provide
+software intended to facilitate:
+
+* Unauthorized access.
+* Malware distribution.
+* Credential theft.
+* Fraud.
+* Destructive attacks.
+* Illegal surveillance.
+* Abuse of third-party systems.
+* Other prohibited activity.
+
+[MANDATORY]
+North Assembly may reject requests that create unacceptable legal,
+security, operational, or technical risks.
+
+The Custom Applications Policy provides additional requirements.
+
+============================================================
+16. CONTENT
+============================================================
+
+Where a North Assembly service permits Users to upload or submit
+content:
+
+[MANDATORY]
+Users must not intentionally submit content for purposes that violate
+applicable law or the service's rules.
+
+[MANDATORY]
+Users must not knowingly submit malware or malicious executable
+content where such content is prohibited.
+
+[MANDATORY]
+Submission systems must not be used to attack, test, or disrupt the
+service without authorization.
+
+============================================================
+17. SECURITY CONTROLS
+============================================================
+
+[MANDATORY]
+Users must not intentionally circumvent or disable security controls
+implemented to protect North Assembly services, accounts, data, or
+infrastructure.
+
+This may include:
+
+* Authentication mechanisms.
+* Authorization checks.
+* Rate limits.
+* Access restrictions.
+* Integrity checks.
+* Update verification.
+* Security monitoring controls.
+
+============================================================
+18. ACCOUNT ABUSE
+============================================================
+
+[MANDATORY]
+Users must not create or operate accounts for abusive purposes.
+
+This includes:
+
+* Mass account creation intended to bypass restrictions.
+* Fake accounts used for fraud.
+* Accounts created to evade enforcement.
+* Credential sharing where prohibited.
+* Account trading where prohibited.
+* Deliberate use of compromised accounts.
+
+============================================================
+19. ENFORCEMENT
+============================================================
+
+Where legally and contractually permitted, North Assembly may take
+appropriate action when this Policy is violated.
+
+Possible actions include:
+
+* Warning.
+* Restriction.
+* Temporary suspension.
+* Removal of specific functionality.
+* Account suspension.
+* Account termination.
+* Removal of prohibited content.
+* Blocking abusive activity.
+* Referral to another process or authority where appropriate.
+
+[MANDATORY]
+Enforcement should be proportionate to the circumstances and
+consistent with applicable law and contractual obligations.
+
+============================================================
+20. IMMEDIATE SECURITY MEASURES
+============================================================
+
+When there is a credible and significant threat to Users,
+infrastructure, or service security:
+
+[MANDATORY]
+North Assembly may take immediate technical measures reasonably
+necessary to contain the threat, including temporary access
+restrictions or service isolation, subject to applicable law.
+
+Such measures do not automatically determine whether the User has
+violated this Policy.
+
+============================================================
+21. APPEALS
+============================================================
+
+The final appeal mechanism for suspended or restricted Users remains
+to be defined.
+
+Where an appeal process exists, it should identify:
+
+* Appeal method.
+* Appeal deadline.
+* Required information.
+* Review process.
+* Final decision authority.
+
+============================================================
+22. REPORTING VIOLATIONS
+============================================================
+
+Users may report suspected violations through official channels.
+
+Abuse reporting channel:
+---
+
+Security reporting channel:
+---
+
+General support channel:
+---
+
+============================================================
+23. EVIDENCE AND INVESTIGATIONS
+============================================================
+
+When a violation is reasonably suspected:
+
+[MANDATORY]
+North Assembly may review information reasonably necessary to investigate
+it, subject to applicable law, privacy requirements, and the relevant
+service policies.
+
+[MANDATORY]
+Investigation information must be accessible only to people who need
+it for the relevant purpose.
+
+[RECOMMENDED]
+Significant enforcement actions should be documented internally.
+
+============================================================
+24. THIRD-PARTY SYSTEMS
+============================================================
+
+[MANDATORY]
+Users must not use North Assembly services to attack, disrupt,
+compromise, or gain unauthorized access to third-party systems.
+
+Authorization from a User does not automatically authorize access to
+a third-party system.
+
+============================================================
+25. RESPONSIBILITY FOR USE
+============================================================
+
+Users are responsible for their own activity when using North Assembly
+services.
+
+[MANDATORY]
+Users must take reasonable steps to protect their accounts and
+credentials.
+
+[MANDATORY]
+Users must not knowingly allow their account to be used for
+prohibited activity.
+
+============================================================
+26. POLICY UPDATES
+============================================================
+
+North Assembly may update this Policy as services, risks, or legal and
+operational requirements change.
+
+[MANDATORY]
+Material changes must be communicated through an appropriate
+mechanism where required.
+
+[MANDATORY]
+The current version must be identifiable by version number and
+effective date.
+
+============================================================
+27. RELATIONSHIP WITH OTHER DOCUMENTS
+============================================================
+
+This Policy supplements the North Assembly Terms and Conditions.
+
+The Privacy Policy governs personal-data processing.
+
+The Cookie Policy governs applicable cookies and similar
+technologies.
+
+The Intellectual Property Policy governs intellectual property and
+licensing.
+
+The Security Policy establishes internal security requirements.
+
+The Custom Applications Policy governs custom software requests.
+
+[MANDATORY]
+These documents should be interpreted consistently where possible.
+
+============================================================
+28. LEGAL COMPLIANCE
+============================================================
+
+[MANDATORY]
+Nothing in this Policy is intended to remove rights or obligations
+that cannot legally be excluded.
+
+Where this Policy conflicts with mandatory applicable law, the law
+takes precedence.
+
+============================================================
+29. CONTACT
+============================================================
+
+General contact:
+---
+
+Abuse contact:
+---
+
+Security contact:
+---
+
+Website:
+---
+
+============================================================
+30. DOCUMENT CONTROL
+============================================================
+
+Document:
+NORTH ASSEMBLY — ACCEPTABLE USE POLICY
+
+Version:
+1.1
+
+Status:
+DRAFT FOR LEGAL REVIEW
+
+Publication:
+PENDING
+
+Effective Date:
+PENDING
+
+Last Updated:
+September 12, 2026
+
+Owner:
+North Assembly
+
+============================================================
+END OF DOCUMENT
+============================================================

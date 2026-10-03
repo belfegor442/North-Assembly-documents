@@ -1,0 +1,63 @@
+NORTH ASSEMBLY
+MEAT — PRODUCT OVERVIEW
+
+DOCUMENT ID: NA-PRD-MEA-001
+Version: 1.0
+Status: DRAFT
+Classification: INTERNAL
+Completeness: PENDING ITEMS (8)
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Created: October 1, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: —
+Superseded By: —
+Related: NA-PRD-INDEX (registry row NA-PRD-MEA), C-008
+
+STATUS OF THIS DOCUMENT
+
+This is a placeholder record. Meat is named as part of the North
+Assembly / previous-identity project set, and pages for it exist
+on the public website. Its purpose and state are not documented in
+this repository.
+
+[MANDATORY]
+This document must not be used to describe Meat's purpose or
+capabilities. Nothing about them is documented here.
+
+[MANDATORY]
+No inference may be drawn from the product name.
+
+WHAT IS STILL UNKNOWN
+
+[PENDING]
+Product purpose.
+[PENDING]
+Current lifecycle state (active, retired, abandoned).
+[PENDING]
+Whether the website pages reflect a current product or a
+historical one.
+[PENDING]
+Relationship to the previous organizational identity, if any.
+[PENDING]
+Owner and contributors.
+[PENDING]
+Supported platforms and technology.
+[PENDING]
+Whether it has ever been released.
+
+OPEN QUESTION
+
+[REQUIRES CONFIRMATION]
+Is Meat a current North Assembly project, a historical project, or
+a website-only artifact? The registry row stays [UNKNOWN] until
+this is answered.
+
+DOCUMENTATION RULES
+
+[MANDATORY]
+The registry status must be corrected as soon as this question is
+answered.
+
+END OF DOCUMENT

@@ -1,0 +1,70 @@
+NORTH ASSEMBLY
+MSG.TERM — PRODUCT OVERVIEW
+
+DOCUMENT ID: NA-PRD-MSG-001
+Version: 1.0
+Status: DRAFT
+Classification: INTERNAL
+Completeness: PENDING ITEMS (7)
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Created: October 1, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: —
+Superseded By: —
+Related: NA-PRD-INDEX (registry row NA-PRD-MSG)
+
+NAMING
+
+The product name is written exactly:
+
+  msg.term
+
+[MANDATORY]
+The name must not be substituted with any other spelling,
+including "msg.mesh". Documents referring to this product use
+"msg.term" verbatim.
+
+STATUS OF THIS DOCUMENT
+
+This is a placeholder record. msg.term is understood to be a
+terminal-oriented communication component of the North Assembly
+ecosystem, related to user communication and to server-side
+infrastructure. Its actual state is not documented in this
+repository.
+
+[MANDATORY]
+This document must not be used to describe msg.term's
+capabilities. No capability is documented here.
+
+WHAT IS STILL UNKNOWN
+
+[PENDING]
+Current lifecycle state.
+[PENDING]
+Whether the component exists in a repository today.
+[PENDING]
+Whether it is part of the server infrastructure or a separate
+product.
+[PENDING]
+Architecture and technology stack.
+[PENDING]
+Owner and contributors.
+[PENDING]
+Relationship to registration, user accounts, messaging, or friend
+systems, if any.
+[PENDING]
+Whether any of it is accessible outside North Assembly.
+
+DOCUMENTATION RULES
+
+[MANDATORY]
+Undocumented capabilities must remain undocumented here rather
+than inferred from the name.
+
+[MANDATORY]
+A confirmed fact about msg.term is recorded here, with its
+source, before it is used in any other document.
+
+END OF DOCUMENT

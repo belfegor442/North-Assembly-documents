@@ -1,12 +1,18 @@
 NORTH ASSEMBLY
 ACCEPTABLE USE POLICY
 
-Version: 1.1
-Status: DRAFT FOR LEGAL REVIEW
+DOCUMENT ID: NA-LGL-004
+Version: 1.2
+Status: DRAFT
+Classification: PUBLIC
+Completeness: PENDING ITEMS (9)
+Legal Review: REQUIRED
+Owner: North Assembly
 Publication Status: PENDING
 Effective Date: PENDING
-Last Updated: September 12, 2026
-Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: March 1, 2027
 
 ============================================================
 1. PURPOSE
@@ -380,8 +386,10 @@ violated this Policy.
 21. APPEALS
 ============================================================
 
-The final appeal mechanism for suspended or restricted Users remains
-to be defined.
+[PENDING]
+The appeal channel does not exist yet. Until it is published, no
+suspension or termination under this Policy may be treated as
+final.
 
 Where an appeal process exists, it should identify:
 
@@ -390,6 +398,19 @@ Where an appeal process exists, it should identify:
 * Required information.
 * Review process.
 * Final decision authority.
+
+[MANDATORY]
+A User told of a suspension or restriction must also be told how
+to appeal and within what period.
+
+[MANDATORY]
+The reviewer must not be the person who made the original
+decision, where that is practicable.
+
+[MANDATORY]
+A permanent termination must not take effect until an appeal
+procedure has been published, unless applicable law permits
+immediate action and the User is informed afterwards.
 
 ============================================================
 22. REPORTING VIOLATIONS
@@ -521,10 +542,9 @@ Document:
 NORTH ASSEMBLY — ACCEPTABLE USE POLICY
 
 Version:
-1.1
+1.2
 
-Status:
-DRAFT FOR LEGAL REVIEW
+Status: DRAFT
 
 Publication:
 PENDING
@@ -532,8 +552,11 @@ PENDING
 Effective Date:
 PENDING
 
-Last Updated:
-September 12, 2026
+Last Updated: October 1, 2026
+Change History:
+1.2  October 1, 2026 - section 21 (APPEALS) replaced
+with mandatory appeal requirements; document-control
+header and tail synchronised.
 
 Owner:
 North Assembly

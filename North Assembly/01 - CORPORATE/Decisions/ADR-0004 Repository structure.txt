@@ -1,0 +1,53 @@
+ADR-0004
+DOCUMENTATION REPOSITORY STRUCTURE
+
+Date: September 29, 2026
+Status: ACCEPTED
+Classification: INTERNAL
+Owner: North Assembly
+Related: NA-COR-001, root README.txt, DOCUMENT INVENTORY.txt
+
+CONTEXT
+
+Documentation previously lived in an unnumbered tree (the "Esp"
+layout) mixed with placeholder files of no content.
+
+PROBLEM
+
+A documentation system needs stable areas, predictable ordering,
+and a clear boundary between corporate, legal, product,
+operational, public, internal and historical material.
+
+DECISION
+
+The repository uses eight numbered top-level sections:
+
+  01 - CORPORATE
+  02 - LEGAL
+  03 - PRODUCTS
+  04 - OPERATIONS
+  05 - BRAND
+  06 - PUBLIC
+  07 - INTERNAL
+  08 - ARCHIVE
+
+Product directories use a secondary numeric order so the most
+important products remain easy to find.
+
+CONSEQUENCES
+
+* The top-level structure is stable; new areas require an ADR.
+* Every controlled document appears in DOCUMENT INVENTORY.txt.
+* The old layout is preserved under 08 - ARCHIVE rather than
+  deleted.
+
+ALTERNATIVES CONSIDERED
+
+* Topic-based folders without numbering — rejected: ordering
+  becomes arbitrary.
+* One folder per document — rejected: fragmentation.
+
+RELATED DOCUMENTS
+
+North Assembly/README.txt
+North Assembly/DOCUMENT INVENTORY.txt

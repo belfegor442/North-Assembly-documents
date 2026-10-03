@@ -1,0 +1,135 @@
+NORTH ASSEMBLY
+COMMERCIAL TERMS
+
+DOCUMENT ID: NA-LGL-009
+Version: 1.0
+Status: DRAFT
+Classification: PUBLIC
+Completeness: PENDING ITEMS (11)
+Legal Review: REQUIRED
+Owner: North Assembly
+Publication Status: PENDING
+Effective Date: PENDING
+Created: October 1, 2026
+Last Modified: October 1, 2026
+Review Date: PENDING
+Supersedes: —
+Superseded By: —
+Related: NA-LGL-001, NA-LGL-002, NA-LGL-008, 03 - PRODUCTS/README.txt
+
+============================================================
+1. PURPOSE
+============================================================
+
+This document is intended to define the commercial terms that
+apply if and when North Assembly offers a paid product or
+service: pricing, payment, taxes, refunds, trials, and the
+conditions of any purchase.
+
+[NOTE]
+This document is a placeholder. It records that commercial terms
+do not exist yet, so that the gap is visible.
+
+[MANDATORY]
+No part of this document may be read, quoted, or published as an
+offer, a price, or a term of sale.
+
+============================================================
+2. CURRENT STATE
+============================================================
+
+[MANDATORY]
+No pricing, payment, or commercial terms are defined for any
+North Assembly product.
+
+The project registry (03 - PRODUCTS/README.txt) records no paid
+pricing for any product.
+
+[PENDING]
+Whether North Assembly intends to charge for any product or
+service at all.
+
+============================================================
+3. TOPICS TO BE DEFINED
+============================================================
+
+[PENDING]
+Which products or services, if any, are commercial.
+[PENDING]
+Prices, currency, and how prices are communicated.
+[PENDING]
+Payment methods and payment processor.
+[PENDING]
+Tax and VAT treatment, and the contracting entity.
+[PENDING]
+Billing entity name, address, and contact details.
+[PENDING]
+Refund and withdrawal rules.
+[PENDING]
+Trial, free-tier, and promotional conditions.
+[PENDING]
+Renewal, cancellation, and price-change rules.
+[PENDING]
+What happens on termination or product withdrawal.
+
+============================================================
+4. CONTRACTING PARTY
+============================================================
+
+[MANDATORY]
+The contracting party for any commercial offering is not
+documented. Legal form, registered name, domicile, and contact
+details must come from an approved source and must never be
+inferred.
+
+This section remains [PENDING] and is the principal publication
+blocker for this document.
+
+============================================================
+5. RELATIONSHIP WITH OTHER DOCUMENTS
+============================================================
+
+When defined, this document must be consistent with:
+
+* NA-LGL-001 — Terms and Conditions (scope, liability, law).
+* NA-LGL-002 — Privacy Policy (personal data processed in
+  billing).
+* NA-LGL-008 — Support Policy (what is included in a purchase).
+* The project registry (product availability and status).
+
+[MANDATORY]
+A product must not be advertised as available for purchase while
+the registry records it as unavailable or experimental.
+
+============================================================
+6. LEGAL REVIEW
+============================================================
+
+[MANDATORY]
+This document requires legal review before any publication or
+reliance.
+
+============================================================
+DOCUMENT CONTROL
+============================================================
+
+Document:
+NORTH ASSEMBLY — COMMERCIAL TERMS
+
+Version:
+1.0
+
+Status: DRAFT
+
+Publication:
+PENDING
+
+Last Updated:
+October 1, 2026
+
+Owner:
+North Assembly
+
+============================================================
+END OF DOCUMENT
+============================================================

@@ -1,0 +1,691 @@
+NORTH ASSEMBLY
+PRIVACY POLICY
+
+Version: 1.1
+Status: DRAFT FOR LEGAL REVIEW
+Publication Status: PENDING
+Effective Date: PENDING
+Last Updated: September 12, 2026
+Owner: North Assembly
+
+============================================================
+1. PURPOSE
+============================================================
+
+This Privacy Policy explains how North Assembly may collect, use,
+store, disclose, and otherwise process personal data through the
+websites, applications, software, services, support channels, and
+other products covered by this Policy.
+
+North Assembly intends to handle personal data lawfully, fairly, and
+transparently, while applying security measures appropriate to the
+nature and risk of the processing.
+
+This Policy should be read together with the applicable Terms and
+Conditions, Cookie Policy, and any product-specific privacy notice.
+
+============================================================
+2. DATA CONTROLLER
+============================================================
+
+The legal identity of the controller remains pending and must be
+confirmed before publication.
+
+Legal name:
+---
+
+Trading name:
+North Assembly
+
+Registered address:
+---
+
+Jurisdiction:
+---
+
+Contact address:
+---
+
+Privacy contact:
+---
+
+Data Protection Officer, where applicable:
+---
+
+============================================================
+3. APPLICABLE LAW
+============================================================
+
+[MANDATORY]
+Personal data must be processed in accordance with the data
+protection laws applicable to the relevant activity and User.
+
+Where applicable, this may include the General Data Protection
+Regulation (EU) 2016/679 (GDPR) and relevant national legislation.
+
+Nothing in this Policy is intended to remove a mandatory right
+provided by applicable law.
+
+============================================================
+4. PRINCIPLES OF PROCESSING
+============================================================
+
+[MANDATORY]
+North Assembly will seek to apply these principles when processing
+personal data:
+
+* Lawfulness, fairness, and transparency.
+* Purpose limitation.
+* Data minimization.
+* Accuracy.
+* Storage limitation.
+* Integrity and confidentiality.
+* Accountability.
+
+[MANDATORY]
+Personal data must not knowingly be processed for a purpose that is
+incompatible with the stated or legally permitted purpose.
+
+[MANDATORY]
+Only data reasonably necessary for the relevant purpose should be
+processed.
+
+============================================================
+5. CATEGORIES OF PERSONAL DATA
+============================================================
+
+The data processed depends on the service. Depending on the product,
+it may include:
+
+* Name or display name.
+* Email address and contact information.
+* Account information.
+* User-provided content.
+* Technical and device information.
+* IP address.
+* Authentication information.
+* Security and fraud-prevention information.
+* Support communications.
+* Error reports.
+* Usage information.
+* Information submitted through forms or requests.
+
+The actual categories collected by each service must be verified
+before publication.
+
+[MANDATORY]
+North Assembly must not claim to collect a category of data when the
+relevant service does not actually collect it.
+
+============================================================
+6. HOW PERSONAL DATA IS COLLECTED
+============================================================
+
+Personal data may be obtained:
+
+* Directly from the User.
+* Automatically through a website or application.
+* Through support or communication channels.
+* Through account registration.
+* Through custom application requests.
+* Through security or operational systems.
+* From service providers acting for North Assembly.
+* From another lawful source where applicable.
+
+The actual collection methods for each product must be verified
+before publication.
+
+============================================================
+7. PURPOSES OF PROCESSING
+============================================================
+
+Depending on the service, North Assembly may process personal data to:
+
+* Provide requested services.
+* Create and manage accounts.
+* Respond to support requests.
+* Deliver software or digital services.
+* Handle custom application requests.
+* Maintain service functionality.
+* Monitor security and prevent abuse or fraud.
+* Detect and investigate security incidents.
+* Diagnose technical problems.
+* Maintain and improve services.
+* Meet legal obligations.
+* Establish, exercise, or defend legal claims where permitted.
+* Communicate important service information.
+
+[MANDATORY]
+Personal data must not be processed for a materially incompatible
+purpose without an appropriate legal basis or other lawful
+authorization.
+
+============================================================
+8. LEGAL BASES
+============================================================
+
+Where GDPR or equivalent law applies, each processing activity must
+have an appropriate legal basis.
+
+Possible bases include:
+
+* Performance of a contract.
+* Compliance with a legal obligation.
+* Consent.
+* Legitimate interests.
+* Protection of vital interests.
+* Another legal basis available under applicable law.
+
+The legal basis for each actual processing activity must be
+identified before publication.
+
+North Assembly must not describe consent as the legal basis when another
+basis actually applies.
+
+============================================================
+9. CONSENT
+============================================================
+
+Where processing relies on consent:
+
+[MANDATORY]
+Consent must be obtained through an appropriate mechanism.
+
+[MANDATORY]
+Users must be able to withdraw consent where applicable.
+
+[MANDATORY]
+Withdrawal does not affect the lawfulness of processing that occurred
+before withdrawal.
+
+The actual consent mechanisms used by North Assembly must be documented.
+
+============================================================
+10. LEGITIMATE INTERESTS
+============================================================
+
+Where North Assembly relies on legitimate interests, the relevant
+processing must be assessed and balanced against the rights and
+interests of affected individuals.
+
+The legitimate interests relied upon for each relevant activity must
+be documented before publication.
+
+============================================================
+11. DATA MINIMIZATION
+============================================================
+
+[MANDATORY]
+North Assembly must limit personal-data collection and processing to
+what is necessary for the relevant purpose.
+
+[MANDATORY]
+Personal data must not be collected merely because it is technically
+available.
+
+Privacy by default means that initial processing settings should
+limit personal data to what is necessary for the defined purpose.
+
+============================================================
+12. ACCURACY
+============================================================
+
+[MANDATORY]
+North Assembly must take reasonable measures to keep personal data
+accurate when accuracy matters to the processing.
+
+[MANDATORY]
+Users may request correction of inaccurate personal data where
+applicable.
+
+============================================================
+13. DATA RETENTION
+============================================================
+
+Personal data must not be retained indefinitely without an
+appropriate reason.
+
+Retention periods or criteria must be defined for relevant categories
+of data before publication.
+
+Retention may depend on:
+
+* The purpose of collection.
+* Legal obligations.
+* Security requirements.
+* Account status.
+* Disputes or legal claims.
+* Technical requirements.
+
+============================================================
+14. RECIPIENTS OF PERSONAL DATA
+============================================================
+
+Depending on the service, personal data may be processed by:
+
+* Authorized North Assembly personnel.
+* Hosting providers.
+* Infrastructure providers.
+* Software providers.
+* Communication providers.
+* Security providers.
+* Analytics providers, where used.
+* Professional advisers where necessary.
+* Public authorities where legally required.
+
+The actual recipients must be identified before publication.
+
+[MANDATORY]
+Personal data must not be disclosed merely because doing so is
+technically convenient.
+
+============================================================
+15. DATA PROCESSORS
+============================================================
+
+When a third party processes personal data on behalf of North Assembly,
+the relationship must be assessed and managed according to
+applicable law.
+
+Where relevant, North Assembly must document:
+
+* Processor identity.
+* Processing purpose.
+* Categories of data.
+* Contract or other legal arrangement.
+* Sub-processors.
+* Security requirements.
+* Data location.
+
+Where GDPR applies, processors must provide sufficient guarantees
+for appropriate technical and organizational measures.
+
+============================================================
+16. INTERNATIONAL DATA TRANSFERS
+============================================================
+
+Personal data may be processed or transferred outside the User's
+country or relevant jurisdiction when permitted by applicable law.
+
+Before publication, North Assembly must identify, where applicable:
+
+* Whether international transfers occur.
+* Relevant countries.
+* Transfer mechanism.
+* Safeguards.
+* Relevant providers.
+
+Transfers must comply with applicable data-protection requirements.
+
+============================================================
+17. SECURITY
+============================================================
+
+[MANDATORY]
+North Assembly must use technical and organizational measures
+appropriate to the risks of its personal-data processing.
+
+Depending on the service, measures may include:
+
+* Access controls.
+* Authentication controls.
+* Encryption where appropriate.
+* Credential protection.
+* Monitoring.
+* Backups.
+* Vulnerability management.
+* Incident response.
+* Access limitation.
+
+[MANDATORY]
+Access to personal data must be limited according to legitimate
+operational need.
+
+============================================================
+18. DATA BREACHES AND SECURITY INCIDENTS
+============================================================
+
+A personal-data breach may involve unauthorized access,
+disclosure, alteration, destruction, or loss of personal data.
+
+[MANDATORY]
+Suspected breaches must be assessed and handled according to the
+notification and communication duties imposed by applicable law.
+
+[MANDATORY]
+Security incidents involving personal data must be escalated through
+the appropriate internal process.
+
+============================================================
+19. USER RIGHTS
+============================================================
+
+Depending on applicable law, individuals may have rights including:
+
+* Access.
+* Rectification.
+* Erasure.
+* Restriction of processing.
+* Objection.
+* Data portability.
+* Withdrawal of consent where consent is the legal basis.
+* Rights concerning automated decision-making and profiling where
+  applicable.
+* The right to complain to a competent supervisory authority.
+
+The availability and scope of these rights depend on the applicable
+law and circumstances.
+
+============================================================
+20. HOW TO EXERCISE RIGHTS
+============================================================
+
+Users may exercise applicable privacy rights through the official
+privacy contact.
+
+Privacy request email:
+---
+
+Privacy request form:
+---
+
+Official privacy contact:
+---
+
+[MANDATORY]
+Requests must be handled according to applicable verification,
+response, and procedural requirements.
+
+Where permitted or required, North Assembly may request information
+reasonably necessary to verify the requester's identity.
+
+============================================================
+21. SUPERVISORY AUTHORITY
+============================================================
+
+Where GDPR or other applicable data-protection law applies, a User
+may have the right to complain to the competent supervisory
+authority.
+
+The relevant authority must be identified according to North Assembly's
+actual legal structure and processing activities before publication.
+
+============================================================
+22. AUTOMATED DECISION-MAKING AND PROFILING
+============================================================
+
+North Assembly must determine whether any service performs:
+
+* Automated decision-making.
+* Profiling.
+* Behavioral analysis.
+* Personalization based on personal data.
+
+If applicable, the relevant information and legal requirements must
+be included in this Policy or a suitable additional notice.
+
+============================================================
+23. CHILDREN AND MINORS
+============================================================
+
+The age requirements and rules applicable to each service must be
+determined before publication.
+
+Where a service may be used by children or minors, North Assembly must
+apply the legal requirements relevant to the service, jurisdiction,
+processing activity, and consent mechanism.
+
+============================================================
+24. USER-PROVIDED CONTENT
+============================================================
+
+Where a service allows Users to submit content:
+
+[MANDATORY]
+Users should avoid providing personal information that is not
+necessary for the intended purpose.
+
+[MANDATORY]
+North Assembly must process personal data contained in User-provided
+content only for lawful and relevant purposes.
+
+The exact processing of User-provided content must be documented for
+each applicable service.
+
+============================================================
+25. COMMUNICATIONS
+============================================================
+
+North Assembly may communicate with Users about:
+
+* Requested services.
+* Account activity.
+* Security matters.
+* Important product changes.
+* Support requests.
+* Legal or contractual matters.
+
+Marketing communications, if any, must be separately defined,
+including their legal basis and opt-out mechanism where required.
+
+============================================================
+26. ANALYTICS
+============================================================
+
+North Assembly must determine whether analytics technologies are used.
+
+If they are used, the following must be documented:
+
+* Provider.
+* Data collected.
+* Purpose.
+* Legal basis.
+* Retention.
+* International transfers.
+* Cookies or tracking technologies involved.
+
+============================================================
+27. LOGS AND TECHNICAL DATA
+============================================================
+
+Software and infrastructure may generate technical logs needed for
+security, troubleshooting, reliability, or normal operation.
+
+Where logs contain personal data, North Assembly must document:
+
+* What is recorded.
+* Why it is recorded.
+* Who can access it.
+* How long it is retained.
+* Security controls.
+
+============================================================
+28. ACCOUNT DELETION
+============================================================
+
+Where a service provides User accounts, the account-deletion
+process must be defined.
+
+[MANDATORY]
+Deleting an account does not necessarily mean that every piece of
+information is immediately erased when North Assembly has a lawful or
+legal reason to retain specific information.
+
+Any continued retention remains subject to applicable law and the
+relevant retention requirements.
+
+============================================================
+29. LINKS TO THIRD-PARTY SERVICES
+============================================================
+
+North Assembly services may contain links or integrations with
+third-party services.
+
+[MANDATORY]
+Third-party services are governed by their own privacy policies where
+applicable.
+
+[MANDATORY]
+North Assembly must not present a third party's privacy practices as its
+own.
+
+============================================================
+30. CHANGES TO THIS POLICY
+============================================================
+
+North Assembly may update this Policy when its processing, services,
+technology, or legal obligations change.
+
+[MANDATORY]
+The current version and effective date must be identifiable.
+
+[MANDATORY]
+Material changes must be communicated through an appropriate
+mechanism where required by law.
+
+============================================================
+31. DATA PROTECTION BY DESIGN AND DEFAULT
+============================================================
+
+[MANDATORY]
+Where applicable, privacy and data-protection considerations must be
+included in the design of relevant products, services, and
+processing activities.
+
+[RECOMMENDED]
+New features involving personal data should be reviewed for privacy
+impact before implementation.
+
+============================================================
+32. RISK ASSESSMENT
+============================================================
+
+[MANDATORY]
+North Assembly must consider the risks that its processing activities
+may create for individuals.
+
+[RECOMMENDED]
+Higher-risk processing should receive a more detailed assessment
+before implementation.
+
+Risk should be assessed according to the nature, context, scope, and
+purpose of the actual processing rather than by relying only on a
+fixed list of risks.
+
+============================================================
+33. DATA PROTECTION OFFICER
+============================================================
+
+North Assembly must determine whether a Data Protection Officer is
+legally required for any of its processing activities.
+
+If required:
+
+DPO name:
+---
+
+DPO contact:
+---
+
+============================================================
+34. RECORDS OF PROCESSING ACTIVITIES
+============================================================
+
+North Assembly must determine whether a Record of Processing Activities
+is required and maintain the appropriate record where applicable.
+
+Where required, the record should cover relevant processing
+activities, purposes, data categories, recipients, retention,
+transfers, and security information.
+
+============================================================
+35. LEGAL AND INTERNAL RESPONSIBILITY
+============================================================
+
+This Policy must reflect North Assembly's actual privacy practices.
+
+[MANDATORY]
+North Assembly must not publish claims about data collection,
+retention, security, transfers, analytics, or third-party processing
+that do not match its actual operations.
+
+[MANDATORY]
+Material changes to processing must trigger a review of this Policy.
+
+============================================================
+36. CONTACT
+============================================================
+
+For privacy-related questions or requests:
+
+North Assembly
+
+Privacy contact:
+---
+
+Email:
+---
+
+Website:
+---
+
+Additional contact method:
+---
+
+============================================================
+37. DOCUMENT CONTROL
+============================================================
+
+Document:
+NORTH ASSEMBLY — PRIVACY POLICY
+
+Version:
+1.1
+
+Status:
+DRAFT FOR LEGAL REVIEW
+
+Publication:
+PENDING
+
+Effective Date:
+PENDING
+
+Last Updated:
+September 12, 2026
+
+Owner:
+North Assembly
+
+============================================================
+38. PUBLICATION CHECKLIST
+============================================================
+
+Before publication, North Assembly must verify:
+
+* Legal identity of the controller.
+* Contact details.
+* Products covered.
+* Actual data categories.
+* Collection methods.
+* Processing purposes.
+* Legal basis for each processing activity.
+* Retention periods or criteria.
+* Recipients and processors.
+* International transfers.
+* Security measures.
+* Rights-request procedure.
+* Supervisory authority.
+* Automated decision-making or profiling.
+* Children's and minors' requirements.
+* Analytics.
+* Logs and technical data.
+* Account deletion process.
+* Cookies and tracking technologies.
+* DPO requirement.
+* Record of Processing Activities requirement.
+* Effective date and publication mechanism.
+
+============================================================
+END OF DOCUMENT
+============================================================

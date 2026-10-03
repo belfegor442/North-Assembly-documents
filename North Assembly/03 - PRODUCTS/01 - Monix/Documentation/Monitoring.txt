@@ -1,11 +1,17 @@
 NORTH ASSEMBLY
 MONIX — MONITORING DOCUMENTATION
 
+DOCUMENT ID: NA-PRD-MON-016
 Version: 1.1
-Status: INTERNAL / DEVELOPMENT
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS (6)
+Legal Review: NOT REQUIRED
 Owner: North Assembly
 Product: Monix
-Last Updated: September 12, 2026
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
 
 PURPOSE
 
@@ -315,8 +321,7 @@ MONIX — MONITORING DOCUMENTATION
 Version:
 1.1
 
-Status:
-INTERNAL / DEVELOPMENT
+Status: ACTIVE
 
 Owner:
 North Assembly

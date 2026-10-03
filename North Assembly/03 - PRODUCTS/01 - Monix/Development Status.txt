@@ -3,11 +3,17 @@ MONIX
 
 DEVELOPMENT STATUS
 
+DOCUMENT ID: NA-PRD-MON-003
 Version: 1.1
-Status: INTERNAL
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS (50)
+Legal Review: NOT REQUIRED
 Owner: North Assembly
 Product: Monix
-Last Updated: September 12, 2026
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
 
 ============================================================
 
@@ -624,8 +630,7 @@ MONIX — DEVELOPMENT STATUS
 Version:
 1.1
 
-Status:
-INTERNAL
+Status: ACTIVE
 
 Owner:
 North Assembly

@@ -1,0 +1,553 @@
+NORTH ASSEMBLY
+INTELLECTUAL PROPERTY POLICY
+
+Version: 1.1
+Status: DRAFT FOR LEGAL REVIEW
+Publication Status: PENDING
+Effective Date: PENDING
+Last Updated: September 12, 2026
+Owner: North Assembly
+
+============================================================
+1. PURPOSE
+============================================================
+
+This Policy sets out the general rules for intellectual property
+used, created, owned, licensed, distributed, or otherwise handled by
+North Assembly.
+
+It covers software, source code, compiled software, designs,
+graphics, branding, documentation, text, audiovisual material,
+digital assets, websites, product names, repositories, and other
+relevant intellectual property.
+
+============================================================
+2. SCOPE
+============================================================
+
+This Policy applies to:
+
+* North Assembly products.
+* Internal projects.
+* Public releases.
+* Source-code repositories.
+* Designs and visual assets.
+* Documentation.
+* Websites.
+* Branding.
+* Custom applications.
+* Third-party software and assets.
+* User-submitted material where applicable.
+
+[MANDATORY]
+Anyone acting on behalf of North Assembly must follow the intellectual
+property requirements that apply to their work.
+
+============================================================
+3. OWNERSHIP
+============================================================
+
+Intellectual property may belong to:
+
+* North Assembly.
+* Individual creators.
+* Contractors or collaborators.
+* Third-party licensors.
+* Users.
+* Other rights holders.
+
+[MANDATORY]
+Access to intellectual property does not, by itself, create an
+ownership right.
+
+[MANDATORY]
+Ownership must be determined according to applicable law, contracts,
+licenses, and the circumstances in which the work was created.
+
+============================================================
+4. NORTH ASSEMBLY INTELLECTUAL PROPERTY
+============================================================
+
+North Assembly may own or control rights in:
+
+* Software and source code.
+* Compiled binaries.
+* Product names.
+* Logos and brand assets.
+* User interfaces.
+* Graphics.
+* Documentation.
+* Websites.
+* Original text.
+* Original audiovisual content.
+* Other original works.
+
+The complete list of registered or formally protected North Assembly
+intellectual property is not published through this Policy.
+
+============================================================
+5. PRODUCT INTELLECTUAL PROPERTY
+============================================================
+
+The following North Assembly products may contain intellectual property
+belonging to North Assembly or other rights holders:
+
+* Monix
+* Datalog
+* CryptCast
+* DraftPad
+* Telenet
+
+[MANDATORY]
+Listing a product here does not mean that every component of that
+product is exclusively owned by North Assembly.
+
+Third-party components remain subject to their own licenses.
+
+============================================================
+6. SOURCE CODE
+============================================================
+
+[MANDATORY]
+Source code belonging to North Assembly must not be reproduced,
+redistributed, sold, publicly disclosed, or incorporated into another
+project in a way that violates applicable rights, agreements, or
+licenses.
+
+[MANDATORY]
+Open-source repositories must be handled according to the license
+that applies to the relevant repository or component.
+
+============================================================
+7. SOFTWARE LICENSES
+============================================================
+
+Software distributed by North Assembly may be subject to product-
+specific license terms.
+
+[MANDATORY]
+Users must comply with the license that applies to the software they
+use.
+
+Before a public product is released, its applicable license should be
+identified.
+
+Possible models include:
+
+* Proprietary.
+* Open source.
+* Free software.
+* Custom license.
+* Third-party licensed software.
+
+The actual model must be determined for each product.
+
+============================================================
+8. OPEN SOURCE
+============================================================
+
+North Assembly may use, modify, distribute, or contribute to
+open-source software.
+
+[MANDATORY]
+Applicable open-source license requirements must be respected. These
+may include:
+
+* Attribution.
+* Copyright notices.
+* License notices.
+* Redistribution requirements.
+* Source-code availability requirements.
+* Modification notices.
+* Other license conditions.
+
+[MANDATORY]
+Developers must not intentionally remove or bypass an applicable
+open-source license requirement.
+
+[RECOMMENDED]
+Projects should keep a record of important open-source dependencies
+and their licenses.
+
+============================================================
+9. THIRD-PARTY ASSETS
+============================================================
+
+Third-party assets may include:
+
+* Fonts.
+* Images.
+* Icons.
+* Sounds.
+* Music.
+* Libraries.
+* Frameworks.
+* Models.
+* Code.
+* Documentation.
+* Templates.
+* Other digital resources.
+
+[MANDATORY]
+Third-party assets may only be used when North Assembly has a sufficient
+legal right or license to use them.
+
+[MANDATORY]
+For important third-party assets, the source and applicable license
+should be known before distribution.
+
+============================================================
+10. COPYRIGHT
+============================================================
+
+Copyright may protect original works used or created by North Assembly,
+subject to applicable law.
+
+[MANDATORY]
+Copyright notices, attribution statements, and license requirements
+must be preserved when required.
+
+[MANDATORY]
+No person may falsely claim authorship of work created by someone
+else.
+
+[MANDATORY]
+Third-party works remain subject to their creators' rights unless
+those rights have been validly transferred, licensed, or otherwise
+obtained.
+
+============================================================
+11. TRADEMARKS AND BRANDING
+============================================================
+
+North Assembly may use company names, product names, logos, visual
+identities, and other branding elements.
+
+[MANDATORY]
+North Assembly branding must not knowingly be used in a way that falsely
+suggests:
+
+* Official endorsement.
+* Official representation.
+* Ownership where none exists.
+* Partnership where none exists.
+* Sponsorship where none exists.
+
+[MANDATORY]
+Official changes to company branding require authorization.
+
+============================================================
+12. INTERNAL CREATIONS
+============================================================
+
+When a person creates code, graphics, documentation, or other work
+for North Assembly:
+
+[MANDATORY]
+Ownership and usage rights must be determined according to applicable
+agreements and law.
+
+[MANDATORY]
+Participation in a project does not automatically transfer every
+legal right to North Assembly.
+
+Standard agreements for ownership and assignment remain to be
+defined where necessary.
+
+============================================================
+13. COLLABORATORS AND CONTRACTORS
+============================================================
+
+When an external collaborator creates material for North Assembly:
+
+[MANDATORY]
+The relevant ownership or licensing rights should be established
+through an appropriate agreement where necessary.
+
+[MANDATORY]
+North Assembly must not claim rights that it has not legally obtained.
+
+============================================================
+14. CUSTOM APPLICATIONS
+============================================================
+
+Custom applications may involve contributions from North Assembly,
+Users, clients, or other parties.
+
+[MANDATORY]
+Ownership and licensing of custom work must be defined before the
+project is completed where the issue is legally relevant.
+
+The Custom Applications Policy provides additional rules for these
+projects.
+
+============================================================
+15. USER CONTENT
+============================================================
+
+Users may provide content to North Assembly services.
+
+[MANDATORY]
+Users must not submit material they do not have the right to use
+when doing so would violate applicable law or another person's
+rights.
+
+[MANDATORY]
+North Assembly must not claim ownership of User content merely because
+the User submitted it, unless an applicable agreement expressly
+provides otherwise.
+
+Any license granted by Users to North Assembly must be defined by the
+relevant service or agreement.
+
+============================================================
+16. LICENSE GRANTS
+============================================================
+
+When North Assembly grants a User a license to software or other
+intellectual property:
+
+[MANDATORY]
+The scope of the license is determined by the applicable license
+terms.
+
+Possible characteristics include:
+
+* Personal use.
+* Commercial use.
+* Modification.
+* Distribution.
+* Sublicensing.
+* Term.
+* Territory.
+* Platform restrictions.
+
+Product-specific license terms remain to be defined where needed.
+
+============================================================
+17. UNAUTHORIZED COPYING
+============================================================
+
+[MANDATORY]
+Users and members must not knowingly reproduce or distribute
+protected North Assembly material beyond the permissions granted by the
+applicable license or law.
+
+This may include:
+
+* Source code.
+* Proprietary binaries.
+* Restricted assets.
+* Internal documentation.
+* Protected graphics.
+* Proprietary product material.
+
+============================================================
+18. REVERSE ENGINEERING
+============================================================
+
+The final rules concerning reverse engineering, decompilation,
+disassembly, and modification must be defined for each product and
+reviewed against applicable law.
+
+[MANDATORY]
+Nothing in this Policy is intended to restrict rights that cannot
+legally be restricted.
+
+============================================================
+19. INTELLECTUAL PROPERTY INFRINGEMENT
+============================================================
+
+If North Assembly receives a credible report that code, content,
+design, or another asset may infringe third-party rights:
+
+[MANDATORY]
+The relevant material must be reviewed.
+
+Appropriate measures may be considered where legally and
+operationally justified, including:
+
+* Investigation.
+* Temporary removal.
+* Replacement.
+* License verification.
+* Contact with the rights holder.
+* Attribution correction.
+* Legal review.
+
+============================================================
+20. REPORTING INFRINGEMENT
+============================================================
+
+Official intellectual-property contact:
+---
+
+Email:
+---
+
+Website:
+---
+
+============================================================
+21. PROOF OF RIGHTS
+============================================================
+
+[RECOMMENDED]
+For important third-party material, North Assembly should retain
+reasonable evidence of:
+
+* Source.
+* License.
+* Purchase or authorization where applicable.
+* Attribution requirements.
+* Relevant terms.
+
+[MANDATORY]
+Where licensing documentation is required for lawful use,
+reasonable records must be maintained.
+
+============================================================
+22. INTELLECTUAL PROPERTY INVENTORY
+============================================================
+
+[RECOMMENDED]
+North Assembly should maintain an internal inventory of important
+intellectual property, including where relevant:
+
+* Product names.
+* Software.
+* Logos.
+* Brand assets.
+* Major artwork.
+* Important third-party licenses.
+* Open-source licenses.
+* Domains.
+* Other protected assets.
+
+============================================================
+23. DOMAINS AND DIGITAL IDENTIFIERS
+============================================================
+
+Domains and official digital identifiers may form part of Weird
+Stuff's business identity.
+
+[MANDATORY]
+Official domains and important account identifiers must not be
+transferred, disclosed, or modified without authorization.
+
+[MANDATORY]
+Credentials for important domains and digital identity systems must
+be protected.
+
+============================================================
+24. PUBLICATION
+============================================================
+
+[MANDATORY]
+Before publishing intellectual property belonging to another party,
+North Assembly must verify that publication is permitted.
+
+[MANDATORY]
+Required attribution and license notices must be included where
+applicable.
+
+[RECOMMENDED]
+Major publications should receive an appropriate review before
+release.
+
+============================================================
+25. ENFORCEMENT
+============================================================
+
+[MANDATORY]
+Violations of this Policy may result in internal action appropriate
+to the circumstances.
+
+Possible measures include:
+
+* Removal of unauthorized material.
+* Access restriction.
+* Project reassignment.
+* Suspension of access.
+* Internal disciplinary action where applicable.
+* Legal review.
+* Other measures permitted by law.
+
+============================================================
+26. RELATIONSHIP WITH OTHER POLICIES
+============================================================
+
+This Policy complements:
+
+* Manual Corporativo.
+* Terms and Conditions.
+* Privacy Policy.
+* Cookie Policy.
+* Acceptable Use Policy.
+* Security Policy.
+* Custom Applications Policy.
+
+[MANDATORY]
+Specific licenses and contracts governing intellectual property must
+be respected.
+
+============================================================
+27. POLICY UPDATES
+============================================================
+
+[MANDATORY]
+This Policy must be reviewed when there are significant changes to:
+
+* Product licensing.
+* Intellectual-property ownership.
+* Open-source use.
+* Custom application arrangements.
+* Branding.
+* Applicable law.
+
+Material revisions must receive an appropriate version number.
+
+============================================================
+28. LEGAL LIMITATION
+============================================================
+
+Nothing in this Policy is intended to:
+
+* Transfer ownership merely by declaration.
+* Override applicable law.
+* Remove non-waivable legal rights.
+* Create ownership where no legal basis exists.
+* Replace a necessary intellectual-property agreement.
+
+[MANDATORY]
+Where ownership or licensing requires a formal agreement, the
+appropriate agreement must be used.
+
+============================================================
+29. DOCUMENT CONTROL
+============================================================
+
+Document:
+NORTH ASSEMBLY — INTELLECTUAL PROPERTY POLICY
+
+Version:
+1.1
+
+Status:
+DRAFT FOR LEGAL REVIEW
+
+Publication:
+PENDING
+
+Effective Date:
+PENDING
+
+Last Updated:
+September 12, 2026
+
+Owner:
+North Assembly
+
+============================================================
+END OF DOCUMENT
+============================================================

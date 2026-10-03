@@ -1,0 +1,472 @@
+NORTH ASSEMBLY
+COOKIE POLICY
+
+Version: 1.1
+Status: DRAFT FOR LEGAL REVIEW
+Publication Status: PENDING
+Effective Date: PENDING
+Last Updated: September 12, 2026
+Owner: North Assembly
+
+============================================================
+1. PURPOSE
+============================================================
+
+This Cookie Policy explains how North Assembly may use cookies and
+similar technologies when Users access websites, applications, or
+online services covered by this Policy.
+
+It explains what these technologies are used for, how they may be
+classified, and what choices Users may have when consent is
+required.
+
+This Policy should be read together with the North Assembly Privacy
+Policy and Terms and Conditions.
+
+============================================================
+2. WHAT ARE COOKIES
+============================================================
+
+Cookies are small files, identifiers, or similar technologies that
+may be stored on a User's device when a website or service is used.
+
+They may be used to:
+
+* Keep a service working.
+* Maintain sessions.
+* Remember preferences.
+* Support security features.
+* Measure usage.
+* Understand technical problems.
+* Improve services.
+* Provide other necessary functionality.
+
+Not every North Assembly service uses cookies or similar technologies.
+
+============================================================
+3. SCOPE
+============================================================
+
+This Policy applies only to North Assembly websites, applications, and
+services that use cookies or similar technologies and refer to this
+Policy.
+
+The list of covered services remains pending until the relevant
+services are confirmed.
+
+============================================================
+4. TYPES OF TECHNOLOGIES
+============================================================
+
+Depending on the service, North Assembly may use:
+
+* HTTP cookies.
+* Local storage.
+* Session storage.
+* Similar browser storage mechanisms.
+* Other technologies with comparable functionality.
+
+The actual technologies used by each service must be identified
+before this Policy is published as final.
+
+============================================================
+5. COOKIE CATEGORIES
+============================================================
+
+Cookies and similar technologies may be grouped according to their
+purpose.
+
+5.1 STRICTLY NECESSARY
+
+These technologies support functions that are essential for the
+service, such as:
+
+* Authentication.
+* Session management.
+* Security.
+* Load balancing.
+* Basic technical functionality.
+* Essential service preferences.
+
+[MANDATORY]
+Technologies classified as strictly necessary must only be used for
+purposes compatible with their essential function.
+
+The actual necessary technologies used by North Assembly remain to be
+identified for each service.
+
+5.2 PREFERENCES
+
+Preference technologies may remember choices such as language,
+interface settings, or other configuration preferences.
+
+The actual preference technologies used by North Assembly remain to be
+identified for each service.
+
+5.3 ANALYTICS
+
+Analytics technologies may help North Assembly understand how a service
+is used and identify technical or usability problems.
+
+They may measure things such as:
+
+* Page or feature usage.
+* Performance.
+* Errors.
+* General traffic patterns.
+
+The providers and technologies actually used by North Assembly remain
+to be identified before publication.
+
+5.4 ADVERTISING OR MARKETING
+
+If North Assembly uses advertising, marketing, profiling, or
+cross-service tracking technologies, they must be documented
+separately with their purpose, provider, legal basis, and applicable
+consent requirements.
+
+============================================================
+6. NECESSARY TECHNOLOGIES AND CONSENT
+============================================================
+
+Depending on applicable law, some technologies may be used without
+consent when they are genuinely necessary for the service.
+
+[MANDATORY]
+North Assembly must not describe a technology as strictly necessary
+merely to avoid obtaining consent when consent is legally required.
+
+The classification of each technology must be verified before final
+publication.
+
+============================================================
+7. CONSENT FOR NON-NECESSARY TECHNOLOGIES
+============================================================
+
+Where consent is legally required:
+
+[MANDATORY]
+Non-essential cookies and similar technologies must not be activated
+before valid consent has been obtained.
+
+[MANDATORY]
+Users must receive appropriate information before or when consent is
+requested.
+
+[MANDATORY]
+Users must be able to withdraw consent through an appropriate
+mechanism where the law requires this.
+
+[MANDATORY]
+Withdrawing consent must not be made unreasonably difficult.
+
+============================================================
+8. COOKIE CONSENT INTERFACE
+============================================================
+
+Where a consent mechanism is required, the interface should explain
+the available choices clearly.
+
+Before publication, North Assembly must determine the applicable:
+
+* Consent banner.
+* Preference center.
+* Cookie categories.
+* Accept mechanism.
+* Reject mechanism.
+* Settings mechanism.
+* Withdrawal mechanism.
+* Consent-record mechanism.
+
+[RECOMMENDED]
+The interface should make acceptance and rejection choices clear and
+should not use manipulative design intended to influence the User's
+decision unfairly.
+
+============================================================
+9. CONSENT RECORDS
+============================================================
+
+Where consent is required:
+
+[MANDATORY]
+North Assembly must keep appropriate evidence of consent in accordance
+with applicable legal requirements.
+
+The final implementation must identify:
+
+* What consent information is stored.
+* Where it is stored.
+* How long it is retained.
+* How changes to consent are recorded.
+* How withdrawal is recorded.
+
+============================================================
+10. THIRD-PARTY COOKIES
+============================================================
+
+Some services may use technologies provided by third parties, such
+as:
+
+* Analytics providers.
+* Embedded-content providers.
+* Security providers.
+* Authentication providers.
+* Advertising providers.
+
+The actual third parties used by each service must be identified.
+
+[MANDATORY]
+North Assembly must not describe a third-party technology as first-party
+when it is operated by another party.
+
+============================================================
+11. INTERNATIONAL PROCESSING
+============================================================
+
+North Assembly must determine whether any cookie provider or related
+service transfers or processes personal data outside the relevant
+jurisdiction.
+
+Where applicable, the Privacy Policy must explain the relevant
+processing and safeguards.
+
+============================================================
+12. COOKIE INVENTORY
+============================================================
+
+Any published cookie inventory must describe the technologies that
+are actually deployed.
+
+Where applicable, the inventory should include:
+
+Cookie / Technology Name:
+---
+
+Provider:
+---
+
+Type:
+---
+
+Purpose:
+---
+
+Duration:
+---
+
+First-party / Third-party:
+---
+
+Consent Required:
+---
+
+Data Involved:
+---
+
+Related Service:
+---
+
+============================================================
+13. RETENTION AND DURATION
+============================================================
+
+Cookie duration depends on the technology and its purpose.
+
+Possible categories include:
+
+* Session-based.
+* Short-term.
+* Long-term.
+* Persistent.
+
+The actual duration of each technology must be documented before
+final publication.
+
+============================================================
+14. PERSONAL DATA
+============================================================
+
+Cookies and similar technologies may involve personal data or
+information that can be linked to an identifiable individual.
+
+[MANDATORY]
+When cookie-related processing involves personal data, it must also
+comply with the Privacy Policy and applicable data-protection
+requirements.
+
+[MANDATORY]
+North Assembly must not describe information as anonymous when it can
+actually be linked to an identifiable individual, unless the claim is
+appropriately qualified.
+
+============================================================
+15. BROWSER CONTROLS
+============================================================
+
+Users may have browser-level controls for managing cookies. The
+available controls depend on the browser and device being used.
+
+[RECOMMENDED]
+North Assembly may provide general guidance explaining how Users can
+manage cookies in common browsers.
+
+============================================================
+16. CHANGING COOKIE PREFERENCES
+============================================================
+
+Where North Assembly provides a consent-management mechanism:
+
+[MANDATORY]
+Users must be able to access the relevant preference controls again
+where required by applicable law.
+
+The final publication must identify where those controls can be
+found and how they can be accessed.
+
+============================================================
+17. COOKIE POLICY UPDATES
+============================================================
+
+North Assembly may update this Policy when its technologies, services,
+legal obligations, or processing practices change.
+
+[MANDATORY]
+The current version and effective date must be identifiable.
+
+[MANDATORY]
+Where a material change affects User rights or consent, North Assembly
+must provide the appropriate notice or consent mechanism where
+required by law.
+
+============================================================
+18. RELATIONSHIP WITH PRIVACY POLICY
+============================================================
+
+This Policy focuses on cookies and similar technologies.
+
+The Privacy Policy provides the broader information about the
+processing of personal data.
+
+[MANDATORY]
+When a cookie or similar technology processes personal data, the
+relevant information must remain consistent across both documents.
+
+============================================================
+19. SECURITY
+============================================================
+
+[MANDATORY]
+North Assembly must take reasonable measures to prevent unauthorized
+access to information associated with its cookie and tracking
+systems.
+
+[MANDATORY]
+Cookie technologies must not intentionally be configured in a way
+that unnecessarily exposes sensitive information.
+
+[RECOMMENDED]
+Security-sensitive cookies should use appropriate security
+attributes and configuration supported by the relevant platform.
+
+============================================================
+20. TRACKING TECHNOLOGIES
+============================================================
+
+This Policy also applies, where relevant, to technologies that serve
+functions similar to cookies, including:
+
+* Tracking pixels.
+* Web beacons.
+* Local storage.
+* Similar identifiers.
+* Embedded tracking technologies.
+
+North Assembly must verify whether any such technologies are currently
+used before final publication.
+
+============================================================
+21. COOKIE AUDIT
+============================================================
+
+[RECOMMENDED]
+North Assembly should periodically review applicable websites and
+services to confirm that this Policy still matches the technologies
+actually deployed.
+
+[MANDATORY]
+When a material difference is discovered, this Policy must be
+reviewed and updated where necessary.
+
+============================================================
+22. CONTACT
+============================================================
+
+Cookie-related questions may be directed to North Assembly through the
+designated official contact channel.
+
+Official contact email:
+---
+
+Website:
+---
+
+Privacy contact:
+---
+
+============================================================
+23. FINAL PUBLICATION REQUIREMENTS
+============================================================
+
+Before this Policy is published as final, North Assembly must verify:
+
+* All covered websites and services.
+* All cookies actually deployed.
+* All similar technologies.
+* Cookie and technology names.
+* Providers.
+* Purposes.
+* Durations.
+* First-party / third-party status.
+* Whether each technology is necessary.
+* Consent requirements.
+* Analytics technologies.
+* Marketing technologies.
+* Tracking technologies.
+* Personal data involved.
+* International processing.
+* Consent storage.
+* Preference management.
+* Withdrawal mechanism.
+* Consistency with the Privacy Policy.
+* Final contact information.
+* Effective date.
+
+============================================================
+24. DOCUMENT CONTROL
+============================================================
+
+Document:
+NORTH ASSEMBLY — COOKIE POLICY
+
+Version:
+1.1
+
+Status:
+DRAFT FOR LEGAL REVIEW
+
+Publication:
+PENDING
+
+Effective Date:
+PENDING
+
+Last Updated:
+September 12, 2026
+
+Owner:
+North Assembly
+
+============================================================
+END OF DOCUMENT
+============================================================

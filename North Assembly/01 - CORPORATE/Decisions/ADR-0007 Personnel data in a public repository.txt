@@ -1,0 +1,88 @@
+ADR-0007
+PERSONNEL DATA IN A PUBLIC REPOSITORY
+
+Date: October 1, 2026
+Status: ACCEPTED
+Classification: INTERNAL
+Owner: North Assembly
+Related: NA-COR-001, NA-COR-002, ADR-0002, ADR-0006
+
+CONTEXT
+
+This repository is public on GitHub (ADR-0006). During the
+October 2026 legal review it was found that several documents
+recorded identifiable former members together with statements
+about their work:
+
+  * ADR-0002 named five former members and described the output of
+    the positions they had held.
+  * The Consistency Log restated the former roster.
+  * Archived roster documents listed former members by name.
+
+Those records are personal data. Published in a world-readable
+repository they have no legal basis, no way for the person to
+object, and no operational purpose. Two of this repository's own
+rules already prohibit them: NA-COR-001 forbids private personnel
+records in INTERNAL documents, and ADR-0006 assumes the repository
+holds no such records.
+
+PROBLEM
+
+The organization's own decision records contradicted its own
+data-handling rules, and the contradiction was public.
+
+DECISION
+
+1. No document in this repository records performance,
+   disciplinary, or evaluative statements about an identifiable
+   individual.
+
+2. Former members are referred to by role only. Statements about
+   the previous structure are made about positions, not people.
+
+3. Current members may be listed by their public identifier in
+   NA-COR-002 (Organization), which is the single place where
+   holders and vacancies are recorded. No other document
+   enumerates them.
+
+4. Roster material in 08 - ARCHIVE is redacted in place. The
+   redaction uses a visible marker so a reader can tell that
+   something was removed, and the reason is recorded in
+   Superseded/README.txt. This is a deliberate, recorded exception
+   to the archive rule that archived files are preserved as they
+   were: personal-data protection takes precedence over byte
+   fidelity.
+
+5. A repository-wide check for former-member identifiers is part
+   of any documentation audit (NA-COR-001 §10).
+
+CONSEQUENCES
+
+* ADR-0002 was rewritten before this repository was published in
+  its reformed state.
+* Archived rosters keep their structure and roles; names are
+  replaced with a redaction marker.
+* Identifiers committed to git history before October 1, 2026 are
+  not removed by this decision. Removing them requires rewriting
+  repository history and force-pushing, which is destructive and
+  affects forks, clones and open links. Owner decision
+  2026-10-03: history is left as committed; the identifiers remain
+  readable in history and the exposure is accepted. Reopened only
+  by a new explicit owner instruction.
+
+ALTERNATIVES CONSIDERED
+
+* Keep the records as historical fact - rejected: personal data
+  without purpose or legal basis in a public repository.
+* Make the repository private - rejected: decided against in
+  ADR-0006; the documentation system is meant to be the public
+  reference.
+* Delete the affected documents entirely - rejected: the decision
+  history and the archive have legitimate traceability value.
+
+RELATED DOCUMENTS
+
+01 - CORPORATE/Document Control.txt
+01 - CORPORATE/Organization.txt
+01 - CORPORATE/Decisions/Consistency Log.txt
+08 - ARCHIVE/Superseded/README.txt

@@ -1,82 +1,173 @@
 NORTH ASSEMBLY DOCUMENT INVENTORY
 
-Updated: September 29, 2026
+DOCUMENT ID: NA-ARC-INVENTORY
+Version: 2.1
+Status: ACTIVE
+Classification: INTERNAL
+Owner: North Assembly
+Last Modified: October 1, 2026
+Related: NA-COR-001, NA-ARC-INDEX
 
-01 - CORPORATE
-- README.txt
-- Document Control.txt
-- Manual Corporativo.txt
-- Organization.txt
+PURPOSE
 
-02 - LEGAL
-- README.txt
-- Política de Aplicaciones Personalizadas.txt
-- Política de Cookies.txt
-- Política de Privacidad.txt
-- Política de Propiedad Intelectual.txt
-- Política de Seguridad.txt
-- Política de Uso Aceptable.txt
-- Términos y Condiciones.txt
+Complete file listing of this repository with the document ID
+and status of each file that carries a header. This file is
+regenerated whenever documents are added, removed, or renamed.
 
-03 - PRODUCTS
-- README.txt
-- 01 - Monix
-  - Development Status.txt
-  - Product Overview.txt
-  - Product Specification.txt
-  - Release History.txt
-  - Documentation/
-- 02 - Telenet
-  - Product Overview.txt
-  - Product Specification.txt
-- 03 - Datalog
-  - Product Overview.txt
-  - Product Specification.txt
-- 04 - DraftPad
-  - Product Overview.txt
-  - Product Specification.txt
-- 05 - CryptCast
-  - Product Overview.txt
-  - Product Specification.txt
+[MANDATORY]
+If this listing and the repository disagree, the repository is
+correct and this file must be regenerated.
 
-04 - OPERATIONS
-- README.txt
-- Design/Design Standards.txt
-- Development/Development Standards.txt
-- Development/Release Procedure.txt
-- Infrastructure/Infrastructure Standards.txt
-- QA/Bug Management.txt
-- QA/QA Standards.txt
-- Security/Access Control.txt
-- Security/Incident Response.txt
+==== 01 - CORPORATE ====
+- Decisions\ADR-0001 Rebrand to North Assembly.txt [ADR-0001] ACCEPTED
+- Decisions\ADR-0002 October 2026 organizational reform.txt [ADR-0002] ACCEPTED
+- Decisions\ADR-0003 DraftPad retirement.txt      [ADR-0003] ACCEPTED
+- Decisions\ADR-0004 Repository structure.txt     [ADR-0004] ACCEPTED
+- Decisions\ADR-0005 Documentation language.txt   [ADR-0005] ACCEPTED (pending review by owner)
+- Decisions\ADR-0006 Public repository and classification.txt [ADR-0006] ACCEPTED
+- Decisions\ADR-0007 Personnel data in a public repository.txt [ADR-0007] ACCEPTED
+- Decisions\Consistency Log.txt                   [NA-COR-CONSISTENCY] ACTIVE
+- Decisions\README.txt                            [NA-COR-DECISIONS] ACTIVE
+- Document Control.txt                            [NA-COR-001] ACTIVE
+- Manual Corporativo.txt                          [NA-COR-003] ACTIVE
+- Organization.txt                                [NA-COR-002] ACTIVE
+- README.txt                                      [NA-COR-INDEX] ACTIVE
+- Recruitment and Roles.txt                       [NA-COR-004] ACTIVE
 
-05 - BRAND
-- README.txt
-- Brand Guidelines.txt
-- Marketing/Marketing Standards.txt
+==== 02 - LEGAL ====
+- Commercial Terms.txt                            [NA-LGL-009] DRAFT
+- Política de Aplicaciones Personalizadas.txt     [NA-LGL-007] DRAFT
+- Política de Cookies.txt                         [NA-LGL-003] DRAFT
+- Política de Privacidad.txt                      [NA-LGL-002] DRAFT
+- Política de Propiedad Intelectual.txt           [NA-LGL-006] DRAFT
+- Política de Seguridad.txt                       [NA-LGL-005] DRAFT
+- Política de Uso Aceptable.txt                   [NA-LGL-004] DRAFT
+- README.txt                                      [NA-LGL-INDEX] ACTIVE
+- Support Policy.txt                              [NA-LGL-008] DRAFT
+- Términos y Condiciones.txt                      [NA-LGL-001] DRAFT
 
-06 - PUBLIC
-- README.txt
-- Announcements/README.txt
-- Discord/Company Update.txt
-- Website/Website Content Standards.txt
+==== 03 - PRODUCTS ====
+- 01 - Monix\Development Status.txt               [NA-PRD-MON-003] ACTIVE
+- 01 - Monix\Documentation\AI.txt                 [NA-PRD-MON-010] ACTIVE
+- 01 - Monix\Documentation\Architecture.txt       [NA-PRD-MON-011] ACTIVE
+- 01 - Monix\Documentation\Build and Release.txt  [NA-PRD-MON-012] ACTIVE
+- 01 - Monix\Documentation\Configuracion.txt      [NA-PRD-MON-013] ACTIVE
+- 01 - Monix\Documentation\Debugging.txt          [NA-PRD-MON-014] ACTIVE
+- 01 - Monix\Documentation\Logging.txt            [NA-PRD-MON-015] ACTIVE
+- 01 - Monix\Documentation\Monitoring.txt         [NA-PRD-MON-016] ACTIVE
+- 01 - Monix\Documentation\Performance.txt        [NA-PRD-MON-017] ACTIVE
+- 01 - Monix\Documentation\README.txt             [NA-PRD-MON-INDEX-TECH] ACTIVE
+- 01 - Monix\Documentation\Security.txt           [NA-PRD-MON-018] ACTIVE
+- 01 - Monix\Documentation\Shader System.txt      [NA-PRD-MON-019] ACTIVE
+- 01 - Monix\Documentation\State and Snapshot.txt [NA-PRD-MON-020] ACTIVE
+- 01 - Monix\Documentation\Testing.txt            [NA-PRD-MON-021] ACTIVE
+- 01 - Monix\Documentation\User Interface.txt     [NA-PRD-MON-022] ACTIVE
+- 01 - Monix\Product Overview.txt                 [NA-PRD-MON-001] ACTIVE
+- 01 - Monix\Product Specification.txt            [NA-PRD-MON-002] ACTIVE
+- 01 - Monix\README.txt                           [NA-PRD-MON-INDEX] ACTIVE
+- 01 - Monix\Release History.txt                  [NA-PRD-MON-004] ACTIVE
+- 02 - Telenet\Product Overview.txt               [NA-PRD-TEL-001] DRAFT
+- 02 - Telenet\Product Specification.txt          [NA-PRD-TEL-002] DRAFT
+- 03 - Datalog\Product Overview.txt               [NA-PRD-DAT-001] DRAFT
+- 03 - Datalog\Product Specification.txt          [NA-PRD-DAT-002] DRAFT
+- 04 - DraftPad\Product Overview.txt              [NA-PRD-DRA-001] ARCHIVED
+- 04 - DraftPad\Product Specification.txt         [NA-PRD-DRA-002] ARCHIVED
+- 05 - CryptCast\Product Overview.txt             [NA-PRD-CRY-001] DRAFT
+- 05 - CryptCast\Product Specification.txt        [NA-PRD-CRY-002] DRAFT
+- 06 - NA Command\Product Overview.txt            [NA-PRD-CMD-001] DRAFT
+- 07 - msg.term\Product Overview.txt              [NA-PRD-MSG-001] DRAFT
+- 08 - Meat\Product Overview.txt                  [NA-PRD-MEA-001] DRAFT
+- README.txt                                      [NA-PRD-INDEX] ACTIVE
 
-07 - INTERNAL
-- README.txt
-- Internal Communications/Communication Standards.txt
-- Meetings/Meeting Standards.txt
-- Team/Team Rules.txt
+==== 04 - OPERATIONS ====
+- Design\Design Standards.txt                     [NA-OPS-001] ACTIVE
+- Development\Development Standards.txt           [NA-OPS-002] ACTIVE
+- Development\Release Procedure.txt               [NA-OPS-003] ACTIVE
+- Infrastructure\Infrastructure Standards.txt     [NA-OPS-004] ACTIVE
+- QA\Bug Management.txt                           [NA-OPS-006] ACTIVE
+- QA\QA Standards.txt                             [NA-OPS-005] ACTIVE
+- README.txt                                      [NA-OPS-INDEX] ACTIVE
+- Security\Access Control.txt                     [NA-OPS-007] ACTIVE
+- Security\Incident Response.txt                  [NA-OPS-008] ACTIVE
 
-08 - ARCHIVE
-- README.txt
-- Legacy Brand/WS.png
+==== 05 - BRAND ====
+- Brand Guidelines.txt                            [NA-BRD-001] ACTIVE
+- Marketing\Marketing Standards.txt               [NA-BRD-002] ACTIVE
+- README.txt                                      [NA-BRD-INDEX] ACTIVE
 
-ROOT
-- README.txt
-- DOCUMENT INVENTORY.txt
+==== 06 - PUBLIC ====
+- Announcements\README.txt                        [NA-PUB-ANNOUNCEMENTS] ACTIVE
+- Discord\Company Update.txt                      [NA-PUB-001] ACTIVE
+- README.txt                                      [NA-PUB-INDEX] ACTIVE
+- Website\Website Content Standards.txt           [NA-PUB-002] ACTIVE
 
-CONTROL RULE
+==== 07 - INTERNAL ====
+- Internal Communications\Communication Standards.txt [NA-INT-001] ACTIVE
+- Meetings\Meeting Standards.txt                  [NA-INT-002] ACTIVE
+- README.txt                                      [NA-INT-INDEX] ACTIVE
+- Team\Team Rules.txt                             [NA-INT-003] ACTIVE
 
-This inventory must remain aligned with the actual repository structure. New controlled documents should be added to the appropriate numbered section and reflected here.
+==== 08 - ARCHIVE ====
+- README.txt                                      [NA-ARC-INDEX] ACTIVE
+- Superseded\Corporate v1.1\Document Control v1.1 (superseded 2026-10-01).txt  [archived, no header — preserved as-is]
+- Superseded\Corporate v1.1\Manual Corporativo v1.1 (superseded 2026-10-01).txt  [archived, no header — preserved as-is]
+- Superseded\Corporate v1.1\Organization v1.1 (superseded 2026-10-01).txt  [archived, no header — preserved as-is]
+- Superseded\Legal v1.0 published on website\Acceptable Use Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Legal v1.0 published on website\Cookie Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Legal v1.0 published on website\Custom Application Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Legal v1.0 published on website\Intellectual Property Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Legal v1.0 published on website\Politica de privacidad.txt  [archived, no header — preserved as-is]
+- Superseded\Legal v1.0 published on website\Security Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Legal v1.0 published on website\Terminos y Condiciones.txt  [archived, no header — preserved as-is]
+- Superseded\README.txt                           [NA-ARC-SUPERSEDED] ACTIVE
+- Superseded\Weird Stuff era\01 - CORPORATE\Document Control.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\01 - CORPORATE\Manual Corporativo.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\01 - CORPORATE\Organization.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\01 - CORPORATE\README.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\02 - LEGAL\Acceptable Use Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\02 - LEGAL\Cookie Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\02 - LEGAL\Custom Application Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\02 - LEGAL\Intellectual Property Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\02 - LEGAL\Politica de privacidad.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\02 - LEGAL\Política de Aplicaciones Personalizadas.txt  [archived, v1.1 snapshot — see Superseded/README.txt]
+- Superseded\Weird Stuff era\02 - LEGAL\Política de Cookies.txt  [archived, v1.1 snapshot — see Superseded/README.txt]
+- Superseded\Weird Stuff era\02 - LEGAL\Política de Privacidad.txt  [archived, v1.1 snapshot — see Superseded/README.txt]
+- Superseded\Weird Stuff era\02 - LEGAL\Política de Propiedad Intelectual.txt  [archived, v1.1 snapshot — see Superseded/README.txt]
+- Superseded\Weird Stuff era\02 - LEGAL\Política de Seguridad.txt  [archived, v1.1 snapshot — see Superseded/README.txt]
+- Superseded\Weird Stuff era\02 - LEGAL\Política de Uso Aceptable.txt  [archived, v1.1 snapshot — see Superseded/README.txt]
+- Superseded\Weird Stuff era\02 - LEGAL\README.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\02 - LEGAL\Security Policy.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\02 - LEGAL\Terminos y Condiciones.txt  [archived, no header — preserved as-is]
+- Superseded\Weird Stuff era\02 - LEGAL\Términos y Condiciones.txt  [archived, v1.1 snapshot — see Superseded/README.txt]
+- Superseded\Weird Stuff era\README.txt  [archived, no header — preserved as-is]
+
+==== ROOT ====
+- DOCUMENT INVENTORY.txt  [NA-ARC-INVENTORY] ACTIVE
+- README.txt  [NA-ROOT] ACTIVE
+- ../LICENSE (repository root)  [copyright notice, C-017] ACTIVE
+
+==== NON-TEXT FILES ====
+
+- 08 - ARCHIVE/Legacy Brand/WS.png
+  Previous-identity logo. Historical only (ADR-0001).
+
+==== NOTES ====
+
+- Archived files under 08 - ARCHIVE are preserved byte-for-byte
+  and intentionally carry no new headers.
+- Placeholders created on October 1, 2026: 03 - PRODUCTS/06 -
+  NA Command, 07 - msg.term, 08 - Meat (product overviews).
+- New legal placeholders: NA-LGL-008 Support Policy, NA-LGL-009
+  Commercial Terms.
+- Decision records: ADR-0001 through ADR-0007 in
+  01 - CORPORATE/Decisions/, plus the Consistency Log.
+- Weird Stuff era holds two snapshots of the previous tree
+  (English-filename set and last-state Spanish-filename set);
+  provenance in Superseded/README.txt.
+
+FILE COUNTS
+
+Files outside archive: 75
+Archived files:        32
 
 END OF DOCUMENT

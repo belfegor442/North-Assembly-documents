@@ -1,12 +1,18 @@
 NORTH ASSEMBLY
 INTELLECTUAL PROPERTY POLICY
 
-Version: 1.1
-Status: DRAFT FOR LEGAL REVIEW
+DOCUMENT ID: NA-LGL-006
+Version: 1.2
+Status: DRAFT
+Classification: PUBLIC
+Completeness: PENDING ITEMS (9)
+Legal Review: REQUIRED
+Owner: North Assembly
 Publication Status: PENDING
 Effective Date: PENDING
-Last Updated: September 12, 2026
-Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: March 1, 2027
 
 ============================================================
 1. PURPOSE
@@ -255,7 +261,46 @@ Standard agreements for ownership and assignment remain to be
 defined where necessary.
 
 ============================================================
-13. COLLABORATORS AND CONTRACTORS
+============================================================
+13. AI-GENERATED AND AI-ASSISTED CONTENT
+============================================================
+
+[REQUIRES CONFIRMATION]
+Whether and how North Assembly uses generative AI to
+create content, code, or designs is not documented.
+This section defines the framework only.
+
+[MANDATORY]
+AI-generated or AI-assisted output must not be
+presented as human-authored where that matters, and
+must not be used to imitate a person's identity,
+voice, or work without authority.
+
+[MANDATORY]
+Ownership or licence claims over AI-assisted material
+must not exceed what applicable law and the terms of
+the AI provider used actually allow.
+
+[MANDATORY]
+AI-assisted output must not reproduce third-party
+protected material, and must be reviewed before it is
+published or released.
+
+[PENDING]
+Approved AI tools.
+[PENDING]
+Review requirement before AI-assisted output is
+released.
+[PENDING]
+Disclosure rule for public-facing AI-generated
+content.
+
+This section applies the ownership and licensing rules
+of this Policy to AI-assisted creation. It does not
+change them.
+
+============================================================
+14. COLLABORATORS AND CONTRACTORS
 ============================================================
 
 When an external collaborator creates material for North Assembly:
@@ -268,7 +313,7 @@ through an appropriate agreement where necessary.
 North Assembly must not claim rights that it has not legally obtained.
 
 ============================================================
-14. CUSTOM APPLICATIONS
+15. CUSTOM APPLICATIONS
 ============================================================
 
 Custom applications may involve contributions from North Assembly,
@@ -282,7 +327,7 @@ The Custom Applications Policy provides additional rules for these
 projects.
 
 ============================================================
-15. USER CONTENT
+16. USER CONTENT
 ============================================================
 
 Users may provide content to North Assembly services.
@@ -301,7 +346,7 @@ Any license granted by Users to North Assembly must be defined by the
 relevant service or agreement.
 
 ============================================================
-16. LICENSE GRANTS
+17. LICENSE GRANTS
 ============================================================
 
 When North Assembly grants a User a license to software or other
@@ -325,7 +370,7 @@ Possible characteristics include:
 Product-specific license terms remain to be defined where needed.
 
 ============================================================
-17. UNAUTHORIZED COPYING
+18. UNAUTHORIZED COPYING
 ============================================================
 
 [MANDATORY]
@@ -343,7 +388,7 @@ This may include:
 * Proprietary product material.
 
 ============================================================
-18. REVERSE ENGINEERING
+19. REVERSE ENGINEERING
 ============================================================
 
 The final rules concerning reverse engineering, decompilation,
@@ -355,7 +400,7 @@ Nothing in this Policy is intended to restrict rights that cannot
 legally be restricted.
 
 ============================================================
-19. INTELLECTUAL PROPERTY INFRINGEMENT
+20. INTELLECTUAL PROPERTY INFRINGEMENT
 ============================================================
 
 If North Assembly receives a credible report that code, content,
@@ -375,8 +420,23 @@ operationally justified, including:
 * Attribution correction.
 * Legal review.
 
+[PENDING]
+Notice-and-takedown procedure: required contents of a notice,
+acknowledgement deadline, counter-notice, restoration criteria,
+and the designated agent responsible.
+
+[MANDATORY]
+A report must be acknowledged, and the rights holder informed of
+the outcome, within a deadline that is defined before this Policy
+is published.
+
+[REQUIRES CONFIRMATION]
+No designated intellectual-property agent or contact has been
+confirmed. Until one exists, rightsholders have no published route
+to send a notice and this infringement process cannot be operated.
+
 ============================================================
-20. REPORTING INFRINGEMENT
+21. REPORTING INFRINGEMENT
 ============================================================
 
 Official intellectual-property contact:
@@ -389,7 +449,7 @@ Website:
 ---
 
 ============================================================
-21. PROOF OF RIGHTS
+22. PROOF OF RIGHTS
 ============================================================
 
 [RECOMMENDED]
@@ -407,7 +467,7 @@ Where licensing documentation is required for lawful use,
 reasonable records must be maintained.
 
 ============================================================
-22. INTELLECTUAL PROPERTY INVENTORY
+23. INTELLECTUAL PROPERTY INVENTORY
 ============================================================
 
 [RECOMMENDED]
@@ -425,11 +485,10 @@ intellectual property, including where relevant:
 * Other protected assets.
 
 ============================================================
-23. DOMAINS AND DIGITAL IDENTIFIERS
+24. DOMAINS AND DIGITAL IDENTIFIERS
 ============================================================
 
-Domains and official digital identifiers may form part of Weird
-Stuff's business identity.
+Domains and official digital identifiers may form part of North Assembly's business identity.
 
 [MANDATORY]
 Official domains and important account identifiers must not be
@@ -440,7 +499,7 @@ Credentials for important domains and digital identity systems must
 be protected.
 
 ============================================================
-24. PUBLICATION
+25. PUBLICATION
 ============================================================
 
 [MANDATORY]
@@ -456,7 +515,7 @@ Major publications should receive an appropriate review before
 release.
 
 ============================================================
-25. ENFORCEMENT
+26. ENFORCEMENT
 ============================================================
 
 [MANDATORY]
@@ -474,7 +533,7 @@ Possible measures include:
 * Other measures permitted by law.
 
 ============================================================
-26. RELATIONSHIP WITH OTHER POLICIES
+27. RELATIONSHIP WITH OTHER POLICIES
 ============================================================
 
 This Policy complements:
@@ -492,7 +551,7 @@ Specific licenses and contracts governing intellectual property must
 be respected.
 
 ============================================================
-27. POLICY UPDATES
+28. POLICY UPDATES
 ============================================================
 
 [MANDATORY]
@@ -508,7 +567,7 @@ This Policy must be reviewed when there are significant changes to:
 Material revisions must receive an appropriate version number.
 
 ============================================================
-28. LEGAL LIMITATION
+29. LEGAL LIMITATION
 ============================================================
 
 Nothing in this Policy is intended to:
@@ -524,17 +583,16 @@ Where ownership or licensing requires a formal agreement, the
 appropriate agreement must be used.
 
 ============================================================
-29. DOCUMENT CONTROL
+30. DOCUMENT CONTROL
 ============================================================
 
 Document:
 NORTH ASSEMBLY — INTELLECTUAL PROPERTY POLICY
 
 Version:
-1.1
+1.2
 
-Status:
-DRAFT FOR LEGAL REVIEW
+Status: DRAFT
 
 Publication:
 PENDING
@@ -543,7 +601,12 @@ Effective Date:
 PENDING
 
 Last Updated:
-September 12, 2026
+October 1, 2026
+
+Change History:
+1.2  October 1, 2026 - added section 13 (AI-generated and
+AI-assisted content); sections 13-29 renumbered to 14-30;
+section 20 extended with notice-and-takedown requirements.
 
 Owner:
 North Assembly

@@ -1,0 +1,52 @@
+ADR-0001
+REBRAND FROM WEIRD STUFF TO NORTH ASSEMBLY
+
+Date: September 29, 2026
+Status: ACCEPTED
+Classification: INTERNAL
+Owner: North Assembly
+Related: NA-COR-002, NA-COR-003, 05 - BRAND, 08 - ARCHIVE
+
+CONTEXT
+
+North Assembly previously operated publicly under the name
+"Weird Stuff". Documentation, branding, and the public website
+were built around that identity.
+
+PROBLEM
+
+The organization needed a single current identity across
+documentation, products, branding, and public communication.
+
+DECISION
+
+North Assembly is the current organizational identity. Weird
+Stuff is historical.
+
+RATIONALE
+
+The change is an evolution of identity and organization. It is
+not evidence of any legal transformation, and no legal entity
+change is implied or claimed.
+
+CONSEQUENCES
+
+* Active documentation uses "North Assembly".
+* "Weird Stuff" appears only in historical or archive material,
+  or where a document explicitly describes the name history.
+* The WS logo asset is retained under 08 - ARCHIVE/Legacy Brand
+  and is not a current brand asset.
+* The public website still carries the previous identity in many
+  pages; that is tracked as an external follow-up.
+
+ALTERNATIVES CONSIDERED
+
+* Keep both names in active use — rejected: creates permanent
+  ambiguity about who is speaking.
+* Remove all traces of the previous name — rejected: destroys
+  history that documents products and decisions.
+
+RELATED DOCUMENTS
+
+08 - ARCHIVE/Superseded/Weird Stuff era/
+05 - BRAND/Brand Guidelines.txt

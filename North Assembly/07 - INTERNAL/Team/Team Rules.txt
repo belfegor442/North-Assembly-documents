@@ -1,23 +1,63 @@
 NORTH ASSEMBLY
 TEAM RULES
 
-Version: 1.1
-Status: IN FORCE
+DOCUMENT ID: NA-INT-003
+Version: 1.2
+Status: ACTIVE
 Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: Team Rules v1.1
+Superseded By: —
+Related: NA-COR-002, NA-COR-004, NA-INT-001, ADR-0006
 
 PURPOSE
 
-These rules set the basic expectations for people working with North Assembly. They are intended to keep responsibilities clear, protect the company and its work, and prevent avoidable problems between team members.
+These rules set the basic expectations for people working with North
+Assembly. They are intended to keep responsibilities clear, protect
+the company and its work, and prevent avoidable problems between
+team members.
 
 1. AUTHORITY AND RESPONSIBILITY
 
 [MANDATORY]
 Team members must work within their assigned authority and responsibilities. A person's role does not give them automatic authority over areas outside that role.
 
-2. INFORMATION AND SECURITY
+[MANDATORY]
+A role title is an operational label. It must never be presented as a legal or corporate office.
+
+2. ROLES AND VACANCIES
+
+The list of roles, their holders and any vacancies is recorded in
+NA-COR-002. Recruitment and the terminology for working
+relationships are governed by NA-COR-004.
+
+[MANDATORY]
+A vacant position belongs to no one. No person may act for,
+represent, or exercise the access of a position that is vacant.
+
+[MANDATORY]
+A person must not be given a role that has no identified work
+behind it.
+
+[MANDATORY]
+Different working relationships are not interchangeable. Where the
+exact relationship is unknown, use "collaborator" or "member of
+the project".
+
+3. INFORMATION AND SECURITY
 
 [MANDATORY]
 Members must protect internal, restricted, and confidential information from unauthorized access or disclosure.
+
+[MANDATORY]
+This repository is public. Documents stored here must not contain
+secrets, credentials, personal contact data, private personnel
+records, or non-public infrastructure detail. See ADR-0006.
 
 [MANDATORY]
 Members must not intentionally interfere with another member's authorized work, accounts, repositories, or infrastructure.
@@ -25,12 +65,35 @@ Members must not intentionally interfere with another member's authorized work, 
 [MANDATORY]
 Security incidents and significant operational problems must be escalated through the appropriate channel.
 
-3. ROLE CHANGES AND DEPARTURES
+4. ROLE CHANGES AND DEPARTURES
 
 [MANDATORY]
 When a member leaves a role or leaves North Assembly, applicable access must be revoked.
 
+[MANDATORY]
+When a role changes or becomes vacant, NA-COR-002 must be updated
+in the same change cycle.
+
 [RECOMMENDED]
 Important work should be documented well enough to allow responsibilities to be transferred when necessary.
+
+DOCUMENT CONTROL
+
+Document: NORTH ASSEMBLY — TEAM RULES
+ID: NA-INT-003
+Version: 1.2
+Status: ACTIVE
+Classification: INTERNAL
+Last Modified: October 1, 2026
+
+CHANGE HISTORY
+
+1.2  October 1, 2026
+     Added roles and vacancies section referencing NA-COR-002 and
+     NA-COR-004, the public-repository rule, and the internal-role
+     disclaimer. Header migrated to NA-COR-001 v2.0.
+
+1.1  September 12, 2026
+     Previous version.
 
 END OF DOCUMENT

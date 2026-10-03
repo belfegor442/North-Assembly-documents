@@ -1,11 +1,20 @@
 NORTH ASSEMBLY
 BRAND GUIDELINES
 
-Version: 1.1
-Status: IN FORCE
-Effective Date: September 12, 2026
-Owner: North Assembly
+DOCUMENT ID: NA-BRD-001
+Version: 1.2
+Status: ACTIVE
 Classification: INTERNAL
+Completeness: PENDING ITEMS (7)
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Effective Date: September 12, 2026
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: —
+Superseded By: —
+Related: NA-BRD-002, ADR-0001, 08 - ARCHIVE/Legacy Brand
 
 1. BRAND IDENTITY
 
@@ -13,6 +22,16 @@ North Assembly is an independent software studio. The brand should feel like a r
 
 [MANDATORY]
 The North Assembly name and logo must not be altered in a way that falsely suggests an official communication or product.
+
+[MANDATORY]
+The name "North Assembly" must not be presented as a registered
+trademark, or marked with ® or ™, unless registration is actually
+documented.
+
+[MANDATORY]
+The previous identity, "Weird Stuff", must not be used as the
+current brand. Its materials are historical and live under
+08 - ARCHIVE/Legacy Brand. See ADR-0001.
 
 2. VOICE
 
@@ -28,6 +47,29 @@ Prefer specific statements over vague claims. Say what a product does, what it d
 
 3. VISUAL ASSETS
 
+ASSET INVENTORY
+
+Current North Assembly assets:
+
+[PENDING]
+Primary logo file and its location in a controlled repository.
+[PENDING]
+Favicon / icon source file.
+[PENDING]
+Banner artwork (a banner exists on the public website; its
+authoritative source is not recorded here).
+
+Legacy assets:
+
+  WS.png  Previous-identity logo. Retained for history only.
+          Location: 08 - ARCHIVE/Legacy Brand/
+          Status: NOT a current brand asset.
+
+[REQUIRES CONFIRMATION]
+The website repository holds current North Assembly imagery, but
+this document does not record it as the source of truth. Resolve
+where the authoritative asset set lives.
+
 [MANDATORY]
 Use approved logos and assets when an official North Assembly identity is required.
 
@@ -42,5 +84,23 @@ Formal typography specification.
 
 [PENDING]
 Logo spacing and minimum-size rules.
+
+DOCUMENT CONTROL
+
+Document: NORTH ASSEMBLY — BRAND GUIDELINES
+ID: NA-BRD-001
+Version: 1.2
+Status: ACTIVE
+Classification: INTERNAL
+Last Modified: October 1, 2026
+
+CHANGE HISTORY
+
+1.2  October 1, 2026
+     Added asset inventory, trademark rule, and previous-identity
+     rule (ADR-0001).
+
+1.1  September 12, 2026
+     Previous version.
 
 END OF DOCUMENT

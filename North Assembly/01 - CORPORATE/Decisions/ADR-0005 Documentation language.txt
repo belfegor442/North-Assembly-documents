@@ -1,0 +1,56 @@
+ADR-0005
+DOCUMENTATION LANGUAGE
+
+Date: October 1, 2026
+Status: ACCEPTED (pending review by owner)
+Classification: INTERNAL
+Owner: North Assembly
+Related: NA-COR-001, 02 - LEGAL, 06 - PUBLIC
+
+CONTEXT
+
+The repository mixes languages: file names are Spanish
+("Términos y Condiciones.txt", "Política de Cookies.txt",
+"Manual Corporativo.txt", "Configuracion.txt") while the content
+is English. The public website's legal pages are Spanish.
+
+PROBLEM
+
+Mixed language makes documents harder to search, harder to review
+and easier to contradict across translations.
+
+DECISION
+
+1. English is the master language for internal and technical
+   documentation in this repository.
+
+2. Spanish remains an accepted language for public-facing legal
+   text, because the website audience is Spanish-speaking.
+
+3. When a Spanish public document exists, it is a publication
+   translation of an approved master in this repository. The
+   master is authoritative; the translation must not introduce
+   different meaning.
+
+4. File names are not renamed in this reform. Renaming would break
+   existing references for no substantive gain. New files use
+   English names unless they are Spanish-language public texts.
+
+CONSEQUENCES
+
+* Existing Spanish file names are tolerated as legacy.
+* Public legal translations must record which master version they
+  translate.
+* A divergence between a Spanish public text and its master is a
+  contradiction and is logged in the Consistency Log.
+
+ALTERNATIVES CONSIDERED
+
+* Translate everything to Spanish — rejected: large rewrite of
+  technical material with no current requirement.
+* Rename all files to English — rejected: breaks references
+  (D-13 resolution is documentation, not renaming).
+
+RELATED DOCUMENTS
+
+01 - CORPORATE/Decisions/Consistency Log.txt

@@ -1,9 +1,15 @@
 NORTH ASSEMBLY
 MEETING STANDARDS
 
+DOCUMENT ID: NA-INT-002
 Version: 1.1
-Status: IN FORCE
+Status: ACTIVE
 Classification: INTERNAL
+Completeness: PENDING ITEMS (2)
+Legal Review: NOT REQUIRED
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
 
 PURPOSE
 

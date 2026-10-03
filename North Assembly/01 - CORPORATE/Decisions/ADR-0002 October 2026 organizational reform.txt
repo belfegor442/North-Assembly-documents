@@ -1,0 +1,88 @@
+ADR-0002
+OCTOBER 2026 ORGANIZATIONAL REFORM
+
+Date: October 1, 2026
+Status: ACCEPTED
+Classification: INTERNAL
+Owner: North Assembly
+Related: NA-COR-002, NA-COR-004, NA-COR-003, ADR-0007
+
+CONTEXT
+
+The previous organizational structure was:
+
+  CEO        belfegor442
+  Director   Anti
+  Manager    held by a former member
+  Designer   two positions, held by former members
+  Tester     held by a former member
+  Developer  previously held by a former member
+
+[MANDATORY]
+Former members are referred to by role only. This repository must
+not record the identifiers or performance assessments of
+identifiable individuals (ADR-0007).
+
+The structure produced a mismatch between positions and productive
+work: the CEO carried a very large number of active projects, one
+position produced no measurable operational output, one position
+had no assigned deliverable, and two positions produced no
+completed work.
+
+This is recorded as an organizational problem. It is not an
+evaluation of any person, and no such evaluation is recorded in
+this repository.
+
+PROBLEM
+
+The organization needed a structure that reflects actual work
+rather than an intended chart, without losing the ability to grow.
+
+DECISION
+
+1. The structure becomes:
+
+     CEO      belfegor442
+     Director Anti
+     Manager  Doughtking12
+     Developer   VACANT (intentional)
+     Designer    VACANT (intentional)
+
+2. Doughtking12 replaces the previous Manager.
+
+3. Developer and Designer remain deliberately unfilled.
+
+4. Vacancy becomes a documented, legitimate state rather than a
+   gap to be filled (NA-COR-002 §4).
+
+5. Recruitment is governed by a fixed pipeline:
+   need -> work -> role -> person (NA-COR-004).
+
+RATIONALE
+
+Positions must be justified by identified work. Creating roles to
+complete a chart produces activity without deliverables.
+
+CONSEQUENCES
+
+* NA-COR-002 records holders and vacancies as the single source
+  of truth.
+* The Manual Corporativo references NA-COR-002 instead of
+  restating the roster.
+* Public "people" pages that still show the previous roster must
+  be corrected (external website track).
+* Projects requiring architecture, core engineering, or internal
+  infrastructure remain with the CEO and Director by default.
+
+ALTERNATIVES CONSIDERED
+
+* Fill Developer and Designer immediately — rejected: no
+  identified work justifies either position right now.
+* Remove the positions entirely — rejected: the work will
+  reappear; keeping them vacant documents the intent.
+
+RELATED DOCUMENTS
+
+01 - CORPORATE/Organization.txt
+01 - CORPORATE/Recruitment and Roles.txt
+08 - ARCHIVE/Superseded/Corporate v1.1/

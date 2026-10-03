@@ -1,12 +1,18 @@
 NORTH ASSEMBLY
 TÉRMINOS Y CONDICIONES
 
-Version: 1.1
-Status: DRAFT FOR LEGAL REVIEW
+DOCUMENT ID: NA-LGL-001
+Version: 1.2
+Status: DRAFT
+Classification: PUBLIC
+Completeness: PENDING ITEMS (6)
+Legal Review: REQUIRED
+Owner: North Assembly
 Publication Status: PENDING
 Effective Date: PENDING
-Last Updated: September 12, 2026
-Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: March 1, 2027
 
 ============================================================
 1. INTRODUCTION
@@ -53,8 +59,23 @@ Depending on the service and applicable law, acceptance may occur
 through website access, account creation, installation, activation,
 or another clearly presented mechanism.
 
-The exact acceptance mechanism for each service must be defined
-before publication.
+[PENDING]
+The acceptance mechanism must be selected for each service and
+recorded before publication. Candidate mechanisms:
+
+* An unchecked checkbox next to the Terms at registration or
+  first use.
+* A separate "I accept the Terms" step during account creation.
+* Continued use of a service after prominent notice, only where
+  applicable law allows acceptance by conduct.
+
+[MANDATORY]
+Acceptance must be capable of being evidenced: the version of the
+Terms presented, the mechanism used, and when it occurred.
+
+[MANDATORY]
+A mechanism a User can miss - for example terms linked only from
+a footer - is not a sufficient acceptance mechanism.
 
 ============================================================
 4. ELIGIBILITY
@@ -242,8 +263,7 @@ assets, text, and other materials made available through its
 services.
 
 [MANDATORY]
-Unless expressly permitted, Users do not receive ownership of Weird
-Stuff intellectual property merely by accessing or using a service.
+Unless expressly permitted, Users do not receive ownership of North Assembly intellectual property merely by accessing or using a service.
 
 [MANDATORY]
 Third-party intellectual property remains subject to its respective
@@ -358,6 +378,24 @@ Any limitation of liability must comply with applicable law.
 These Terms are not intended to exclude liability that cannot
 legally be excluded or limited.
 
+[PENDING]
+The following must be completed for each applicable jurisdiction
+before publication:
+
+* An aggregate monetary cap on North Assembly's liability.
+* The treatment of indirect, consequential and lost-profit loss.
+* The carve-outs that must remain unlimited (for example fraud,
+  and any liability applicable law does not permit to be limited).
+
+[MANDATORY]
+No liability cap may be presented to a User until it has been
+defined and reviewed. Until then these Terms contain no cap.
+
+[MANDATORY]
+A liability provision must not shift loss onto a User beyond what
+applicable law permits, and must be read together with the
+mandatory-guarantee protection in section 20.
+
 Final liability provisions require jurisdiction-specific legal
 review before publication.
 
@@ -388,7 +426,27 @@ Any dispute-resolution mechanism must receive legal review before
 publication.
 
 ============================================================
-24. SEVERABILITY
+============================================================
+24. LANGUAGE
+============================================================
+
+This document is the English master for the legal set. A
+Spanish public text is a translation of an approved master
+in this repository (ADR-0005).
+
+[REQUIRES CONFIRMATION]
+Which language version prevails when more than one language
+version of these Terms is offered has not been decided.
+
+[MANDATORY]
+A published translation must record which master version it
+translates and must not introduce different meaning.
+
+[MANDATORY]
+The governing-language term must be completed and reviewed
+before publication in any language.
+
+25. SEVERABILITY
 ============================================================
 
 If a provision of these Terms is found invalid or unenforceable, the
@@ -399,7 +457,7 @@ This clause must not be used to remove or restrict mandatory legal
 protections.
 
 ============================================================
-25. NO WAIVER
+26. NO WAIVER
 ============================================================
 
 Failure to enforce a provision immediately does not automatically
@@ -407,7 +465,7 @@ constitute a permanent waiver of that provision, subject to
 applicable law.
 
 ============================================================
-26. ENTIRE AGREEMENT
+27. ENTIRE AGREEMENT
 ============================================================
 
 Where legally applicable, these Terms together with the policies and
@@ -418,7 +476,7 @@ Product-specific agreements may take precedence for matters they
 specifically address.
 
 ============================================================
-27. CONTACT
+28. CONTACT
 ============================================================
 
 Official contact information must be completed before publication.
@@ -433,17 +491,16 @@ Legal contact:
 ---
 
 ============================================================
-28. DOCUMENT CONTROL
+29. DOCUMENT CONTROL
 ============================================================
 
 Document:
 NORTH ASSEMBLY — TERMS AND CONDITIONS
 
 Version:
-1.1
+1.2
 
-Status:
-DRAFT FOR LEGAL REVIEW
+Status: DRAFT
 
 Publication:
 PENDING
@@ -451,14 +508,18 @@ PENDING
 Effective Date:
 PENDING
 
-Last Updated:
-September 12, 2026
+Last Updated: October 1, 2026
+
+Change History:
+1.2  October 1, 2026 - acceptance mechanism detailed,
+liability framework added, new section 24 (LANGUAGE),
+sections 24-29 renumbered to 25-30.
 
 Owner:
 North Assembly
 
 ============================================================
-29. IMPORTANT LEGAL COMPLETION ITEMS
+30. IMPORTANT LEGAL COMPLETION ITEMS
 ============================================================
 
 Before publication, the following must be completed or legally

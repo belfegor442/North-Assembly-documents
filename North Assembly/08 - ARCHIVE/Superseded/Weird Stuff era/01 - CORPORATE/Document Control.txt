@@ -1,0 +1,108 @@
+NORTH ASSEMBLY
+DOCUMENT CONTROL
+
+Version: 1.1
+Status: IN FORCE
+Effective Date: September 12, 2026
+Owner: North Assembly
+Classification: INTERNAL
+
+============================================================
+1. PURPOSE
+============================================================
+
+This document explains how North Assembly keeps its controlled documentation consistent, current, and traceable.
+
+The purpose is not to add unnecessary bureaucracy. It is to make it clear which document is current, what a document means, and when a change became effective.
+
+[MANDATORY]
+A controlled document must have an identifiable title, version, status, owner, classification, and effective date when an effective date is applicable.
+
+[MANDATORY]
+A superseded document must not be presented or treated as the current authoritative version.
+
+============================================================
+2. DOCUMENT STATUS
+============================================================
+
+IN FORCE
+The document is currently approved and applicable.
+
+DRAFT FOR REVIEW
+The document is being prepared or reviewed. It is not yet authoritative.
+
+PENDING
+The document structure exists, but required information, decisions, or approval are still missing.
+
+RETIRED
+The document is no longer applicable but is being retained for reference.
+
+ARCHIVED
+The document is historical or superseded material retained under archive controls.
+
+A document's status is part of its meaning. The existence of a file in the repository does not, by itself, make that file an active policy.
+
+============================================================
+3. VERSIONING
+============================================================
+
+Versions exist to make meaningful changes identifiable. They are not intended to be changed merely because a file was opened or reformatted.
+
+[MANDATORY]
+A material change requires a new document version.
+
+[MANDATORY]
+The effective date must be updated when a new version enters into force.
+
+[MANDATORY]
+Changes to legal documents must not be represented as legally effective until the applicable review and publication requirements have been completed.
+
+============================================================
+4. CLASSIFICATION
+============================================================
+
+PUBLIC
+Information approved for public distribution.
+
+INTERNAL
+Information intended for North Assembly personnel and authorized collaborators.
+
+RESTRICTED
+Information available only to specifically authorized recipients.
+
+CONFIDENTIAL
+Information whose unauthorized disclosure could materially harm North Assembly, its users, members, or projects.
+
+RESERVED
+Information intentionally withheld from publication, whether because it is private, undecided, or otherwise restricted.
+
+============================================================
+5. CHANGE CONTROL
+============================================================
+
+Documentation should be understandable not only when it is written, but also when someone needs to understand it months later.
+
+[MANDATORY]
+Important changes must be traceable through version control.
+
+[MANDATORY]
+A document must not be silently replaced while retaining an obsolete version identifier.
+
+[RECOMMENDED]
+Material documents should include a revision history when the history is useful for understanding their development.
+
+============================================================
+6. ARCHIVE
+============================================================
+
+Old documentation is not automatically useless. Historical versions can be important when investigating past decisions, understanding a product's development, or establishing what rules were previously in force.
+
+[MANDATORY]
+Superseded documents must be retained when historical traceability is required.
+
+[MANDATORY]
+Archived documents must be clearly distinguishable from current policy and must not be presented as authoritative.
+
+============================================================
+END OF DOCUMENT
+============================================================

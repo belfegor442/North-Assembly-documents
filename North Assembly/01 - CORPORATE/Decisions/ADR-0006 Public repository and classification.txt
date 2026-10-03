@@ -1,0 +1,68 @@
+ADR-0006
+PUBLIC REPOSITORY AND DOCUMENT CLASSIFICATION
+
+Date: October 1, 2026
+Status: ACCEPTED
+Classification: INTERNAL
+Owner: North Assembly
+Related: NA-COR-001, 04 - OPERATIONS/Security, 07 - INTERNAL
+
+CONTEXT
+
+This repository is public on GitHub. Until now, documents inside
+it carried classifications such as RESTRICTED and INTERNAL, which
+implied handling rules the repository cannot enforce.
+
+PROBLEM
+
+A document labelled RESTRICTED in a world-readable repository is
+a contradiction: the label promises controlled access that does
+not exist. Either the classification or the location is wrong.
+
+DECISION
+
+1. The repository stays public. It is the organization's
+   documentation system and reference for collaborators.
+
+2. Because it is public, RESTRICTED and CONFIDENTIAL material must
+   never be stored here (NA-COR-001 §4).
+
+3. Documents previously labelled RESTRICTED that contain only
+   general principles — Access Control, Incident Response — are
+   reclassified INTERNAL, because their content is not sensitive.
+
+4. INTERNAL documents here must contain no secrets, credentials,
+   personal contact data, private personnel records, or
+   non-public infrastructure detail.
+
+5. If a document ever genuinely needs RESTRICTED or CONFIDENTIAL
+   handling, it moves to a private location and only a pointer
+   remains here.
+
+RATIONALE
+
+Classification must describe reality. A label that the storage
+location cannot honour is worse than an honest lower label.
+
+CONSEQUENCES
+
+* Access Control and Incident Response are now INTERNAL.
+* 07 - INTERNAL is INTERNAL in label but public in fact; its
+  README states this explicitly.
+* Genuine restricted material has somewhere to go instead of
+  being written here by accident.
+
+ALTERNATIVES CONSIDERED
+
+* Make the repository private — rejected: it is the public
+  reference for the documentation system and must not contain
+  secrets, credentials, personal contact data, personnel records,
+  or non-public infrastructure detail (see ADR-0007).
+* Keep the RESTRICTED labels — rejected: unenforceable and
+  misleading.
+
+RELATED DOCUMENTS
+
+North Assembly/01 - CORPORATE/Document Control.txt
+North Assembly/04 - OPERATIONS/Security/Access Control.txt
+North Assembly/07 - INTERNAL/README.txt

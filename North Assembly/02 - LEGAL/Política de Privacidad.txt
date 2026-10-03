@@ -1,12 +1,18 @@
 NORTH ASSEMBLY
 PRIVACY POLICY
 
+DOCUMENT ID: NA-LGL-002
 Version: 1.1
-Status: DRAFT FOR LEGAL REVIEW
+Status: DRAFT
+Classification: PUBLIC
+Completeness: PENDING ITEMS (15)
+Legal Review: REQUIRED
+Owner: North Assembly
 Publication Status: PENDING
 Effective Date: PENDING
-Last Updated: September 12, 2026
-Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: March 1, 2027
 
 ============================================================
 1. PURPOSE
@@ -642,8 +648,7 @@ NORTH ASSEMBLY — PRIVACY POLICY
 Version:
 1.1
 
-Status:
-DRAFT FOR LEGAL REVIEW
+Status: DRAFT
 
 Publication:
 PENDING
@@ -651,9 +656,7 @@ PENDING
 Effective Date:
 PENDING
 
-Last Updated:
-September 12, 2026
-
+Last Updated: October 1, 2026
 Owner:
 North Assembly
 

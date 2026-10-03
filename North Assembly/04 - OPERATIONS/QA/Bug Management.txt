@@ -1,11 +1,17 @@
 NORTH ASSEMBLY
 BUG MANAGEMENT
 
+DOCUMENT ID: NA-OPS-006
 Version: 1.1
-Status: IN FORCE
-Effective Date: September 12, 2026
-Owner: North Assembly
+Status: ACTIVE
 Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Effective Date: September 12, 2026
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
 
 PURPOSE
 

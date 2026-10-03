@@ -1,0 +1,849 @@
+NORTH ASSEMBLY
+MANUAL CORPORATIVO
+
+Version: 1.1
+Status: IN FORCE
+Effective Date: September 7, 2026
+Owner: North Assembly
+Classification: INTERNAL
+Approval Status: APPROVED
+
+============================================================
+1. PURPOSE
+============================================================
+
+This Manual is the main internal reference for how North Assembly is
+organized and operated. It covers authority, responsibilities,
+products, development, quality assurance, security, access,
+communications, and general operations.
+
+It does not replace applicable law, contracts, or specific legal
+and operational documents.
+
+[MANDATORY]
+Everyone acting on behalf of North Assembly must follow the mandatory
+provisions that apply to their role and responsibilities.
+
+[MANDATORY]
+Internal policies and procedures must remain consistent with this
+Manual unless an approved change establishes otherwise.
+
+============================================================
+2. STATUS AND RESERVED INFORMATION
+============================================================
+
+North Assembly may operate publicly under its brand while some legal,
+corporate, or organizational information remains private.
+
+RESERVED information includes:
+
+* Legal entity name
+* Legal form
+* Registered address
+* Jurisdiction
+* Tax identification information
+* Registration information
+* Legal representative information
+* Private contact information
+* Other restricted legal information
+
+[MANDATORY]
+Reserved information must not be disclosed publicly without proper
+authorization.
+
+[MANDATORY]
+No one may invent, alter, or knowingly misrepresent reserved
+corporate or legal information.
+
+============================================================
+3. NORMATIVE CLASSIFICATION
+============================================================
+
+[MANDATORY]
+MANDATORY means the requirement must be followed.
+
+[PROCEDURE]
+PROCEDURE describes how an adopted requirement is carried out.
+
+[STANDARD]
+STANDARD identifies an adopted technical or operational requirement.
+
+[RECOMMENDED]
+RECOMMENDED describes a preferred practice. It is not mandatory
+solely because it appears in this Manual.
+
+[PENDING]
+PENDING identifies a matter that has not yet been formally defined
+or adopted.
+
+[RESERVED]
+RESERVED identifies information intentionally restricted from
+publication.
+
+============================================================
+4. EFFECTIVE DATE
+============================================================
+
+This Manual enters into force on September 7, 2026.
+
+[MANDATORY]
+Mandatory provisions apply from that date unless a provision states
+otherwise.
+
+[MANDATORY]
+Future amendments must be identified through a new version or a
+formally recorded revision.
+
+[MANDATORY]
+Once a replacement version enters into force, the previous version
+must no longer be treated as current.
+
+============================================================
+5. CORPORATE AUTHORITY
+============================================================
+
+Current internal structure:
+
+CEO
+|
++-- Director
+|
++-- Manager
+|
++-- Specialized Teams
+
+5.1 CEO
+
+The CEO is the highest internal executive authority of North Assembly,
+subject to applicable legal limitations.
+
+[MANDATORY]
+The CEO may establish organizational direction, approve policies,
+assign responsibilities, create or reorganize teams, approve major
+projects, resolve authority disputes, delegate responsibilities,
+and take urgent measures when necessary.
+
+[MANDATORY]
+Delegating a responsibility does not automatically transfer the
+delegator's overall authority.
+
+5.2 DIRECTOR
+
+The Director is the highest operational authority below the CEO.
+
+[MANDATORY]
+The Director coordinates operations, supervises assigned managers
+and teams, implements approved decisions, escalates significant
+issues, and coordinates work between departments.
+
+5.3 MANAGER
+
+The Manager coordinates assigned teams and operational work.
+
+[MANDATORY]
+The Manager must monitor assigned work, communicate relevant issues,
+and escalate matters outside their authority.
+
+5.4 SPECIALIZED TEAMS
+
+North Assembly may organize work into functions such as:
+
+* Development
+* Design
+* QA / Testing
+* Product
+* Infrastructure
+* Security
+
+The composition of these teams may change as the needs of Weird
+Stuff change.
+
+============================================================
+6. CURRENT ORGANIZATION
+============================================================
+
+belfegor442
+Role: CEO
+
+Anti
+Role: Director
+
+[REDACTED - former member, see ADR-0007]
+Role: Manager
+
+[REDACTED - former member, see ADR-0007]
+Role: Graphic Designer
+
+[REDACTED - former member, see ADR-0007]
+Role: Graphic Designer
+
+[REDACTED - former member, see ADR-0007]
+Role: Tester
+
+[MANDATORY]
+A person may exercise authority associated with a role only when
+that role has actually been assigned to them.
+
+[MANDATORY]
+No one may knowingly present themselves as having authority above
+the authority actually granted to them.
+
+============================================================
+7. INTERNAL CONDUCT
+============================================================
+
+People working with North Assembly are expected to act responsibly and
+use company resources only within the limits of their role.
+
+[MANDATORY]
+North Assembly resources must not intentionally be used for:
+
+* Unauthorized access.
+* Credential theft.
+* Fraud.
+* Deliberate malware distribution.
+* Impersonation.
+* Unauthorized attacks against systems.
+* Malicious manipulation of infrastructure.
+* Illegal activities.
+
+[MANDATORY]
+Restricted or confidential information must not be shared without
+authorization.
+
+[MANDATORY]
+No person may intentionally interfere with another member's work,
+accounts, repositories, infrastructure, or property without
+authorization.
+
+============================================================
+8. CONFLICTS OF INTEREST
+============================================================
+
+[MANDATORY]
+Relevant conflicts of interest must be disclosed to the person
+responsible for the affected decision or area.
+
+[RECOMMENDED]
+Important decisions affected by a conflict should receive an
+additional review where practical.
+
+[MANDATORY]
+A known conflict must not be concealed when it could materially
+affect North Assembly or one of its projects.
+
+============================================================
+9. ACCESS CONTROL
+============================================================
+
+Access is granted according to actual operational need.
+
+[MANDATORY]
+Permissions must be limited to what is reasonably necessary.
+
+[MANDATORY]
+Access must be removed when the associated need no longer exists.
+
+[MANDATORY]
+Passwords and authentication credentials must not be shared.
+
+[MANDATORY]
+Administrative access must receive stronger protection than ordinary
+user access.
+
+[RECOMMENDED]
+Multi-factor authentication should be enabled for administrative
+and critical accounts whenever available.
+
+[RECOMMENDED]
+Critical permissions should be reviewed periodically.
+
+============================================================
+10. INTERNAL INFORMATION
+============================================================
+
+PUBLIC
+Information intended for public release.
+
+INTERNAL
+Information intended for members of North Assembly.
+
+RESTRICTED
+Information available only to specifically authorized people.
+
+CONFIDENTIAL
+Information whose unauthorized disclosure could cause significant
+harm to North Assembly, its members, users, or projects.
+
+[MANDATORY]
+Restricted and confidential information may only be shared with
+authorized recipients.
+
+[MANDATORY]
+Access to internal information does not automatically grant
+permission to publish or redistribute it.
+
+============================================================
+11. PERSONNEL AND COLLABORATORS
+============================================================
+
+[MANDATORY]
+Anyone given access to internal resources must have an identified
+function, responsibility, or justified operational need.
+
+[MANDATORY]
+Responsibilities must be communicated clearly.
+
+[RECOMMENDED]
+New members should be introduced to the tools, responsibilities,
+communication channels, and rules relevant to their work.
+
+[MANDATORY]
+When a person leaves North Assembly or no longer needs access, the
+relevant permissions must be revoked.
+
+[RECOMMENDED]
+Where practical, important knowledge should be transferred before a
+person leaves.
+
+============================================================
+12. PRODUCTS
+============================================================
+
+Current identified projects:
+
+* Monix
+* Datalog
+* CryptCast
+* DraftPad
+* Telenet
+
+[MANDATORY]
+Every active product must have a responsible person or team.
+
+[MANDATORY]
+Product development must follow applicable development, testing,
+security, and release requirements.
+
+[MANDATORY]
+Development builds and public stable releases must be clearly
+distinguishable.
+
+[MANDATORY]
+Important product changes must remain identifiable through version
+control or release history.
+
+============================================================
+13. PRODUCT LIFECYCLE
+============================================================
+
+CONCEPT -> DEVELOPMENT -> TESTING -> RELEASE -> MAINTENANCE -> RETIREMENT
+
+[MANDATORY]
+A product must not knowingly be presented as stable while it is
+internally identified as experimental unless that status is clearly
+communicated.
+
+[MANDATORY]
+Critical changes should have a recovery or rollback mechanism when
+technically practical.
+
+[RECOMMENDED]
+Major products should maintain basic lifecycle documentation.
+
+============================================================
+14. SOFTWARE DEVELOPMENT
+============================================================
+
+14.1 SOURCE CODE
+
+[MANDATORY]
+Source code must be stored in authorized repositories or systems.
+
+[MANDATORY]
+Passwords, private keys, API keys, tokens, and other secrets must
+not intentionally be committed to public repositories.
+
+[MANDATORY]
+Important modifications must remain traceable through version
+control.
+
+14.2 CODE REVIEW
+
+[RECOMMENDED]
+Important changes should be reviewed by another qualified person
+when team size permits.
+
+[MANDATORY]
+Security-critical modifications must receive appropriate review
+before release whenever the available team structure allows it.
+
+14.3 DEPENDENCIES
+
+[MANDATORY]
+Important external dependencies must be known to the responsible
+development team.
+
+[MANDATORY]
+Third-party software must be used according to its applicable
+license.
+
+[MANDATORY]
+Software with an identified security or licensing risk that is
+incompatible with the product must not knowingly be introduced.
+
+[RECOMMENDED]
+Complex products should maintain a dependency inventory.
+
+============================================================
+15. QUALITY ASSURANCE AND TESTING
+============================================================
+
+[MANDATORY]
+Stable releases must receive reasonable testing appropriate to
+their functionality and risk.
+
+[MANDATORY]
+Known critical defects affecting essential operation, security, or
+data integrity must be evaluated before a stable release.
+
+[MANDATORY]
+Important bugs must contain enough information to understand their
+impact and, when possible, reproduce the issue.
+
+[RECOMMENDED]
+Major changes should receive regression testing.
+
+[RECOMMENDED]
+Important fixes should retain evidence showing that the fix was
+tested.
+
+============================================================
+16. RELEASE MANAGEMENT
+============================================================
+
+[MANDATORY]
+Every public release must have an identifiable version.
+
+[MANDATORY]
+Published versions must remain distinguishable from development
+versions.
+
+[MANDATORY]
+A release must not intentionally hide material differences from the
+version it claims to be.
+
+[RECOMMENDED]
+Significant releases should include release notes.
+
+[MANDATORY]
+Automatic updates must use reasonable mechanisms to protect the
+integrity and authenticity of distributed update packages.
+
+[RECOMMENDED]
+Artifact signing and integrity verification should be used for
+important products where technically possible.
+
+============================================================
+17. SECURITY
+============================================================
+
+Security is a shared responsibility across North Assembly.
+
+[MANDATORY]
+Known significant vulnerabilities must be assessed and, where
+appropriate, corrected.
+
+[MANDATORY]
+Credentials suspected of compromise must be revoked, rotated, or
+otherwise secured as soon as reasonably possible.
+
+[MANDATORY]
+Security incidents must be reported to the appropriate responsible
+person.
+
+[MANDATORY]
+Security controls must not intentionally be disabled without
+authorization.
+
+[RECOMMENDED]
+Critical systems should use multi-factor authentication, logging,
+access review, and backup controls where available.
+
+============================================================
+18. SECURITY INCIDENTS
+============================================================
+
+Security incidents may affect confidentiality, integrity,
+availability, authenticity, user security, or North Assembly systems.
+
+[MANDATORY]
+Incidents must be reported as soon as reasonably possible.
+
+General response order:
+1. Contain
+2. Protect
+3. Recover
+4. Investigate
+5. Correct
+6. Prevent recurrence
+
+[RECOMMENDED]
+Significant incidents should receive a post-incident review.
+
+============================================================
+19. INFRASTRUCTURE
+============================================================
+
+Infrastructure may include repositories, domains, DNS, email,
+communication services, build systems, cloud services, storage,
+servers, and development systems.
+
+Known organizational services include:
+
+* Gmail
+* Discord
+* GitHub
+
+[MANDATORY]
+Critical infrastructure must use appropriate access controls.
+
+[MANDATORY]
+Infrastructure credentials must be protected.
+
+[PENDING]
+Detailed server architecture.
+[PENDING]
+Hosting providers.
+[PENDING]
+Infrastructure locations.
+[PENDING]
+Production environment definition.
+
+============================================================
+20. BACKUPS
+============================================================
+
+[MANDATORY]
+Information whose loss could cause significant operational impact
+must have a reasonable recovery mechanism where technically
+possible.
+
+[RECOMMENDED]
+Important backups should be separated from the primary system.
+
+[RECOMMENDED]
+Recovery procedures should be tested periodically.
+
+[PENDING]
+Backup frequency.
+[PENDING]
+Backup retention.
+[PENDING]
+Backup locations.
+[PENDING]
+Encryption requirements.
+[PENDING]
+Recovery Point Objective (RPO).
+[PENDING]
+Recovery Time Objective (RTO).
+
+============================================================
+21. PRIVACY
+============================================================
+
+[MANDATORY]
+Personal data must be processed according to applicable law.
+
+[MANDATORY]
+Only data reasonably necessary for defined purposes should be
+collected.
+
+[MANDATORY]
+Personal data must be protected using appropriate security
+measures.
+
+[MANDATORY]
+Personal data must not knowingly be used for incompatible purposes
+without an appropriate legal basis.
+
+Detailed public-facing requirements are defined in the Privacy
+Policy.
+
+============================================================
+22. COOKIES AND TRACKING
+============================================================
+
+[MANDATORY]
+Cookies and similar technologies must be handled according to
+applicable legal requirements.
+
+[MANDATORY]
+Where consent is legally required, an appropriate consent mechanism
+must be used.
+
+[MANDATORY]
+Users must be able to manage or withdraw consent where legally
+required.
+
+Detailed implementation requirements are defined in the Cookie
+Policy.
+
+============================================================
+23. INTELLECTUAL PROPERTY
+============================================================
+
+[MANDATORY]
+North Assembly must protect intellectual property that it owns or is
+legally entitled to use.
+
+[MANDATORY]
+Third-party material must not be incorporated without sufficient
+rights or authorization.
+
+[MANDATORY]
+Third-party software licenses must be respected.
+
+[MANDATORY]
+North Assembly branding must not be used in a way that falsely implies
+endorsement, authorization, partnership, or official representation.
+
+Detailed licensing requirements are defined in the Intellectual
+Property Policy.
+
+============================================================
+24. CUSTOM APPLICATIONS
+============================================================
+
+North Assembly may accept requests to create custom applications,
+software, or digital projects.
+
+[MANDATORY]
+A request does not automatically create an obligation to develop the
+application.
+
+[MANDATORY]
+Every request may be evaluated before acceptance.
+
+[MANDATORY]
+A request may be rejected because of legal, security, technical,
+resource, requirements, project, policy, or other legitimate
+operational concerns.
+
+[MANDATORY]
+An accepted project must have a defined purpose, scope, responsible
+person, and general delivery method.
+
+[PENDING]
+Detailed intellectual property terms for custom applications.
+[PENDING]
+Detailed commercial terms for custom applications.
+
+============================================================
+25. COMMUNICATIONS
+============================================================
+
+Authorized channels may include official email, Discord, authorized
+development systems, and other explicitly approved services.
+
+[MANDATORY]
+Sensitive internal matters must use appropriate authorized
+channels.
+
+[MANDATORY]
+Confidential internal information must not be posted publicly.
+
+[MANDATORY]
+Only authorized persons may issue communications that reasonably
+appear to represent the official position of North Assembly.
+
+============================================================
+26. PUBLIC COMMUNICATION
+============================================================
+
+Public communication is separate from internal corporate
+documentation.
+
+[MANDATORY]
+Public announcements must not disclose reserved information.
+
+[MANDATORY]
+Public statements must not knowingly contain materially false
+claims about North Assembly, its products, services, or capabilities.
+
+[MANDATORY]
+Internal policies must not be presented as user-facing legal terms
+unless formally prepared for that purpose.
+
+[RECOMMENDED]
+Public announcements should focus on information relevant to users
+and the community rather than internal administrative details.
+
+============================================================
+27. SUPPORT
+============================================================
+
+[MANDATORY]
+North Assembly must clearly identify the support channels it actually
+provides.
+
+[MANDATORY]
+North Assembly must not promise service levels, response times,
+availability, or continuous support that have not been formally
+adopted.
+
+[RECOMMENDED]
+Support requests should be classified by impact and urgency.
+
+============================================================
+28. CONFLICT RESOLUTION
+============================================================
+
+Internal responsibility conflicts should normally follow:
+
+Responsible Person -> Manager -> Director -> CEO
+
+[MANDATORY]
+A higher authority may resolve an internal conflict when the parties
+cannot reach a compatible resolution.
+
+[MANDATORY]
+A lower-level decision must not knowingly override a valid decision
+from a higher authority without authorization.
+
+============================================================
+29. EXCEPTIONS
+============================================================
+
+[MANDATORY]
+An exception to a mandatory internal rule must be authorized by a
+person with sufficient authority.
+
+[MANDATORY]
+A temporary exception does not, by itself, change the permanent rule.
+
+[RECOMMENDED]
+Significant exceptions should be recorded.
+
+============================================================
+30. POLICY HIERARCHY
+============================================================
+
+1. Applicable Law
+2. Binding Legal or Contractual Obligations
+3. Approved Corporate Rules
+4. Specific Internal Policies
+5. Procedures and Standards
+6. Recommendations
+
+[MANDATORY]
+A lower-level internal document must not intentionally contradict a
+higher-level requirement.
+
+[MANDATORY]
+If an internal rule conflicts with applicable law, the law takes
+precedence and the conflicting rule must be reviewed.
+
+============================================================
+31. DOCUMENT CONTROL
+============================================================
+
+[MANDATORY]
+The current version of this Manual must be identifiable.
+
+[MANDATORY]
+Material changes must be recorded through versioning.
+
+[MANDATORY]
+Superseded versions must not be presented as current.
+
+[RECOMMENDED]
+Previous versions should be retained for historical reference where
+practical.
+
+============================================================
+32. REVIEW OF THE MANUAL
+============================================================
+
+[MANDATORY]
+This Manual must be reviewed when a significant change affects:
+
+* Organizational structure
+* Products
+* Infrastructure
+* Security requirements
+* Internal policies
+* Operational model
+* Applicable legal requirements
+
+[RECOMMENDED]
+A general periodic review should also be performed.
+
+============================================================
+33. DERIVED POLICIES
+============================================================
+
+The following may be maintained as separate policies derived from
+this Manual:
+
+1. Terms and Conditions
+2. Privacy Policy
+3. Cookie Policy
+4. Acceptable Use Policy
+5. Security Policy
+6. Intellectual Property Policy
+7. Custom Applications Policy
+8. Support Policy
+9. Commercial Terms, where applicable
+
+[MANDATORY]
+Derived policies must remain consistent with this Manual unless an
+approved amendment changes the applicable corporate rule.
+
+============================================================
+34. CURRENT RESERVED ITEMS
+============================================================
+
+The following remain restricted or undefined in this document:
+
+* Legal entity information
+* Registered address
+* Tax information
+* Registration information
+* Legal representative information
+* Detailed server architecture
+* Hosting providers
+* Infrastructure locations
+* Detailed data processing inventory
+* Detailed cookie inventory
+* Commercial terms
+* Custom application intellectual property terms
+
+============================================================
+35. FINAL PROVISION
+============================================================
+
+This Manual is the general internal corporate framework of Weird
+Stuff and enters into force on September 7, 2026.
+
+Mandatory provisions must be followed internally from the effective
+date.
+
+Recommended provisions describe preferred practices and do not
+become mandatory solely because they appear here.
+
+Pending provisions must not be treated as established facts or
+adopted policies until formally defined.
+
+Reserved information must remain protected from unauthorized
+disclosure.
+
+============================================================
+36. APPROVAL
+============================================================
+
+Organization:
+NORTH ASSEMBLY
+
+Document:
+MANUAL CORPORATIVO

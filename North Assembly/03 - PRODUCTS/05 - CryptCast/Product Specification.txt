@@ -1,11 +1,16 @@
 NORTH ASSEMBLY
 CRYPTCAST — PRODUCT SPECIFICATION
 
+DOCUMENT ID: NA-PRD-CRY-002
 Version: 1.1
-Status: PENDING PRODUCT DEFINITION
+Status: DRAFT
 Classification: INTERNAL
-Last Updated: September 12, 2026
+Completeness: PENDING ITEMS (9)
+Legal Review: NOT REQUIRED
 Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
 
 PURPOSE
 

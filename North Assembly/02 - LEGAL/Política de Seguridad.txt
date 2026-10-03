@@ -1,19 +1,24 @@
 NORTH ASSEMBLY
 SECURITY POLICY
 
+DOCUMENT ID: NA-LGL-005
 Version: 1.1
-Status: DRAFT FOR INTERNAL APPROVAL
-Publication Status: INTERNAL
-Effective Date: PENDING
-Last Updated: September 12, 2026
+Status: DRAFT
+Classification: PUBLIC
+Completeness: PENDING ITEMS (1)
+Legal Review: REQUIRED
 Owner: North Assembly
+Publication Status: PENDING
+Effective Date: PENDING
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: March 1, 2027
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-This Policy defines the general security requirements for Weird
-Stuff systems, products, infrastructure, accounts, repositories,
+This Policy defines the general security requirements for North Assembly systems, products, infrastructure, accounts, repositories,
 information, and internal operations.
 
 Its purpose is to protect:
@@ -638,18 +643,15 @@ NORTH ASSEMBLY — SECURITY POLICY
 Version:
 1.1
 
-Status:
-DRAFT FOR INTERNAL APPROVAL
+Status: DRAFT
 
 Publication:
-INTERNAL
+PENDING
 
 Effective Date:
 PENDING
 
-Last Updated:
-September 12, 2026
-
+Last Updated: October 1, 2026
 Owner:
 North Assembly
 

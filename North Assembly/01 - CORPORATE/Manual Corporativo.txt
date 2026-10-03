@@ -1,12 +1,21 @@
 NORTH ASSEMBLY
 MANUAL CORPORATIVO
 
-Version: 1.1
-Status: IN FORCE
-Effective Date: September 7, 2026
-Owner: North Assembly
+DOCUMENT ID: NA-COR-003
+Version: 2.0
+Status: ACTIVE
 Classification: INTERNAL
+Completeness: PENDING ITEMS (14)
+Legal Review: NOT REQUIRED
+Owner: North Assembly
 Approval Status: APPROVED
+Effective Date: September 7, 2026
+Created: September 7, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: Manual Corporativo v1.1 (September 12, 2026)
+Superseded By: —
+Related: NA-COR-001, NA-COR-002, NA-COR-004, 03 - PRODUCTS registry
 
 ============================================================
 1. PURPOSE
@@ -155,30 +164,19 @@ North Assembly may organize work into functions such as:
 * Infrastructure
 * Security
 
-The composition of these teams may change as the needs of Weird
-Stuff change.
+The composition of these teams may change as the needs of North
+Assembly change.
 
 ============================================================
 6. CURRENT ORGANIZATION
 ============================================================
 
-belfegor442
-Role: CEO
+The current roles, their holders, and any vacant positions are
+recorded exclusively in the Organization document (NA-COR-002).
 
-Anti
-Role: Director
-
-Acrid
-Role: Manager
-
-Xtccy
-Role: Graphic Designer
-
-Terrorendi
-Role: Graphic Designer
-
-Aneley_567
-Role: Tester
+[MANDATORY]
+This Manual must not restate the roster. Where a name or vacancy
+is needed, NA-COR-002 is the source.
 
 [MANDATORY]
 A person may exercise authority associated with a role only when
@@ -187,6 +185,10 @@ that role has actually been assigned to them.
 [MANDATORY]
 No one may knowingly present themselves as having authority above
 the authority actually granted to them.
+
+[MANDATORY]
+An internal role title is an operational label. It does not imply
+a registered corporate office or a legal representative status.
 
 ============================================================
 7. INTERNAL CONDUCT
@@ -287,6 +289,10 @@ permission to publish or redistribute it.
 11. PERSONNEL AND COLLABORATORS
 ============================================================
 
+Role creation, recruitment, vacancies and the terminology used
+for different working relationships are governed by the
+Recruitment and Roles document (NA-COR-004).
+
 [MANDATORY]
 Anyone given access to internal resources must have an identified
 function, responsibility, or justified operational need.
@@ -310,13 +316,32 @@ person leaves.
 12. PRODUCTS
 ============================================================
 
+The current project list, each project's classification, owner,
+lifecycle status and delegation level are recorded in the project
+registry at 03 - PRODUCTS/README.txt.
+
 Current identified projects:
 
-* Monix
-* Datalog
-* CryptCast
-* DraftPad
-* Telenet
+* Monix              — ACTIVE DEVELOPMENT
+* Telenet            — PENDING PRODUCT DEFINITION
+* Datalog            — PENDING PRODUCT DEFINITION
+* CryptCast          — PENDING PRODUCT DEFINITION
+* DraftPad           — RETIRED (historical record only)
+
+Internal and tooling projects (NA Command, msg.term, Meat) are
+recorded in the registry with placeholder records; their
+documentation has not been written yet.
+
+[REQUIRES CONFIRMATION]
+A project named "Vault" appears on the public website but has no
+owner, classification or documentation in this repository. Until
+its ownership is confirmed, it must not be presented as a North
+Assembly project. Tracked as C-008 in the Consistency Log.
+
+[MANDATORY]
+The project registry is the source of truth for the project list.
+This Manual must not present a project as current without its
+registry status.
 
 [MANDATORY]
 Every active product must have a responsible person or team.
@@ -499,11 +524,15 @@ Infrastructure may include repositories, domains, DNS, email,
 communication services, build systems, cloud services, storage,
 servers, and development systems.
 
-Known organizational services include:
+Known service categories include:
 
-* Gmail
-* Discord
-* GitHub
+* E-mail
+* Chat and voice communication
+* Code hosting and build services
+
+[MANDATORY]
+Specific providers, account identifiers and infrastructure
+details must not be published in this repository.
 
 [MANDATORY]
 Critical infrastructure must use appropriate access controls.
@@ -748,6 +777,22 @@ precedence and the conflicting rule must be reviewed.
 31. DOCUMENT CONTROL
 ============================================================
 
+Document identification, status vocabulary, classification,
+versioning and supersession are governed by the Document Control
+document (NA-COR-001).
+
+Structural, organizational and product decisions are recorded as
+decision records in 01 - CORPORATE/Decisions/ (ADR-0001 through
+ADR-0006). Contradictions found between documents are recorded
+and tracked in the Consistency Log in the same directory.
+
+The complete controlled-document list, with each document's ID and
+status, is DOCUMENT INVENTORY.txt at the repository root.
+
+[MANDATORY]
+A structural change to the repository requires a decision record
+(ADR-0004).
+
 [MANDATORY]
 The current version of this Manual must be identifiable.
 
@@ -783,18 +828,22 @@ A general periodic review should also be performed.
 33. DERIVED POLICIES
 ============================================================
 
-The following may be maintained as separate policies derived from
+The following are maintained as separate policies derived from
 this Manual:
 
-1. Terms and Conditions
-2. Privacy Policy
-3. Cookie Policy
-4. Acceptable Use Policy
-5. Security Policy
-6. Intellectual Property Policy
-7. Custom Applications Policy
-8. Support Policy
-9. Commercial Terms, where applicable
+1. Terms and Conditions              — DRAFT (02 - LEGAL)
+2. Privacy Policy                     — DRAFT (02 - LEGAL)
+3. Cookie Policy                      — DRAFT (02 - LEGAL)
+4. Acceptable Use Policy              — DRAFT (02 - LEGAL)
+5. Security Policy                    — DRAFT (02 - LEGAL)
+6. Intellectual Property Policy       — DRAFT (02 - LEGAL)
+7. Custom Applications Policy         — DRAFT (02 - LEGAL)
+8. Support Policy                     — DRAFT, not yet established
+9. Commercial Terms, where applicable — DRAFT, not yet established
+
+[MANDATORY]
+Items 8 and 9 are placeholders. They must not be presented as
+adopted policies until they are actually defined and approved.
 
 [MANDATORY]
 Derived policies must remain consistent with this Manual unless an
@@ -823,8 +872,8 @@ The following remain restricted or undefined in this document:
 35. FINAL PROVISION
 ============================================================
 
-This Manual is the general internal corporate framework of Weird
-Stuff and enters into force on September 7, 2026.
+This Manual is the general internal corporate framework of North
+Assembly and enters into force on September 7, 2026.
 
 Mandatory provisions must be followed internally from the effective
 date.
@@ -847,3 +896,41 @@ NORTH ASSEMBLY
 
 Document:
 MANUAL CORPORATIVO
+
+ID:
+NA-COR-003
+
+Version:
+2.0
+
+Status: ACTIVE
+
+Approved:
+Internal approval carried over from v1.1; the October 2026
+amendments are editorial and organizational updates recorded in
+ADR-0002.
+
+============================================================
+37. CHANGE HISTORY
+============================================================
+
+2.0  October 1, 2026
+     Section 6 no longer restates the roster; it references
+     NA-COR-002 (fixes C-001). Section 12 reflects the project
+     registry and DraftPad's retired status (fixes C-003).
+     Section 33 records the actual state of all nine derived
+     policies (fixes C-004). Sections 5.4 and 35 corrected from
+     the previous organizational identity (fixes C-002).
+     Sections 11 and 31 reference NA-COR-004 and NA-COR-001.
+     Header migrated to the NA-COR-001 v2.0 format.
+
+1.1  September 12, 2026
+     Previous version. Preserved in
+     08 - ARCHIVE/Superseded/Corporate v1.1/.
+
+1.0  September 7, 2026
+     Initial manual, issued under the previous organizational
+     identity. Preserved in
+     08 - ARCHIVE/Superseded/Weird Stuff era/.
+
+END OF DOCUMENT

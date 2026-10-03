@@ -1,11 +1,17 @@
 NORTH ASSEMBLY
 MONIX — LOGGING DOCUMENTATION
 
+DOCUMENT ID: NA-PRD-MON-015
 Version: 1.1
-Status: INTERNAL / DEVELOPMENT
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS (12)
+Legal Review: NOT REQUIRED
 Owner: North Assembly
 Product: Monix
-Last Updated: September 12, 2026
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
 
 PURPOSE
 
@@ -30,6 +36,39 @@ Logging must not create uncontrolled resource consumption.
 
 [RECOMMENDED]
 Events should use a consistent structure across Monix subsystems.
+
+UNIVERSAL LOG PROCESSING (DESIGN REFERENCE)
+
+One architectural idea for Monix is a single processing stage that
+all events pass through before reaching the final presentation —
+conceptually a barrier or checkpoint between event sources and the
+interface.
+
+Its purpose is to prevent the interface from being flooded with
+repetitive or low-value information. A burst of repeated events
+may be:
+
+* discarded.
+* grouped.
+* summarized.
+* correlated.
+* transformed into something more useful.
+
+The intent is to accept a very large number of raw events and
+reduce them to a manageable amount of useful information.
+
+Reference figure used during design:
+
+  ~100,000 input logs/second  ->  ~20,000 useful events
+
+[MANDATORY]
+That figure is a design target and reference point. It is not a
+measured result, a benchmark, or a performance guarantee, and it
+must not be quoted as one.
+
+[PENDING]
+Final pipeline design, stage responsibilities, and measured
+throughput.
 
 SEVERITY
 
@@ -328,8 +367,7 @@ MONIX — LOGGING DOCUMENTATION
 Version:
 1.1
 
-Status:
-INTERNAL / DEVELOPMENT
+Status: ACTIVE
 
 Owner:
 North Assembly

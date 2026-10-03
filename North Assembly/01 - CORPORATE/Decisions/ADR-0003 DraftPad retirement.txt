@@ -1,0 +1,54 @@
+ADR-0003
+DRAFTPAD RETIREMENT
+
+Date: September 12, 2026
+Status: ACCEPTED
+Classification: INTERNAL
+Owner: North Assembly
+Related: NA-PRD-DRA-001, NA-PRD-DRA-002, 08 - ARCHIVE
+
+CONTEXT
+
+DraftPad was part of the North Assembly product set alongside
+Monix, Datalog, CryptCast and Telenet.
+
+PROBLEM
+
+The project is no longer part of active development, but its
+existence and history remain relevant.
+
+DECISION
+
+DraftPad is RETIRED. Its documentation is retained as a
+historical record, marked STATUS: ARCHIVED, and it must not be
+described as active or supported.
+
+CONSEQUENCES
+
+* The product registry records DraftPad as ARCHIVED.
+* The Manual Corporativo must not list DraftPad among current
+  identified projects without its retired status.
+* Public mentions must make availability and support status
+  clear.
+* If the lifecycle status ever changes, the product documents and
+  this record must both be updated.
+
+PENDING
+
+[PENDING]
+Final retirement date.
+[PENDING]
+Archived release identifier.
+[PENDING]
+Final public retirement notice.
+
+ALTERNATIVES CONSIDERED
+
+* Delete the documentation — rejected: history is part of the
+  documentation system.
+* Leave the status implicit — rejected: an unstated retirement
+  reads as an active product.
+
+RELATED DOCUMENTS
+
+03 - PRODUCTS/04 - DraftPad/

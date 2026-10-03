@@ -1,12 +1,18 @@
 NORTH ASSEMBLY
 CUSTOM APPLICATIONS POLICY
 
-Version: 1.1
-Status: DRAFT FOR LEGAL REVIEW
+DOCUMENT ID: NA-LGL-007
+Version: 1.2
+Status: DRAFT
+Classification: PUBLIC
+Completeness: PENDING ITEMS (4)
+Legal Review: REQUIRED
+Owner: North Assembly
 Publication Status: PENDING
 Effective Date: PENDING
-Last Updated: September 12, 2026
-Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: March 1, 2027
 
 ============================================================
 1. PURPOSE
@@ -174,8 +180,7 @@ begins.
 Requirements must be clear enough for the development team to
 implement and test the project.
 
-If a requirement is unclear, incomplete, or contradictory, Weird
-Stuff may request clarification before implementation.
+If a requirement is unclear, incomplete, or contradictory, North Assembly may request clarification before implementation.
 
 [MANDATORY]
 North Assembly may change the technical implementation when necessary
@@ -483,7 +488,32 @@ No provision may remove a legal right that cannot lawfully be
 excluded.
 
 ============================================================
-27. CONFIDENTIALITY
+============================================================
+27. INDEMNITY
+============================================================
+
+[PENDING]
+The indemnity terms for custom projects must be defined in the
+project agreement. The framework below is a starting point for
+legal review and is not agreed wording:
+
+* Each party indemnifies the other for third-party claims caused
+  by its own infringement, negligence, or breach.
+* The requester indemnifies North Assembly for claims arising from
+  material the requester supplies (content, instructions, data)
+  and from unlawful use of the delivered work.
+* Any indemnity is subject to control-of-defence, notice, and
+  liability-cap terms set out in the project agreement.
+
+[MANDATORY]
+No indemnity may be presented to a requester until it has been
+reviewed for the applicable jurisdiction.
+
+[MANDATORY]
+An indemnity must not remove a right that applicable law does
+not allow to be excluded.
+
+28. CONFIDENTIALITY
 ============================================================
 
 When a requester provides confidential information:
@@ -497,7 +527,7 @@ Project information must not be publicly disclosed when a valid
 confidentiality obligation prohibits disclosure.
 
 ============================================================
-28. PROJECT COMMUNICATION
+29. PROJECT COMMUNICATION
 ============================================================
 
 [MANDATORY]
@@ -509,7 +539,7 @@ Important decisions should be documented so that the project history
 remains understandable.
 
 ============================================================
-29. DELIVERY OF CREDENTIALS
+30. DELIVERY OF CREDENTIALS
 ============================================================
 
 When a custom project requires credentials or access to be provided
@@ -525,7 +555,7 @@ North Assembly must not intentionally expose credentials publicly.
 Temporary credentials should be replaced or revoked when appropriate.
 
 ============================================================
-30. PROJECT RETIREMENT
+31. PROJECT RETIREMENT
 ============================================================
 
 A custom application may eventually become unsupported or retired.
@@ -538,7 +568,7 @@ Specific retirement and data-handling requirements should be defined
 according to the project.
 
 ============================================================
-31. DISPUTES AND ESCALATION
+32. DISPUTES AND ESCALATION
 ============================================================
 
 Questions or disputes should first be addressed through the
@@ -556,7 +586,7 @@ Director
 CEO
 
 ============================================================
-32. RELATIONSHIP WITH OTHER POLICIES
+33. RELATIONSHIP WITH OTHER POLICIES
 ============================================================
 
 This Policy complements:
@@ -575,7 +605,7 @@ agreement, that agreement controls the matters specifically covered
 by it.
 
 ============================================================
-33. POLICY UPDATES
+34. POLICY UPDATES
 ============================================================
 
 [MANDATORY]
@@ -590,7 +620,7 @@ This Policy must be reviewed when:
 The current version must always be identifiable.
 
 ============================================================
-34. CONTACT
+35. CONTACT
 ============================================================
 
 Custom application request channel:
@@ -608,17 +638,16 @@ These contact details remain pending until an official request
 channel is established.
 
 ============================================================
-35. DOCUMENT CONTROL
+36. DOCUMENT CONTROL
 ============================================================
 
 Document:
 NORTH ASSEMBLY — CUSTOM APPLICATIONS POLICY
 
 Version:
-1.1
+1.2
 
-Status:
-DRAFT FOR LEGAL REVIEW
+Status: DRAFT
 
 Publication:
 PENDING
@@ -626,8 +655,11 @@ PENDING
 Effective Date:
 PENDING
 
-Last Updated:
-September 12, 2026
+Last Updated: October 1, 2026
+Change History:
+1.2  October 1, 2026 - new section 27 (INDEMNITY);
+sections 27-35 renumbered to 28-36; document-control
+header and tail synchronised.
 
 Owner:
 North Assembly

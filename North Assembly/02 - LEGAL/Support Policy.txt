@@ -1,0 +1,127 @@
+NORTH ASSEMBLY
+SUPPORT POLICY
+
+DOCUMENT ID: NA-LGL-008
+Version: 1.0
+Status: DRAFT
+Classification: PUBLIC
+Completeness: PENDING ITEMS (9)
+Legal Review: REQUIRED
+Owner: North Assembly
+Publication Status: PENDING
+Effective Date: PENDING
+Created: October 1, 2026
+Last Modified: October 1, 2026
+Review Date: PENDING
+Supersedes: —
+Superseded By: —
+Related: NA-LGL-001, NA-LGL-009, 03 - PRODUCTS/README.txt
+
+============================================================
+1. PURPOSE
+============================================================
+
+This Policy is intended to define the support North Assembly
+provides for its products, once support commitments exist.
+
+[NOTE]
+This document is a placeholder. It exists so that the legal set
+is complete and so that the absence of a support policy is
+visible as a gap rather than as an oversight.
+
+[MANDATORY]
+No part of this document may be presented to any person as an
+actual support commitment.
+
+============================================================
+2. CURRENT STATE
+============================================================
+
+[MANDATORY]
+No support commitment is currently defined for any North
+Assembly product.
+
+The project registry (03 - PRODUCTS/README.txt) does not record
+a support channel, availability window, or response time for any
+product.
+
+[PENDING]
+Whether any product will carry a support commitment at all.
+
+============================================================
+3. TOPICS TO BE DEFINED
+============================================================
+
+The following must be decided before this Policy can leave
+placeholder state:
+
+[PENDING]
+Support channels (for example: issue tracker, e-mail, Discord).
+[PENDING]
+Availability window and time zone basis.
+[PENDING]
+Severity levels and their definitions.
+[PENDING]
+Response and resolution targets, or an explicit statement that
+no targets are offered.
+[PENDING]
+Which products and versions are covered.
+[PENDING]
+End-of-life and end-of-support rules.
+[PENDING]
+Support for unpaid, experimental, or archived products.
+[PENDING]
+Language in which support is provided.
+
+============================================================
+4. RELATIONSHIP WITH OTHER DOCUMENTS
+============================================================
+
+When defined, this Policy must remain consistent with:
+
+* NA-LGL-001 — Terms and Conditions.
+* NA-LGL-009 — Commercial Terms (support may depend on what was
+  purchased).
+* The project registry — product status must match any support
+  claim.
+
+[MANDATORY]
+A product must not be described as supported while it is
+recorded as experimental, archived, or unavailable.
+
+============================================================
+5. LEGAL REVIEW
+============================================================
+
+[MANDATORY]
+This document requires legal review before any publication or
+reliance.
+
+[MANDATORY]
+Effective Date remains PENDING until identity, jurisdiction,
+channels, and terms are completed.
+
+============================================================
+DOCUMENT CONTROL
+============================================================
+
+Document:
+NORTH ASSEMBLY — SUPPORT POLICY
+
+Version:
+1.0
+
+Status: DRAFT
+
+Publication:
+PENDING
+
+Last Updated:
+October 1, 2026
+
+Owner:
+North Assembly
+
+============================================================
+END OF DOCUMENT
+============================================================

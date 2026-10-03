@@ -1,10 +1,16 @@
 NORTH ASSEMBLY
 DRAFTPAD — PRODUCT OVERVIEW
 
+DOCUMENT ID: NA-PRD-DRA-001
 Version: 1.1
-Status: RETIRED / HISTORICAL RECORD
-Owner: North Assembly
+Status: ARCHIVED
 Classification: INTERNAL
+Completeness: PENDING ITEMS (3)
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
 
 STATUS
 

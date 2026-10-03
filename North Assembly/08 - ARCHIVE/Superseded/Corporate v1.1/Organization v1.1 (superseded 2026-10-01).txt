@@ -1,0 +1,109 @@
+NORTH ASSEMBLY
+ORGANIZATION
+
+Version: 1.1
+Status: IN FORCE
+Effective Date: September 12, 2026
+Owner: North Assembly
+Classification: INTERNAL
+
+============================================================
+1. PURPOSE
+============================================================
+
+This document records how North Assembly is currently organized, who holds each formal role, and how responsibilities change when the organization changes.
+
+It is intended to provide a clear operational reference. It does not contain private personnel information.
+
+============================================================
+2. AUTHORITY STRUCTURE
+============================================================
+
+CEO
+|
++-- Director
+|
++-- Manager
+|
++-- Specialized Teams
+
+The structure above describes the current chain of internal authority. Individual projects may use different working arrangements without changing the formal authority structure unless those changes are officially assigned.
+
+[MANDATORY]
+Authority exists only within the role formally assigned to a person.
+
+[MANDATORY]
+Delegating a task or responsibility does not automatically transfer the delegator's overall authority to the person receiving it.
+
+============================================================
+3. CURRENT ASSIGNMENTS
+============================================================
+
+belfegor442
+Role: CEO
+
+Anti
+Role: Director
+
+[REDACTED - former member, see ADR-0007]
+Role: Manager
+
+[REDACTED - former member, see ADR-0007]
+Role: Graphic Designer
+
+[REDACTED - former member, see ADR-0007]
+Role: Graphic Designer
+
+[REDACTED - former member, see ADR-0007]
+Role: Tester
+
+These assignments represent the current internal organization. If an assignment changes, this record should be updated so that the documentation does not describe an older organizational state.
+
+============================================================
+4. TEAMS
+============================================================
+
+North Assembly may organize work into specialized functions such as:
+
+* Development
+* Design
+* QA / Testing
+* Product
+* Infrastructure
+* Security
+
+The list is not intended to prevent the company from creating other functions when they become useful. Team composition may change as projects and responsibilities change.
+
+============================================================
+5. ROLE CHANGES
+============================================================
+
+Organizational changes should leave a clear record of who is responsible for what. This is particularly important when a role change also changes access to repositories, systems, projects, or internal information.
+
+[MANDATORY]
+Promotions, demotions, transfers, suspensions, and removals must be authorized by the appropriate authority.
+
+[MANDATORY]
+Access permissions must reflect the person's current role and actual operational need.
+
+[MANDATORY]
+When a role changes, obsolete permissions must be reviewed and removed.
+
+============================================================
+6. ORGANIZATIONAL RECORD
+============================================================
+
+This document records the organizational model rather than private personnel details. Private employment, contractor, contact, or other sensitive records should be maintained separately where required.
+
+[PENDING]
+Formal employment or contractor records.
+
+[PENDING]
+Formal succession procedures.
+
+[PENDING]
+Formal delegation register.
+
+============================================================
+END OF DOCUMENT
+============================================================

@@ -1,9 +1,15 @@
 NORTH ASSEMBLY
 WEBSITE CONTENT STANDARDS
 
-Version: 1.1
-Status: IN FORCE
+DOCUMENT ID: NA-PUB-002
+Version: 1.2
+Status: ACTIVE
 Classification: PUBLIC
+Completeness: PENDING ITEMS (2)
+Legal Review: REQUIRED
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
 
 PURPOSE
 
@@ -28,6 +34,12 @@ Product pages must distinguish active, development, beta, experimental, suspende
 
 [MANDATORY]
 Terms, privacy, cookie, acceptable-use, intellectual-property, security, and custom-application documents must remain consistent with their approved versions.
+
+[MANDATORY]
+Legal documents whose Publication Status is not CONFIRMED must not be presented on the website as effective or in force. Draft documents may only be published if they are clearly marked DRAFT and contain no unresolved placeholders that would mislead a User.
+
+[MANDATORY]
+This document requires legal review before its rules are relied on to publish legal content (Legal Review: REQUIRED, 2026-10-01, see Consistency Log C-019).
 
 4. ACCESSIBILITY AND QUALITY
 

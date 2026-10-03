@@ -1,6 +1,13 @@
 MONIX
 TECHNICAL DOCUMENTATION INDEX
 
+DOCUMENT ID: NA-PRD-MON-INDEX-TECH
+Type: INDEX (unversioned)
+Status: ACTIVE
+Classification: INTERNAL
+Last Modified: October 1, 2026
+Related: NA-PRD-MON-INDEX
+
 PURPOSE
 
 This directory contains technical documentation for Monix. It is separate from the product overview, product specification, development status, and release history so that technical material can evolve without mixing product definition with implementation notes.

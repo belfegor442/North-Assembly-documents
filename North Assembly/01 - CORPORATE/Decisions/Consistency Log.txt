@@ -1,0 +1,170 @@
+NORTH ASSEMBLY
+CONSISTENCY LOG
+
+DOCUMENT ID: NA-COR-CONSISTENCY
+Type: LOG (unversioned)
+Status: ACTIVE
+Classification: INTERNAL
+Created: October 1, 2026
+Last Modified: October 1, 2026
+
+PURPOSE
+
+This log records contradictions found between documents. A
+contradiction is resolved explicitly, never by silently picking a
+value.
+
+[MANDATORY]
+Every contradiction found during an audit is recorded here with
+its resolution.
+
+[MANDATORY]
+An unresolved contradiction stays in this log until the evidence
+settles it. Unresolved items are marked CONFIRMATION REQUIRED.
+
+FORMAT
+
+  ID | Date | Documents | Description | Status | Resolution
+
+Entries
+------
+
+C-001 | 2026-10-01 | NA-COR-002, NA-COR-003, website |
+Three-way conflict between the repository roster (former Manager,
+two former Designers, one former Tester - identifiers removed
+under ADR-0007), the public website People block (belfegor442 as
+"CEO / Director", former Manager), and the actual October 2026
+structure. | RESOLVED | NA-COR-002 v2.0 is authoritative; Manual
+references it; website correction is an external follow-up
+(ADR-0002).
+
+C-002 | 2026-10-01 | root README, Manual, 4 legal policies |
+Root README claimed all Weird Stuff references were removed while
+six active documents still contained them. | RESOLVED |
+References corrected in the October 2026 reform; root README
+wording now describes the rule rather than a false status.
+
+C-003 | 2026-10-01 | NA-COR-003, 03 - PRODUCTS/04 - DraftPad |
+Manual listed DraftPad among current identified projects while
+the product documents mark it retired. | RESOLVED | Manual now
+lists the registry as the source and states DraftPad's status
+(ADR-0003).
+
+C-004 | 2026-10-01 | NA-COR-003 | Manual promised nine derived
+policies; seven existed. | RESOLVED | Support Policy and
+Commercial Terms created as DRAFT placeholders in 02 - LEGAL.
+
+C-005 | 2026-10-01 | 02 - LEGAL, public website |
+Website publishes Weird Stuff v1.0 legal text while the repository
+holds North Assembly v1.2 drafts. | CONFIRMATION REQUIRED |
+External: website must be updated or its pages marked superseded
+after legal review. Archived copies are in
+08 - ARCHIVE/Superseded/Legal v1.0 published on website/.
+
+C-006 | 2026-10-01 | 04 - OPERATIONS/Security, 07 - INTERNAL |
+Documents labelled RESTRICTED/CONFIDENTIAL were stored in a public
+repository. | RESOLVED | Reclassified INTERNAL per ADR-0006; the
+repository holds no restricted material.
+
+C-007 | 2026-10-01 | status tokens across the repository |
+At least nine status strings were in use against a five-status
+vocabulary. | RESOLVED | NA-COR-001 v2.0 defines one vocabulary;
+all documents migrated.
+
+C-008 | 2026-10-01 | 03 - PRODUCTS registry, public website |
+Website documents Vault and Meat; the repository documented
+neither. | PARTIALLY RESOLVED | Meat, NA Command and msg.term
+given registry entries and placeholder records; Vault
+CONFIRMATION REQUIRED (ownership unknown).
+
+C-009 | 2026-10-01 | 02 - LEGAL IP Policy, master context rules |
+The Intellectual Property Policy did not distinguish
+AI-generated content from human-authored or third-party material.
+| RESOLVED | Section added in v1.2.
+
+C-010 | 2026-10-01 | repository, public website |
+Public website still carries Weird Stuff branding across most
+pages and an outdated People block. | CONFIRMATION REQUIRED |
+External track, not this repository.
+
+C-011 | 2026-10-01 | 03 - PRODUCTS/01 - Monix, 02 - LEGAL |
+Trailing DOCUMENT CONTROL blocks (18 Monix documents, 9 legal
+documents) still carried old status values - INTERNAL,
+INTERNAL / DEVELOPMENT, DRAFT FOR LEGAL REVIEW - that
+contradicted the authoritative header of the same file
+(ACTIVE / DRAFT). | RESOLVED | Tail blocks synchronised to the
+header value; a repeat check reports zero mismatches.
+
+C-012 | 2026-10-01 | 02 - LEGAL/Política de Seguridad |
+Publication Status read INTERNAL while every other legal
+document read PENDING, and INTERNAL is a classification, not a
+publication state. | RESOLVED | Set to PENDING.
+
+C-013 | 2026-10-01 | 03 - PRODUCTS/01 - Monix Logging |
+The logging document referenced ~100,000 input logs/second to
+~20,000 useful events with no source, presented as fact. | RESOLVED |
+Retained as an explicitly labelled design target with a
+prohibition on quoting it as a measured or guaranteed figure;
+final pipeline design remains [PENDING].
+
+C-014 | 2026-10-01 | ADR-0002, Consistency Log, 08 - ARCHIVE |
+The repository (public) recorded identifiers of five former
+members together with statements about their work, contradicting
+NA-COR-001 and ADR-0006, and Organization.txt's claim that the
+repository contains no private personnel data. | RESOLVED |
+ADR-0007 adopted; ADR-0002 and this entry rewritten to role-only
+references; archived rosters redacted with a visible marker.
+Owner decision 2026-10-03: git history is left as committed; the
+identifiers remain readable in history (commits before
+2026-10-01) and that exposure is accepted. Removal would require
+a destructive history rewrite and is reopened only by a new
+explicit owner instruction (ADR-0007).
+
+C-015 | 2026-10-01 | 08 - ARCHIVE/Superseded/Weird Stuff era |
+Twelve archived files recovered from repository history had lost
+all line breaks during recovery (105 to 846 bytes of newlines
+missing per file), so the archive was not byte-preserved as
+Superseded/README.txt claimed. | RESOLVED | Files re-extracted
+from commit 54b26f2 through git archive and verified byte-size
+identical to the stored blobs; README.txt and the English legal
+set were already intact.
+
+C-016 | 2026-10-01 | 02 - LEGAL (7 documents) |
+Headers and trailing document-control blocks disagreed:
+Política de Seguridad read Classification PUBLIC while its tail
+read Publication INTERNAL, and four policies read
+Last Updated: September 12, 2026 after being modified on
+October 1, 2026. | RESOLVED | Tails and Last Updated values
+synchronised; Publication Status set to PENDING across the set.
+
+C-017 | 2026-10-01 | repository root, contributions |
+The repository is public and accepts collaboration, but carries
+no LICENSE, no contribution agreement and no IP-assignment
+instrument, while NA-LGL-006 asserts ownership of North Assembly
+material. | RESOLVED |
+Owner decision 2026-10-03: an all-rights-reserved notice was
+adopted as LICENSE at the repository root - no open-source
+licence, no permission granted beyond viewing and linking through
+the hosting service, and no contributions accepted, so no
+IP assignment arises from submissions. The legal identity of the
+rights holder inside the notice remains [REQUIRES CONFIRMATION]
+with the other legal-identity placeholders.
+
+C-018 | 2026-10-01 | 02 - LEGAL set |
+The legal set had no liability framework, no indemnity, no
+governing-law or forum clause, no acceptance mechanism, no
+governing-language clause, no IP notice-and-takedown procedure
+and no appeal procedure for sanctions. | PARTIALLY RESOLVED |
+Structures added as drafts with [PENDING] / [REQUIRES
+CONFIRMATION] values where facts are required (legal identity and
+the [PENDING] values remain open). Nothing may be published until
+they are completed and reviewed.
+
+C-019 | 2026-10-01 | NA-PUB-002, 02 - LEGAL |
+The website content standard was marked Legal Review: NOT
+REQUIRED while it governs publication of documents that are
+marked LEGAL REVIEW: REQUIRED, so nothing stopped a draft from
+reaching the website. | RESOLVED | NA-PUB-002 now requires legal
+review and blocks publication of DRAFT documents.
+
+END OF DOCUMENT

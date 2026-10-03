@@ -1,0 +1,69 @@
+NORTH ASSEMBLY
+NA COMMAND — PRODUCT OVERVIEW
+
+DOCUMENT ID: NA-PRD-CMD-001
+Version: 1.0
+Status: DRAFT
+Classification: INTERNAL
+Completeness: PENDING ITEMS (8)
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Created: October 1, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: —
+Superseded By: —
+Related: NA-PRD-INDEX (registry row NA-PRD-CMD)
+
+STATUS OF THIS DOCUMENT
+
+This is a placeholder record. North Assembly has an internal
+management/tooling project known as NA Command, but its current
+state, scope and ownership are not documented in this repository.
+
+This file exists so the project appears in the registry rather
+than being invisible. It deliberately records what is unknown.
+
+[MANDATORY]
+This document must not be used to describe NA Command's
+capabilities. No capability is documented here.
+
+KNOWN ONLY FROM THE ORGANIZATIONAL CONTEXT
+
+NA Command is understood to be an internal tool associated with
+organizational management: projects, members, work records,
+commit-like activity records, JSON editing, reporting and
+statistics.
+
+[REQUIRES CONFIRMATION]
+Every statement above is context, not verified documentation.
+Confirm against the actual project before repeating it.
+
+WHAT IS STILL UNKNOWN
+
+[PENDING]
+Current lifecycle state (active, paused, abandoned).
+[PENDING]
+Whether the project exists in a repository today.
+[PENDING]
+Architecture and technology stack.
+[PENDING]
+Owner and contributors.
+[PENDING]
+Current capabilities and limitations.
+[PENDING]
+Relationship to any previous internal tooling.
+[PENDING]
+Whether it is used by anyone at present.
+
+DOCUMENTATION RULES
+
+[MANDATORY]
+A decision or fact about NA Command must be recorded here once
+confirmed, not left in a chat or informal discussion.
+
+[MANDATORY]
+Planned functionality must never be presented as existing
+functionality.
+
+END OF DOCUMENT

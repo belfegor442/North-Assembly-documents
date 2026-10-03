@@ -1,11 +1,17 @@
 NORTH ASSEMBLY
 MONIX — ARCHITECTURE
 
+DOCUMENT ID: NA-PRD-MON-011
 Version: 1.1
-Status: INTERNAL / DEVELOPMENT
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS (1)
+Legal Review: NOT REQUIRED
 Owner: North Assembly
 Product: Monix
-Last Updated: September 12, 2026
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
 
 PURPOSE
 
@@ -349,8 +355,7 @@ MONIX — ARCHITECTURE
 Version:
 1.1
 
-Status:
-INTERNAL / DEVELOPMENT
+Status: ACTIVE
 
 Owner:
 North Assembly

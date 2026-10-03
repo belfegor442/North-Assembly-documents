@@ -1,11 +1,25 @@
 NORTH ASSEMBLY
 ACCESS CONTROL
 
+DOCUMENT ID: NA-OPS-007
 Version: 1.1
-Status: IN FORCE
-Effective Date: September 12, 2026
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: PENDING ITEMS (2)
+Legal Review: NOT REQUIRED
 Owner: North Assembly
-Classification: RESTRICTED
+Effective Date: September 12, 2026
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: — (classification changed from RESTRICTED, see ADR-0006)
+
+[NOTE]
+This document was previously classified RESTRICTED while stored in
+this public repository, which was a contradiction. It contains
+general access-control principles only: no credentials, no personal
+data, no non-public infrastructure detail. Restricted material must
+never be added to a document held here. See ADR-0006.
 
 PURPOSE
 

@@ -1,0 +1,200 @@
+NORTH ASSEMBLY
+RECRUITMENT AND ROLES
+
+DOCUMENT ID: NA-COR-004
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Completeness: COMPLETE
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Created: October 1, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: —
+Superseded By: —
+Related: NA-COR-002, NA-COR-003, 03 - PRODUCTS registry
+
+============================================================
+1. PURPOSE
+============================================================
+
+This document defines when North Assembly creates a role, when it
+fills one, and when it deliberately leaves one vacant.
+
+It exists because North Assembly previously experienced a mismatch
+between organizational positions and actual productive work: roles
+existed that were not backed by assigned, completed work.
+
+The rule below prevents that from recurring.
+
+============================================================
+2. THE RECRUITMENT PIPELINE
+============================================================
+
+A position is created and filled only in this order:
+
+  REAL NEED
+     ->
+  IDENTIFIED WORK
+     ->
+  PROJECT OR RESPONSIBILITY
+     ->
+  ROLE REQUIREMENT
+     ->
+  PERSON
+     ->
+  ASSIGNMENT
+     ->
+  DELIVERABLE
+
+[MANDATORY]
+A role may only be created when the preceding step is documented.
+
+[MANDATORY]
+The work backing a role must be identifiable in the project
+registry (03 - PRODUCTS/README.txt) or in a corporate document
+before the role is filled.
+
+[MANDATORY]
+An assignment must name what the person will deliver.
+
+============================================================
+3. PROHIBITED PATTERN
+============================================================
+
+The following order is not permitted:
+
+  PERSON
+     ->
+  "Find something for them to do"
+
+[MANDATORY]
+North Assembly must not create artificial work in order to justify
+a Developer, Designer, or other position.
+
+[MANDATORY]
+North Assembly must not assign a person to a role that has no
+identified work behind it.
+
+[MANDATORY]
+A role must not be kept open as decoration. If no work justifies
+it, it stays VACANT in NA-COR-002 with the reason recorded.
+
+============================================================
+4. DELEGATION AND SUITABILITY
+============================================================
+
+Not every project can be handed to a new person.
+
+[MANDATORY]
+Projects involving architecture, core engineering, internal
+infrastructure, systems programming, internal tooling,
+organization-specific knowledge, or highly specialized technical
+decisions must be assessed as non-delegable or limited-delegable
+before recruitment is considered on their basis.
+
+[MANDATORY]
+The delegation level recorded in the project registry is the
+input to this assessment. Recruitment must not assume a project
+is delegable when its registry entry says otherwise.
+
+[RECOMMENDED]
+Where design work is currently limited, that fact should be
+recorded rather than solved by creating a position.
+
+============================================================
+5. WHEN A ROLE IS VACANT
+============================================================
+
+A vacant role is a normal state.
+
+[MANDATORY]
+Vacancies are recorded in NA-COR-002 with the reason they are
+unfilled.
+
+[MANDATORY]
+A vacant role grants no access, no authority, and no ability to
+act for North Assembly.
+
+[MANDATORY]
+Vacancies must not be described as organizational failure in any
+document or public communication.
+
+============================================================
+6. WHEN A ROLE IS FILLED
+============================================================
+
+[MANDATORY]
+A person must have an identified function, responsibility, or
+justified operational need before receiving access to internal
+resources.
+
+[MANDATORY]
+Responsibilities must be communicated clearly to the person
+filling the role.
+
+[MANDATORY]
+Access must be granted according to the actual role and need,
+never by default.
+
+[RECOMMENDED]
+New members should be introduced to the tools, responsibilities,
+communication channels, and rules relevant to their work.
+
+============================================================
+7. TERMINOLOGY
+============================================================
+
+The following words are not synonyms and must not be used
+interchangeably:
+
+  employee        person with an employment relationship
+  collaborator    person contributing without that relationship
+  volunteer       person contributing without expectation of pay
+  contractor      person engaged under a service contract
+  supplier        external provider of goods or services
+  partner         party in a defined cooperation arrangement
+  community member person present in a communication channel
+  administrator  person holding access rights
+  role holder     person recorded in NA-COR-002
+
+[MANDATORY]
+Where the exact relationship is unknown, use the neutral term
+"collaborator" or "member of the project".
+
+[MANDATORY]
+An internal role title must never be presented as a legal or
+corporate office.
+
+============================================================
+8. DEPARTURES
+============================================================
+
+[MANDATORY]
+When a person leaves a role or leaves North Assembly, applicable
+access must be revoked.
+
+[MANDATORY]
+When a role becomes vacant, its holder field in NA-COR-002 must
+be updated in the same change cycle.
+
+[RECOMMENDED]
+Important work should be documented well enough for
+responsibilities to be transferred.
+
+============================================================
+DOCUMENT CONTROL
+============================================================
+
+Document: NORTH ASSEMBLY — RECRUITMENT AND ROLES
+ID: NA-COR-004
+Version: 1.0
+Status: ACTIVE
+Classification: INTERNAL
+Owner: North Assembly
+Created: October 1, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+
+END OF DOCUMENT

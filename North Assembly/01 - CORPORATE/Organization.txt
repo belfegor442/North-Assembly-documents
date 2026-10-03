@@ -1,19 +1,41 @@
 NORTH ASSEMBLY
 ORGANIZATION
 
-Version: 1.1
-Status: IN FORCE
-Effective Date: September 12, 2026
-Owner: North Assembly
+DOCUMENT ID: NA-COR-002
+Version: 2.0
+Status: ACTIVE
 Classification: INTERNAL
+Completeness: PENDING ITEMS (4)
+Legal Review: NOT REQUIRED
+Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: Organization v1.1 (September 12, 2026)
+Superseded By: —
+Related: NA-COR-001, NA-COR-003, NA-COR-004, ADR-0002
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-This document records how North Assembly is currently organized, who holds each formal role, and how responsibilities change when the organization changes.
+This document records how North Assembly is currently organized,
+who holds each role, which roles are vacant, and how assignments
+change.
 
-It is intended to provide a clear operational reference. It does not contain private personnel information.
+It is the single source of truth for people and roles. No other
+document may enumerate personnel. Other documents reference this
+one.
+
+It contains operational role information only. It contains no
+private personnel data: no contact details, no employment or
+contract records, no performance or disciplinary information, and
+no record about anyone who is not a current member.
+
+[MANDATORY]
+Statements about work, output or conduct must not be attributed to
+an identifiable individual anywhere in this repository. Former
+members are referenced by role only (ADR-0007).
 
 ============================================================
 2. AUTHORITY STRUCTURE
@@ -25,45 +47,92 @@ CEO
 |
 +-- Manager
 |
-+-- Specialized Teams
++-- Project roles (assigned per project, not per person)
 
-The structure above describes the current chain of internal authority. Individual projects may use different working arrangements without changing the formal authority structure unless those changes are officially assigned.
+The structure above is the internal chain of authority. Individual
+projects may use different working arrangements without changing
+the formal structure unless those arrangements are formally
+assigned.
 
 [MANDATORY]
-Authority exists only within the role formally assigned to a person.
+Authority exists only within the role formally assigned to a
+person.
 
 [MANDATORY]
-Delegating a task or responsibility does not automatically transfer the delegator's overall authority to the person receiving it.
+Delegating a task or responsibility does not transfer the
+delegator's overall authority to the person receiving it.
+
+[MANDATORY]
+An internal role is an operational label. It does not imply a
+registered corporate office, a legal representative status, or
+any employment or commercial relationship under applicable law.
 
 ============================================================
 3. CURRENT ASSIGNMENTS
 ============================================================
 
-belfegor442
-Role: CEO
+  ROLE        HOLDER            STATE
+  ----------  ----------------  --------
+  CEO         belfegor442       FILLED
+  Director    Anti              FILLED
+  Manager     Doughtking12      FILLED
+  Developer   —                 VACANT
+  Designer    —                 VACANT
 
-Anti
-Role: Director
+Manager note: Doughtking12 was assigned to the Manager role during
+the October 2026 organizational reform, replacing the previous
+holder. See ADR-0002.
 
-Acrid
-Role: Manager
+[MANDATORY]
+A person may exercise authority associated with a role only while
+that role is actually assigned to them.
 
-Xtccy
-Role: Graphic Designer
+[MANDATORY]
+No one may present themselves as holding authority they have not
+been granted.
 
-Terrorendi
-Role: Graphic Designer
-
-Aneley_567
-Role: Tester
-
-These assignments represent the current internal organization. If an assignment changes, this record should be updated so that the documentation does not describe an older organizational state.
+[MANDATORY]
+This record must be updated when an assignment changes, so that
+the documentation does not describe an older organizational state.
 
 ============================================================
-4. TEAMS
+4. VACANT POSITIONS
 ============================================================
 
-North Assembly may organize work into specialized functions such as:
+A vacant position is a deliberate state, not a defect.
+
+[MANDATORY]
+A position exists because identified work requires it. It does
+not exist to complete an organizational chart.
+
+[MANDATORY]
+A vacant position must be recorded with its state and the reason
+it is unfilled, never silently omitted.
+
+Current vacancies:
+
+  Developer — VACANT
+  Filled: no
+  Reason: no currently identified project work meets the criteria
+          in NA-COR-004 for creating this position.
+
+  Designer — VACANT
+  Filled: no
+  Reason: no currently identified design work meets the criteria
+          in NA-COR-004 for creating this position.
+
+[MANDATORY]
+A vacancy must not be described as an organizational failure.
+
+[MANDATORY]
+A vacant position grants no access, no authority, and no
+representation right to anyone.
+
+============================================================
+5. TEAMS AND FUNCTIONS
+============================================================
+
+North Assembly may organize work into functions such as:
 
 * Development
 * Design
@@ -71,29 +140,82 @@ North Assembly may organize work into specialized functions such as:
 * Product
 * Infrastructure
 * Security
+* Documentation
 
-The list is not intended to prevent the company from creating other functions when they become useful. Team composition may change as projects and responsibilities change.
-
-============================================================
-5. ROLE CHANGES
-============================================================
-
-Organizational changes should leave a clear record of who is responsible for what. This is particularly important when a role change also changes access to repositories, systems, projects, or internal information.
+These are functions, not titles. A function may be performed by
+the same person holding another role.
 
 [MANDATORY]
-Promotions, demotions, transfers, suspensions, and removals must be authorized by the appropriate authority.
-
-[MANDATORY]
-Access permissions must reflect the person's current role and actual operational need.
-
-[MANDATORY]
-When a role changes, obsolete permissions must be reviewed and removed.
+A function name must not be recorded as a person's role unless
+the assignment has actually been made.
 
 ============================================================
-6. ORGANIZATIONAL RECORD
+6. PROJECT ROLES
 ============================================================
 
-This document records the organizational model rather than private personnel details. Private employment, contractor, contact, or other sensitive records should be maintained separately where required.
+Projects may need owners beyond the corporate chain. Project
+ownership is recorded in the project registry
+(03 - PRODUCTS/README.txt), not here.
+
+[MANDATORY]
+Project ownership is assigned per project and does not change the
+corporate authority structure.
+
+[MANDATORY]
+Some projects — architecture, core engineering, internal
+infrastructure, systems programming, organization-specific
+tooling — are not automatically suitable for delegation. Their
+delegation level is recorded in the registry.
+
+============================================================
+7. ROLE CHANGES
+============================================================
+
+Organizational changes must leave a clear record of who is
+responsible for what. This matters most when a role change also
+changes access to repositories, systems, projects, or internal
+information.
+
+[MANDATORY]
+Assignments, removals, suspensions, and transfers must be
+authorized by the appropriate authority.
+
+[MANDATORY]
+Access permissions must reflect the person's current role and
+actual operational need.
+
+[MANDATORY]
+When a role changes, obsolete permissions must be reviewed and
+removed.
+
+[MANDATORY]
+When a role becomes vacant, the associated access must be
+reviewed and removed until the role is filled again.
+
+============================================================
+8. SINGLE SOURCE OF TRUTH
+============================================================
+
+[MANDATORY]
+This document is the only place where the list of holders and
+vacancies is recorded.
+
+[MANDATORY]
+The Manual Corporativo (NA-COR-003) must reference this document
+rather than restating the roster.
+
+[MANDATORY]
+Public material must not contradict this document. When this
+document changes, public people/role pages must be updated in the
+same change cycle.
+
+============================================================
+9. RECORDS KEPT ELSEWHERE
+============================================================
+
+This document records the organizational model, not private
+personnel detail. The following are maintained separately and are
+not part of this repository:
 
 [PENDING]
 Formal employment or contractor records.
@@ -104,6 +226,39 @@ Formal succession procedures.
 [PENDING]
 Formal delegation register.
 
+[PENDING]
+Private contact information for any holder.
+
+[MANDATORY]
+None of the pending items above may be added to this public
+repository.
+
 ============================================================
+DOCUMENT CONTROL
+============================================================
+
+Document: NORTH ASSEMBLY — ORGANIZATION
+ID: NA-COR-002
+Version: 2.0
+Status: ACTIVE
+Classification: INTERNAL
+Owner: North Assembly
+Created: September 12, 2026
+Last Modified: October 1, 2026
+Review Date: April 1, 2027
+Supersedes: v1.1 (September 12, 2026)
+
+CHANGE HISTORY
+
+2.0  October 1, 2026
+     Recorded the October 2026 organizational reform: Manager
+     reassigned to Doughtking12; Developer and Designer recorded
+     as intentionally vacant. Added the vacancy doctrine, project
+     roles, the single-source-of-truth rule, and the internal-role
+     disclaimer. Removed the previous roster, which is preserved
+     in 08 - ARCHIVE/Superseded/Corporate v1.1.
+
+1.1  September 12, 2026
+     Previous assignments (superseded).
+
 END OF DOCUMENT
-============================================================
