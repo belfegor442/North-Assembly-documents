@@ -83,3 +83,40 @@ USE THIS SECTION FOR
 - Support and commercial conditions, once defined.
 
 END OF DOCUMENT
+
+
+============================================================
+LEGAL GOVERNANCE SYSTEM — ADDED OCTOBER 3, 2026
+============================================================
+
+The legal section is now governed by the following controlled framework:
+
+NA-LGL-010  Legal Governance System
+NA-LGL-011  Legal Risk Register
+NA-LGL-012  IP Register
+NA-LGL-013  Contributor and IP Assignment Standard
+NA-LGL-014  Processor Register
+NA-LGL-015  Contract Register
+NA-LGL-016  Dispute and Escalation Procedure
+NA-LGL-017  Exit, Removal and Succession Standard
+NA-LGL-018  Product Legal Launch Gate
+NA-LGL-019  Legal Publication Control
+
+The Corporate section additionally contains:
+
+NA-COR-011    Legal and Governance Register Index
+NA-COR-011-A  Entity Register
+NA-COR-011-B  Asset Register
+NA-COR-011-C  Role Authority Matrix
+NA-OPS-001    Access and Asset Recovery
+
+[MANDATORY]
+Undefined ownership, authority, responsibility, succession, or dispute resolution is treated as an unresolved governance gap.
+
+[MANDATORY]
+Critical or BLOCKER risks prevent the affected public/commercial action until resolved or formally cleared.
+
+[MANDATORY]
+These new controls supplement existing legal documents; they do not make any existing DRAFT legal document effective.
+
+END OF ADDENDUM
